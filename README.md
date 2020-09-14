@@ -37,9 +37,9 @@ Characters can have up to four **special moves** that their character can make t
 
 | Class | L/1 | L/2 | L/3 | L/4 |
 |:---:|:---:|:---:|:---:|:---:|
-| Warrior | `1.5x Damage` to target | Redirect Damage | `+1 STR` or `+1 CON` to self | `+2 STR` or `+2 CON` to self |
-| Rogue | Perform Skill | `1.5x Damage` to target | `+1 DEX` or `+1 CHA` to self | `+2 DEX` or `+2 CHA` to self |
-| Cleric | Heal `1.5x Damage`<br/> to self or target | `+1 stat` to self or target | `+2 stat` to self or target | Give `advantage` to self or target |
+| Warrior | `1.5x Damage` to target | Redirect Damage | `+1 STR/CON` to self | `+2 STR/CON` to self |
+| Rogue | Perform Skill | `1.5x Damage` to target | `+1 DEX/CHA` to self | `+2 DEX/CHA` to self |
+| Cleric | Heal `1.5x Damage` to self or target | `+1 stat` to self or target | `+2 stat` to self or target | Give `advantage` to self or target |
 | Wizard | `-1 stat` to target | `1.5x Damage` to target | `-2 stat` to target | Impose `disadvantage` on target |
 
 ### Items and Inventory
