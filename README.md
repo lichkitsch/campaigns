@@ -39,8 +39,8 @@ Characters can have up to four **special moves** that their character can make t
 |:---:|:---:|:---:|:---:|:---:|
 | Warrior | `1.5x Damage` to target | Redirect Damage | `+1 STR` or `+1 CON` to self | `+2 STR` or `+2 CON` to self |
 | Rogue | Perform Skill | `1.5x Damage` to target | `+1 DEX` or `+1 CHA` to self | `+2 DEX` or `+2 CHA` to self |
-| Cleric | Heal `1.5x Damage`<br/> to self or target | `+1 stat` to self or target | `+2 stat` to self or target | Give `advantage` |
-| Wizard | `-1 stat` to target | `1.5x Damage` to target | `-2 stat` to target | Impose `disadvantage` |
+| Cleric | Heal `1.5x Damage`<br/> to self or target | `+1 stat` to self or target | `+2 stat` to self or target | Give `advantage` to self or target |
+| Wizard | `-1 stat` to target | `1.5x Damage` to target | `-2 stat` to target | Impose `disadvantage` on target |
 
 ### Items and Inventory
 Characters can carry `10+STR` objects in their inventory. **Items** range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
