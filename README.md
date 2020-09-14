@@ -25,7 +25,7 @@ Sentient creatures in dnduet have six stats which are added to action rolls:
 | Wisdom | `WIS` | Intuition, perception, ranged |
 | Charisma | `CHA` | Personality, persuasion, deceit |
 
-*When creating a character, roll `1d4-2` for each stat and set their L1 starting HP to `10+CON`.
+*When creating a character, roll `1d4-2` for each stat and set their LV1 starting HP to `10+CON`.
 
 ### Heart Points
 **Heart points (HP)** represent the physical, mental, and/or emotional integrity of a creature, object, or task. If an action meant to affect a target's HP is successful, the subject rolls their level-specific **damage dice** and adds or subtracts the result from the target's current HP. When a target's HP reaches zero, their part in the conflict or encounter is over. HP is not only used for combat; many encounters use HP as a record of progress towards a goal. Convincing a judge of your innocence, interrogating a criminal, and even acting out a sexual encounter (if that's your thing) can all use the turn-based mechanics of increasing and decreasing the HP between two or more parties.
@@ -35,7 +35,7 @@ However, if a player is entangled in an encounter with an enemy and their HP rea
 ### Moves
 Characters can have up to four **special moves** that their character can make thanks to their physiology, history, profession, etc. These moves have a limited amount of uses per long rest; the more powerful the move, the less uses you have. If you're having trouble coming up with moves for your character, use the following base classes as a guide:
 
-| Class | L/1 | L/2 | L/3 | L/4 |
+| Class | LV/1 uses | LV/2 uses | LV/3 uses | LV/4 uses |
 |:---:|:---:|:---:|:---:|:---:|
 | Warrior | `1.5x Damage` to target | Redirect Damage | `+1 STR/CON` to self | `+2 STR/CON` to self |
 | Rogue | Perform Skill | `1.5x Damage` to target | `+1 DEX/CHA` to self | `+2 DEX/CHA` to self |
