@@ -82,8 +82,8 @@ Check out dnduet.com for more!
 # Game Master Guide
 The game master is responsible for all of the non-player characters (NPCs) in the campaign and giving the player options to move the story forward. They design and populate the world in which the characters live and act, throwing obstacles between the player and their goals.
 
-## Setting the Air of Fate
-The Air of Fate signifies the level of challenge the characters are facing. Typically 10 is a neutral and effective challenge, but the Air of Fate can change (8, 12, etc.) depending on the situation. Keep the level of challenge reasonable and remember that you can also make some actions easy (AoF-3) or  hard (AoF+3) to keep the game from becoming unfair.
+## Setting the _Air of Fate_
+The _Air of Fate_ signifies the level of challenge the characters are facing. Typically 10 is a neutral and effective challenge, but the _Air of Fate_ can change (8, 12, etc.) depending on the situation. Keep the level of challenge reasonable and remember that you can also make some actions **easy (AoF-3)** or  **hard (AoF+3)** to keep the game from becoming unfair.
 
 ## Enemy Generator
 | LV | Max HP | Damage |
