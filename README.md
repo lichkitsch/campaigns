@@ -4,36 +4,40 @@ DNDUET Campaign Tables and Notes
 ## dnduet Core System
 dnduet is a system for building and playing custom tabletop RPGs. A game master (GM) controls the world in which the player character (PC) exists. The player makes decisions for their character and rolls dice to determine outcomes of uncertain actions and move the narrative forward.
 
-### Actions
-Players roll `1d20+stat` to find the result of actions with uncertain outcomes. If the action involves another creature, the result is checked against the other creature's own `1d20+stat` roll in a contest. If not, the result is checked against the _Air of Fate_, a target number representing the difficulty of the area or task at hand. Outcomes are as follows:
-
-| Result | Outcome |
-|:---:|:---:|
-| > Target | Positive |
-| = Target | Mixed |
-| < Target | Negative |
-
-### Stats
-Sentient creatures in dnduet have six stats which are added to action rolls:
+### Character Creation
+Roll `1d4-2` for each of the stats below. You may rearrange the results.
 
 | Stat | Abbr. | Uses |
 |:---:|:---:|:--- |
-| Strength | `STR` | Athletics, power, melee |
+| Strength | `STR` | Athletics, power, melee attacks |
 | Dexterity | `DEX` | Acrobatics, stealth, finesse |
 | Constitution | `CON` | Endurance, stamina, health |
 | Intelligence | `INT` | Memory, logic, strategy |
-| Wisdom | `WIS` | Intuition, perception, ranged |
+| Wisdom | `WIS` | Intuition, perception, ranged attacks |
 | Charisma | `CHA` | Personality, persuasion, deceit |
 
-*When creating a character, roll `1d4-2` for each stat and set their LV1 starting HP to `10+CON`.
+Once you have 6 starting stats come up with a personality, background, and desire, then briefly describe your character's appearance.
+
+### Actions
+If the outcome of a character’s action is uncertain, make an **action roll** by rolling `1d20`, adding a relevant stat modifier, and checking the result against the _Air of Fate_. The _Air of Fate_ is a number that represents the current level of challenge. Outcomes of action rolls are as follows:
+
+| Result | Outcome |
+|:---:|:---:|
+| Result > AoF | Positive Outcome |
+| Result = AoF | Mixed Outcome |
+| Result < AoF | Negative Outcome |
+
+Many targets can roll an opposing action (dodge, counter, etc.), and replace the _Air of Fate_ with their own roll. This is called a **contest**.
 
 ### Heart Points
-**Heart points (HP)** represent the physical, mental, and/or emotional integrity of a creature, object, or task. If an action meant to affect a target's HP is successful, the subject rolls their level-specific **damage dice** and adds or subtracts the result from the target's current HP. When a target's HP reaches zero, their part in the conflict or encounter is over. HP is not only used for combat; many encounters use HP as a record of progress towards a goal. Convincing a judge of your innocence, interrogating a criminal, and even acting out a sexual encounter (if that's your thing) can all use the turn-based mechanics of increasing and decreasing the HP between two or more parties.
+Your character starts out with `10+CON` **heart points (HP)** at level 1. Creatures, objects, and tasks can all have HP which represents the effort required to overcome them. On a successful action roll against a target with HP, roll your level-specific **damage dice** and reduce the target's HP by the result. Damage dice are also used to replenish HP during a short rest (<8 hours). A long rest (8+ hours) restores your HP fully.
 
-However, if a player is entangled in an encounter with an enemy and their HP reaches zero, the player suffers a major setback such as imprisonment, dismemberment, or even death (if it works for the story and for everyone involved). You can recover lost HP with your damage dice after a resting for a few hours in a safe place and recover up to your max HP on a long rest (8+ hours).
+If the player's HP reaches zero, they suffer a major narrative setback such as imprisonment, dismemberment, or even death.
 
 ### Moves
-Characters can have up to four **special moves** that their character can make thanks to their physiology, history, profession, etc. These moves have a limited amount of uses per long rest; the more powerful the move, the less uses you have. If you're having trouble coming up with moves for your character, use the following base classes as a guide:
+Creatures and characters start with 1 **move** and can have up to 4 at a time. Moves are special actions that your character can make using their specific talents, abilities, or physical features. Moves may also be based on your character's background or profession. Each move has a limited number of uses (per long rest) based on your level.
+
+Moves can do extra damage, add 1 or 2 points to a stat for a turn, impose advantage or disadvantage to a roll, or result in a progression of the narrative. If you're having trouble coming up with moves for your character, use the following base classes as a guide:
 
 | Class | LV/1 uses | LV/2 uses | LV/3 uses | LV/4 uses |
 |:---:|:---:|:---:|:---:|:---:|
@@ -43,7 +47,9 @@ Characters can have up to four **special moves** that their character can make t
 | Wizard | `-1 stat` to target | `1.5x Damage` to target | `-2 stat` to target | Impose `disadvantage` on target |
 
 ### Items and Inventory
-Characters can carry `10+STR` objects in their inventory. **Items** range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
+**Items** work in a similar way to moves; they might be required for certain moves or only have a limited number of uses. They might also come with downsides, such as curses, side effects, or bounties. Characters can carry `10+STR` items at one time.
+
+Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
 
 | Rank | Type | Effect |
 |:---:|:---:|:--- |
@@ -55,7 +61,7 @@ Characters can carry `10+STR` objects in their inventory. **Items** range from r
 | F | Cursed | Disadvantage on some rolls |
 
 ### Leveling Up
-When the PC has earned it and the GM approves, the character can move up a level:
+After reaching significant milestones, The GM can grant players a level up to improve their character by increasing their max HP, upgrading their damage dice, adding a point to a stat (no more than 5 points per stat), and either learning new moves or swapping old moves for new ones. When increasing HP you can choose to reroll `CON` dice.
 
 | LV | Max HP | Damage |
 |:---:|:---:|:---:|
@@ -71,8 +77,6 @@ When the PC has earned it and the GM approves, the character can move up a level
 | 10 | +`3d12` | `3d12` |
 | 11 | +`3d12` | `4d10` |
 | 12 | +`5d10` | `4d12` |
-
-*Reroll `CON` dice when leveling up Max HP.
 
 Get creative with character creation, systems for magic or other special skills, setting, themes, etc. This system was built for maximum flexibility.
 
