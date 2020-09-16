@@ -72,7 +72,7 @@ When the PC has earned it and the GM approves, the character can move up a level
 | 11 | +`3d12` | `4d10` |
 | 12 | +`5d10` | `4d12` |
 
-*Reroll CON dice when leveling up Max HP.
+*Reroll `CON` dice when leveling up Max HP.
 
 Get creative with character creation, systems for magic or other special skills, setting, themes, etc. This system was built for maximum flexibility.
 
