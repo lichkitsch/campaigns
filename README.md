@@ -60,6 +60,11 @@ Items range from rank F to rank S and can have an effect on stats, action rolls,
 ## Leveling Up
 After reaching significant milestones, The GM can grant players a level up to improve their character by increasing their max HP, upgrading their damage dice, adding a point to a stat (no more than 5 points per stat), and either learning new moves or swapping old moves for new ones. When increasing HP you can choose to reroll `CON` dice.
 
+|  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Max HP** | `10+CON` | +`2d4` | +`2d4` | +`2d4` | +`3d6` | +`3d6` | +`3d6` | +`3d6` | +`3d12` | +`3d12` | +`3d12` | +`5d10` |
+| **Damage** | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
+
 | LV | Max HP | Damage |
 |:---:|:---:|:---:|
 | 1 | `10+CON` | `1d4` |
