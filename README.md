@@ -36,12 +36,12 @@ Creatures and characters start with 1 **move** and can have up to 4 at a time. M
 
 Moves can do extra damage, add 1 or 2 points to a stat for a turn, impose advantage or disadvantage to a roll, or result in a progression of the narrative. If you're having trouble coming up with moves for your character, use the following base classes as a guide:
 
-| Class | LV/1 uses | LV/2 uses | LV/3 uses | LV/4 uses |
+| Uses | Warrior | Rogue | Cleric | Wizard |
 |:---:|:---:|:---:|:---:|:---:|
-| Warrior | `1.5x Damage` to target | Redirect Damage | `+1 STR/CON` to self | `+2 STR/CON` to self |
-| Rogue | Perform Skill | `1.5x Damage` to target | `+1 DEX/CHA` to self | `+2 DEX/CHA` to self |
-| Cleric | Heal `1.5x Damage` to self or target | `+1 stat` to self or target | `+2 stat` to self or target | Give `advantage` to self or target |
-| Wizard | `-1 stat` to target | `1.5x Damage` to target | `-2 stat` to target | Impose `disadvantage` on target |
+| LV/1 | `1.5x Damage` to target | Perform Skill | Heal `1.5x Damage` to self or target | `-1 stat` to target |
+| LV/2 | Redirect Damage | `1.5x Damage` to target | `+1 stat` to self or target | `1.5x Damage` to target |
+| LV/3 | `+1 STR/CON` to self | `+1 DEX/CHA` to self | `+2 stat` to self or target | `-2 stat` to target |
+| LV/4 | `+2 STR/CON` to self | `+2 DEX/CHA` to self | Give `advantage` to self or target | Impose `disadvantage` on target |
 
 ## Items and Inventory
 **Items** work in a similar way to moves; they might be required for certain moves or only have a limited number of uses. They might also come with downsides, such as curses, side effects, or bounties. Characters can carry `10+STR` items at one time.
