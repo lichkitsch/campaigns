@@ -9,9 +9,9 @@ Moving from place to place is rarely uneventful! Plan for travel by having your 
 
 | Result | Outcome |
 |:---:|:--- |
-| 8-10 | Easy breezy: moment of joy, comfortable weather, possibility for treasure or secrets |
-| 5-7 | Typical travels: pay a toll for safe passage, followed by animals looking for food, etc. |
-| 2-4 | Tough times: broken gear, twisted ankles, bandits and kobolds and bears, oh my! |
+| 8-10 | **Easy breezy** - moment of joy, comfortable weather, possibility for treasure or secrets |
+| 5-7 | **Typical travels** - pay a toll for safe passage, followed by animals looking for food, etc. |
+| 2-4 | **Tough times** - broken gear, twisted ankles, bandits and kobolds and bears, oh my! |
 
 Tailor the possible results to your setting and save the unused results for another time. Travel rolls will depend on the range of your campaign; it could be walking between several city blocks, crossing a river, or navigating an entire forest.
 
@@ -32,12 +32,12 @@ Whether or not you're including the "behind the black" rules for sex in your cam
 
 If a character has come under risk of pregnancy, roll `1d20`:
 
-- If you roll a 20, you're pregnant!
-- If you roll a 19 and your character is 20-40 years old, you're pregnant!
-- If you roll an 18 and your character is 20-30, you're pregnant!
-- If you roll a 17 and your character is 20-25 years old, you're pregnant!
-- If you roll between 2 and 16, your character is not pregnant.
-- If you roll a 1, you're sterile and will require magical, scientific, or divine intervention to become pregnant.
+- If you roll a **20**, you're pregnant!
+- If you roll a **19** and your character is 20-40 years old, you're pregnant!
+- If you roll an **18** and your character is 20-30, you're pregnant!
+- If you roll a **17** and your character is 20-25 years old, you're pregnant!
+- If you roll between **2** and **16**, your character is not pregnant.
+- If you roll a **1**, your character is sterile and will require magical, scientific, or divine intervention to become pregnant.
 
 ### Contraceptives
 If your character specifically uses contraceptives, roll an extra `1d20` for each method of contraception used and use the lowest roll result.
