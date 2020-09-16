@@ -16,7 +16,17 @@ Moving from place to place is rarely uneventful! Plan for travel by having your 
 Tailor the possible results to your setting and save the unused results for another time. Travel rolls will depend on the range of your campaign; it could be walking between several city blocks, crossing a river, or navigating an entire forest.
 
 ## Magical Systems
-If you're planning on building a game with magic, spend some time deciding the rules of magic in your setting. Where does the energy for magic come from? How is it channeled? What does it cost to use magic? Who can use magic, either practically or legally? How has magic affected society? The environment? Are there classes of magic or is it vague and open-ended? How does one learn magic? Answering some basic questions will save you a lot of time later on and can help when building up your setting.
+If you're planning on building a game with magic, spend some time deciding the rules of magic in your setting. 
+
+- Where does the energy for magic come from?
+- How is it channeled?
+- What does it cost to use magic?
+- Who can use magic, either practically or legally?
+- How has magic affected society? The environment?
+- Are there classes of magic or is it vague and open-ended?
+- How does one learn magic? 
+
+Answering some basic questions will save you a lot of time later on and can help when building up your setting.
 
 ## Sex
 While not all players of _dnduet_ will be comfortable including the following rules in their game, it can be a healthy and fulfilling way to experience sexual fantasies in a safe setting. Should you and your players agree to include sex in your game, there are a number of options for including it:
