@@ -9,9 +9,9 @@ Moving from place to place is rarely uneventful! Plan for travel by having your 
 
 | Result | Outcome |
 |:---:|:--- |
-| 8-10 | **Easy breezy** - moment of joy, comfortable weather, possibility for treasure or secrets |
-| 5-7 | **Typical travels** - pay a toll for safe passage, followed by animals looking for food, etc. |
-| 2-4 | **Tough times** - broken gear, twisted ankles, bandits and kobolds and bears, oh my! |
+| 8, 9, 10 | **Easy breezy** - moment of joy, comfortable weather, possibility for treasure or secrets |
+| 5, 6, 7 | **Typical travels** - pay a toll for safe passage, followed by animals looking for food, etc. |
+| 2, 3, 4 | **Tough times** - broken gear, twisted ankles, bandits and kobolds and bears, oh my! |
 
 Tailor the possible results to your setting and save the unused results for another time. Travel rolls will depend on the range of your campaign; it could be walking between several city blocks, crossing a river, or navigating an entire forest.
 
