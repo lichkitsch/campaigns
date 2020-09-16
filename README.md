@@ -1,6 +1,3 @@
-# campaigns
-DNDUET Campaign Tables and Notes
-
 ## dnduet Core System
 dnduet is a system for building and playing custom tabletop RPGs. A game master (GM) controls the world in which the player character (PC) exists. The player makes decisions for their character and rolls dice to determine outcomes of uncertain actions and move the narrative forward.
 
