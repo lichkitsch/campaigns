@@ -8,7 +8,13 @@ The _dnduet_ system isn't just flexible, it's also extensible. There are many po
 
 
 ## Sex
-While not all players of _dnduet_ will be comfortable including the following rules in their game, it can be a healthy and fulfilling way to experience sexual fantasies in a safe setting. 
+While not all players of _dnduet_ will be comfortable including the following rules in their game, it can be a healthy and fulfilling way to experience sexual fantasies in a safe setting. Should you and your players agree to include sex in your game, there are a number of options for including it:
+
+- Simply skip past the action and make a `CHA` action roll to see how well you "preformed" with your chosen partner(s).
+- Give a little detail, roll `CHA` for performance a few times and `CON` to see how rested you are afterwards.
+- Go all out; take turns rolling "damage" against each other's HP with each action to get each other to orgasm and roll `CON` for a chance of getting half your HP back for a quick second round.
+
+Know the comfort level and **specific** boundaries of your player(s) and be honest with each other about what you're willing and not willing to roleplay. Be especially careful about controversial fetishes, and consider staying away from harmful sexual practices; this is supposed to be fun, not a tool for normalizing abuse.
 
 ## Pregnancy
 Whether or not you're including the "behind the black" rules for sex in your campaign, you might find it interesting to include mechanics around the possibility of your characters becoming pregnant. This might not work for you, depending on the setting you're going for, but interesting stories can arise from the sudden life-changing event of creating a new person. These rules can also be tweaked for darker purposes, i.e. parasitic alien implantation or prolonged possession.
