@@ -4,6 +4,17 @@ The _dnduet_ system isn't just flexible, it's also extensible. There are many po
 ## Index
 
 
+## Travel
+Moving from place to place is rarely uneventful! Plan for travel by having your player roll `1d4+1d6` and using the following table:
+
+| Result | Outcome |
+|:---:|:--- |
+| 8-10 | Easy breezy: moment of joy, comfortable weather, possibility for treasure or secrets |
+| 5-7 | Typical travels: pay a toll for safe passage, followed by animals looking for food, etc. |
+| 2-4 | Tough times: broken gear, twisted ankles, bandits and kobolds and bears, oh my! |
+
+Tailor the possible results to your setting and save the unused results for another time. Travel rolls will depend on the range of your campaign; it could be walking between several city blocks, crossing a river, or navigating an entire forest.
+
 ## Magical Systems
 If you're planning on building a game with magic, spend some time deciding the rules of magic in your setting. Where does the energy for magic come from? How is it channeled? What does it cost to use magic? Who can use magic, either practically or legally? How has magic affected society? The environment? Are there classes of magic or is it vague and open-ended? How does one learn magic? Answering some basic questions will save you a lot of time later on and can help when building up your setting.
 
