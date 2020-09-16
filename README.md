@@ -38,10 +38,10 @@ Moves can do extra damage, add 1 or 2 points to a stat for a turn, impose advant
 
 | Uses | Warrior | Rogue | Cleric | Wizard |
 |:---:|:---:|:---:|:---:|:---:|
-| LV/1 | `1.5x Damage` to target | Perform Skill | Heal `1.5x Damage` to self or target | `-1 stat` to target |
-| LV/2 | Redirect Damage | `1.5x Damage` to target | `+1 stat` to self or target | `1.5x Damage` to target |
-| LV/3 | `+1 STR/CON` to self | `+1 DEX/CHA` to self | `+2 stat` to self or target | `-2 stat` to target |
-| LV/4 | `+2 STR/CON` to self | `+2 DEX/CHA` to self | Give `advantage` to self or target | Impose `disadvantage` on target |
+| **LV/1** | `1.5x Damage` to target | Perform Skill | Heal `1.5x Damage` to self or target | `-1 stat` to target |
+| **LV/2** | Redirect Damage | `1.5x Damage` to target | `+1 stat` to self or target | `1.5x Damage` to target |
+| **LV/3** | `+1 STR/CON` to self | `+1 DEX/CHA` to self | `+2 stat` to self or target | `-2 stat` to target |
+| **LV/4** | `+2 STR/CON` to self | `+2 DEX/CHA` to self | Give `advantage` to self or target | Impose `disadvantage` on target |
 
 ## Items and Inventory
 **Items** work in a similar way to moves; they might be required for certain moves or only have a limited number of uses. They might also come with downsides, such as curses, side effects, or bounties. Characters can carry `10+STR` items at one time.
