@@ -65,21 +65,6 @@ After reaching significant milestones, The GM can grant players a level up to im
 | **Max HP** | `10+CON` | +`2d4` | +`2d4` | +`2d4` | +`3d6` | +`3d6` | +`3d6` | +`3d6` | +`3d12` | +`3d12` | +`3d12` | +`5d10` |
 | **Damage** | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
-| LV | Max HP | Damage |
-|:---:|:---:|:---:|
-| 1 | `10+CON` | `1d4` |
-| 2 | +`2d4` | `1d6` |
-| 3 | +`2d4` | `1d8` |
-| 4 | +`2d4` | `1d10` |
-| 5 | +`3d6` | `2d6` |
-| 6 | +`3d6` | `2d8` |
-| 7 | +`3d6` | `2d10` |
-| 8 | +`3d6` | `2d12` |
-| 9 | +`3d12` | `3d10` |
-| 10 | +`3d12` | `3d12` |
-| 11 | +`3d12` | `4d10` |
-| 12 | +`5d10` | `4d12` |
-
 Get creative with character creation, systems for magic or other special skills, setting, themes, etc. This system was built for maximum flexibility.
 
 Check out dnduet.com for more!
@@ -91,17 +76,7 @@ The game master is responsible for all of the non-player characters (NPCs) in th
 The _Air of Fate_ signifies the level of challenge the characters are facing. Typically 10 is a neutral and effective challenge, but the _Air of Fate_ can change (8, 12, etc.) depending on the situation. Keep the level of challenge reasonable and remember that you can also make some actions **easy (AoF-3)** or  **hard (AoF+3)** to keep the game from becoming unfair.
 
 ## Enemy Generator
-| LV | Max HP | Damage |
-|:---:|:---:|:---:|
-| 1 | `2d4` | `1d4` |
-| 2 | `3d6` | `1d6` |
-| 3 | `3d10` | `1d8` |
-| 4 | `6d6` | `1d10` |
-| 5 | `5d10` | `2d6` |
-| 6 | `8d8` | `2d8` |
-| 7 | `7d12` | `2d10` |
-| 8 | `10d10` | `2d12` |
-| 9 | `10d12` | `3d10` |
-| 10 | `15d10` | `3d12` |
-| 11 | `15d12` | `4d10` |
-| 12 | `20d12` | `4d12` |
+|  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Max HP** | `2d4` | `3d6` | `3d10` | `6d6` | `5d10` | `8d8` | `7d12` | `10d10` | `10d12` | `15d10` | `15d12` | `20d12` |
+| **Damage** | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
