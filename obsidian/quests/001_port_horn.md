@@ -44,28 +44,28 @@ Stinks of fish and wet sawdust, filled with less-than-trustworthy crewmen and me
 
 | ID | Description |
 |:---:|:--- |
-| 1 |  |
+| 1 | **Gibson**: 22HP / ♦️0 ♠️1 ♥️0 ♣️2 |
 
 ### The Silver Trumpet
 A typical tavern and inn operating near the river. While business hasn't been slow, the tavern owner Derby is suspicious and distrusting of the new magic in the river. Room for two costs 1gp per night.
 
 | ID | Description |
 |:---:|:--- |
-| 1 |  |
+| 1 | **Derby**: 34HP / ♦️2 ♠️0 ♥️0 ♣️1 |
 
 ### Madame Chichi's _House of Hearts_
 A popular brothel in town, owned and operated by Madame Chichi. She has been helping gather intel about the "Kirin of Nofuin" in hopes that someone will catch it and bring it back to her; she has fashion interests in mind for the kirin.
 
 | ID | Description |
 |:---:|:--- |
-| 1 |  |
+| 1 | **Chichi**: 29HP / ♦️0 ♠️1 ♥️1 ♣️1 |
 
 ### Sinner's Guild
 A dark hole-in-the wall shack hiding an underground dungeon with weapons dealers, mercenaries for hire, and black market merchants. The Sinner's Guild works closely with Madame ChiChi and is run by Bourbon the boar.
 
 | ID | Description |
 |:---:|:--- |
-| 1 |  |
+| 1 | **Bourbon**: 31HP / ♦️1 ♠️0 ♥️0 ♣️2 |
 
 ## The Forest
 The forest around Port Horn is dense, reminiscent of Nofuin. There are hunters and lumberfolk around, but its mostly untamed. A single road passes along the border of the forest, heading to the next town.
@@ -75,4 +75,4 @@ Cyprus lives in a small shack on a hillside. In his storage room are failed atte
 
 | ID | Description |
 |:---:|:--- |
-| 1 |  |
+| 1 | **Cyprus**: 26HP / ♦️0 ♠️2 ♥️0 ♣️1 |
