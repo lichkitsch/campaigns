@@ -15,5 +15,14 @@
 - Locked weapons, boar man distracted by Mellen escaping her cell
 - Gin takes chance to disarm and grab the boar man
 - Pulls a knife to escape, shot by crossbow bolt in the neck at the door
-- Pes enters and steps over the man, a little sickened by her actions.
-- Make it back to the Silver Trumpet, come clean to Curaçao
+- Pes enters and steps over the man, a little sickened by her actions
+- Make it back to the Silver Trumpet, come clean to Curaçao about identity
+
+- Meet Cyprus in woods
+
+- Offer to work for Chichi at the House of Hearts
+
+- Put on a show
+- Gather intel, Chichi has been here for two decades and the House of Hearts would be taken over by Amálie if anything happened to her
+
+- Pes allowed to come and go as she wants, leaves to talk to Derby, Taliesin, and Curaçao
