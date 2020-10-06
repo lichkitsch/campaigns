@@ -32,12 +32,12 @@ Physical, mental, and emotional health in _DNDuet_ is represented by **heart poi
 ## Moves and Items
 Characters can use **moves** and **items** to help solve problems on their adventures. Moves are special actions that your character can take thanks to their unique background, physical features, relationships, or training. Characters can carry `10+STR` items in their inventory at a time and can use them in place of (or alongside) action rolls. Moves and items fall into the following ranks, with unique and specific effects:
 
-| Rank | DMG | Stat (+/-) | Uses | Range |
+| Rank | Uses | Move DMG | Item DMG | Stat (+/-) |
 |:---:|:---:|:---:|:---:|:---:|
-| **F** | `1d8` | 0 | L/1 | 5ft. |
-| **D** | `2d6` | 1 | L/2 | 10ft. |
-| **C** | `2d10` | 2 | L/3 | 15ft. |
-| **B** | `3d10` | 3 | L/4 | 20ft. |
-| **A** | `4d10` | 4 | L/5 | 25ft. |
-| **S** | `5d12` | 5 | L/6 | 30ft. |
+| **F** | L/1 | `1d8` | `1d4+1` | 0 |
+| **D** | L/2 | `2d6` | `1d8+1` | 1 |
+| **C** | L/3 | `2d10` | `2d6+2` | 2 |
+| **B** | L/4 | `3d10` | `2d10+2` | 3 |
+| **A** | L/5 | `4d10` | `3d10+3` | 4 |
+| **S** | L/6 | `5d12` | `4d10+4` | 5 |
 
