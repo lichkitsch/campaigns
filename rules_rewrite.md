@@ -30,14 +30,14 @@ If an action roll would affect a sentient creature, the roll might become a **co
 Physical, mental, and emotional health in _DNDuet_ is represented by **heart points (HP)**. Characters, tasks, and objects can all have HP. Reducing HP to zero can mean many things, but generally it means that the target in question is no longer an obstacle. Characters can reduce the HP of obstacles with their level-specific **damage dice** with successful action rolls, as well as using moves and items. Characters start with `10+CON` HP and increase their max HP when they gain a level. If a player character's HP is reduced to zero it may result in a severe narrative setback such as imprisonment, dismemberment, or even death. The severity of the consequences are between the GM and the player and should lead to either a satisfying ending or an exciting new narrative branch to explore.
 
 ## Moves and Items
-Characters can use **moves** and **items** to help solve problems on their adventures. Moves are special actions that your character can take thanks to their unique background, physical features, relationships, or training. Characters can carry `10+STR` items in their inventory at a time and can use them in place of (or alongside) action rolls. Moves and items fall into the following ranks, with unique effects:
+Characters can use **moves** and **items** to help solve problems on their adventures. Moves are special actions that your character can take thanks to their unique background, physical features, relationships, or training. Characters can carry `10+STR` items in their inventory at a time and can use them in place of (or alongside) action rolls. Moves and items fall into the following ranks, with unique and specific effects:
 
-| Rank | DMG | Stat (+/-) | Uses |
-|:---:|:---:|:---:|:---:|
-| **F** | `1d8` | 0 | L/1 |
-| **D** | `2d6` | 1 | L/2 |
-| **C** | `2d10` | 2 | L/3 |
-| **B** | `3d10` | 3 | L/4 |
-| **A** | `4d10` | 4 | L/5 |
-| **S** | `5d12` | 5 | L/6 |
+| Rank | DMG | Stat (+/-) | Uses | Range |
+|:---:|:---:|:---:|:---:|:---:|
+| **F** | `1d8` | 0 | L/1 | 5ft. |
+| **D** | `2d6` | 1 | L/2 | 10ft. |
+| **C** | `2d10` | 2 | L/3 | 15ft. |
+| **B** | `3d10` | 3 | L/4 | 20ft. |
+| **A** | `4d10` | 4 | L/5 | 25ft. |
+| **S** | `5d12` | 5 | L/6 | 30ft. |
 
