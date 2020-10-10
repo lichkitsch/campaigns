@@ -35,4 +35,4 @@ Remove obstacles by using **damage dice** to reduce their **heart points**. On s
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | L/1 uses | L/2 uses | L/3 uses | L/4 uses | L/5 uses | L/6 uses |
 | `1d4+1` | `1d8+1` | `2d6+2` | `2d10+2` | `3d10+3` | `4d10+4` |
-| `+/- 0 stat` | `+/- 1 stat` | `+/- 2 stat` | `+/- 3 stat` | `+/- 4 stat` | `+/- 5 stat` |
+| `+/- 0` | `+/- 1` | `+/- 2` | `+/- 3` | `+/- 4` | `+/- 5` |
