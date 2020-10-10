@@ -26,20 +26,9 @@ Roll `1d20+ability` for actions with uncertain outcomes.
 Remove obstacles by using **damage dice** to reduce their **heart points**. On successful action rolls against the obstacle, roll your damage dice and subtract the result from the obstacle's remaining HP. If your own HP falls to zero, you suffer a dire consequence. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
 
 ### Damage Dice
-| LVL | DMG |
-|:---:|:---:|
-| 1 | `1d4` |
-| 2 | `1d6` |
-| 3 | `1d8` |
-| 4 | `1d10` |
-| 5 | `2d6` |
-| 6 | `2d8` |
-| 7 | `2d10` |
-| 8 | `2d12` |
-| 9 | `3d10` |
-| 10 | `3d12` |
-| 11 | `4d10` |
-| 12 | `4d12` |
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Moves and Items
 
