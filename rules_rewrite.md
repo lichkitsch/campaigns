@@ -25,7 +25,9 @@ Roll `1d20+ability` for actions with uncertain outcomes.
 The target can be either an obstacle's action roll or the _Air of Fate_.
 
 ## HP and Damage
-Remove obstacles by using **damage dice** to reduce their **heart points**. On successful action rolls against the obstacle, roll your damage dice and subtract the result from the obstacle's remaining HP. If your own HP falls to zero, you suffer a dire consequence. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
+Remove obstacles by using **damage dice** to reduce their **heart points**. On successful action rolls against the obstacle, roll your damage dice and subtract the result from the obstacle's remaining HP. 
+
+You start with `10+CON` HP at level 1. If your own HP falls to zero, you suffer a dire consequence. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
 
 ### Damage Dice
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
