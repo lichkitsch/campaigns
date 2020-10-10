@@ -1,8 +1,8 @@
 # DNDuet Core Rulebook
 _DNDuet_ is a simple, flexible system for building and playing custom tabletop RPGs.
 
-## Character Creation
-To create a new character, roll `1d4-2` for the following six stats:
+## Ability Scores
+Roll `1d4-2` for your starting ability scores.
 
 | Stat | Abbr. | Use |
 |:---:|:---:|:--- |
@@ -13,24 +13,29 @@ To create a new character, roll `1d4-2` for the following six stats:
 | Wisdom | `WIS` | Intuition, perception, ranged |
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
-If your combined stat scores are less than 3, you can reroll your stats. You may also reorder your stats to better fit your intended play style, but only once.
+## Action Rolls
+Roll `1d20+ability` for actions with uncertain outcomes.
 
-## The Air of Fate
-Difficulty is controlled by the GM using a number called the _Air of Fate_. When the outcome of a character's action is uncertain, they will make an **action roll** to determine the outcome by rolling `1d20`, adding a relevant stat score to the roll, and comparing the result to a target, typically the _Air of Fate_.
-
-| Action Roll | Outcome |
+| Result | Outcome |
 |:---:|:---:|
-| Result > Target | Positive outcome |
-| Result = Target | Mixed outcome |
-| Result < Target | Negative outcome |
+| > Target | Positive |
+| = Target | Mixed |
+| < Target | Negative |
 
-If an action roll would affect a sentient creature, the roll might become a **contest**, with the action compared against their own opposing action roll. Players will find themselves on the receiving end of contests frequently, such as dodging traps and blocking blows.
+## HP and Damage
+Remove obstacles by using **damage dice** to reduce their **heart points**. On successful action rolls against the obstacle, roll your damage dice and subtract the result from the obstacle's remaining HP. If your own HP falls to zero, you suffer a dire consequence. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
 
-## Heart Points
-Physical, mental, and emotional health in _DNDuet_ is represented by **heart points (HP)**. Characters, tasks, and objects can all have HP. Reducing HP to zero can mean many things, but generally it means that the target in question is no longer an obstacle. Characters can reduce the HP of obstacles with their level-specific **damage dice** with successful action rolls, as well as using moves and items. Characters start with `10+CON` HP and increase their max HP when they gain a level. If a player character's HP is reduced to zero it may result in a severe narrative setback such as imprisonment, dismemberment, or even death. The severity of the consequences are between the GM and the player and should lead to either a satisfying ending or an exciting new narrative branch to explore.
+### Damage Dice
+| LVL | DD | LVL | DD |
+|:---:|:---:|:---:|:---:|
+| 1 | `1d4` | 7 | `2d10` |
+| 2 | `1d6` | 8 | `2d12` |
+| 3 | `1d8` | 9 | `3d10` |
+| 4 | `1d10` | 10 | `3d12` |
+| 5 | `2d6` | 11 | `4d10` |
+| 6 | `2d8` | 12 | `4d12` |
 
 ## Moves and Items
-Characters can use **moves** and **items** to help solve problems on their adventures. Moves are special actions that your character can take thanks to their unique background, physical features, relationships, or training. Characters can carry `10+STR` items in their inventory at a time and can use them in place of (or alongside) action rolls. Moves and items fall into the following ranks, with unique and specific effects:
 
 | Rank | Uses | DMG | Stat (+/-) |
 |:---:|:---:|:---:|:---:|
