@@ -1,6 +1,5 @@
 # Spellsong Tracker
-Princess Ifir Spellsong, daughter of Queen Mira and Elduin, the god of light, escaped the Light and came back to Lindorwin to find a purpose away from her abusive father.
+Princess Ifir Spellsong is currently in hiding with Dama, Ezrah, Sal, Vela, Julius, and Ursa in Anjouville, the secret gnome city under the mountains in the north. The group is hiding from Elduin's angelic army, who overtook Steson and Castle Spellsong. Queen Mira, along with the prince, the princesses, and Lele's sister, escaped to Spellsong Island to get away from the city. Lele, Knutt, and Rutt are scouting out around Steson, lying in wait for the opportunity to take back the city.
 
-She made some new friends on her way to Steson, where her mother, Queen Mira, and half-sisters, Setra and Yuna, live in Castle Spellsong. They helped her rescue her kidnapped half-brother from a dangerous cult called the Silent, but not before he was afflicted with demonic energy.
+There's something strange happening in Anjouville, however. Many people have used the phrase "gotta do what you gotta do" and while innocent, some strange events lead to the conclusion that something is very wrong just beneath the surface.
 
-Ezrah, Ifir's angelic boyfriend, came looking for her and meet up with Ifir and her friends while they where on a mission to Whitevale, a lumber village in the north.
