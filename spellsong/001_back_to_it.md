@@ -27,23 +27,25 @@
 - **Blanche**; Councilwoman of Agriculture; 
 
 ## Goal
-
+Investigate the strange sightings near the mines.
 
 ---
 
-## Location Name
-Description
+## The Crystal Mines of Anjouville
+The mines are a series of twisting tunnels cut from the mountain with a simple railcart system for transporting crystals from deep within the rock. There are dangers scuttling about in the darker corners of the mines, and whole tunnels have been sealed off to keep the city safe.
 
 | Obstacle | Details |
 |:---:|:--- |
-| Guardian |  |
-| Challenge |  |
-| Twist |  |
-| Climax |  |
+| **Guardian**<br/>Ezrah's gone missing at the same time that there's an accident at the mines. Dama races off to help. | _AoF_ 12 |
+| **Challenge**<br/> |  |
+| **Twist**<br/> |  |
+| **Climax**<br/> |  |
 
 ### Secrets
 
+- There have been disappearances around the city over the past few weeks.
 - 
+- The gnome council is being manipulated by a tribe of mindflayers from the deep.
 
 ### Treasure
 
