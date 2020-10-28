@@ -34,13 +34,13 @@ Covers use of hex grid maps for travel and combat.
 
 1. Cover
 2. Hex Grid Maps
-  - Hexagons have several advantages over square grids from both distance and tactical considerations, but you may choose to not use a grid at all. If that is the case, skip ahead to the Magic section.
+    - Hexagons have several advantages over square grids from both distance and tactical considerations, but you may choose to not use a grid at all. If that is the case, skip ahead to the Magic section.
 3. Travel Maps
-  - Travel Rolls: Roll `1d6+1d4` when travelling
-  - Movement: CON+2 spaces
+    - Travel Rolls: Roll `1d6+1d4` when travelling
+    - Movement: CON+2 spaces
 4. Combat Maps
-  - Vision: WIS+5 spaces
-  - Movement: DEX+2 spaces
+    - Vision: WIS+5 spaces
+    - Movement: DEX+2 spaces
 5. Magic (Effects)
 6. Magic (Elements)
 7. Magic (Forms)
@@ -75,75 +75,75 @@ Covers the mechanics of physical and mental illnesses.
 1. Cover
 2. Power Classes Explained
 3. Knight
-  - Second Wind, Defend Ally, Evasion, Counterattack, Double Strike, Killing Blow
+    - Second Wind, Defend Ally, Evasion, Counterattack, Double Strike, Killing Blow
 4. Pirate
-  - Second Wind, Dirty Trick, Double Shot, Command Vessel, Lucky Break, Deal with the Devil
+    - Second Wind, Dirty Trick, Double Shot, Command Vessel, Lucky Break, Deal with the Devil
 5. Monk
-  - Second Wind, Focus Strength, Evasion, Stunning Strike, Soul Strike, Pure Self
+    - Second Wind, Focus Strength, Evasion, Stunning Strike, Soul Strike, Pure Self
 6. Barbarian
-  - Rage, Cleave, Battlecry, Shrug Off Wounds, Bloodlust, Primal Rage
+    - Rage, Cleave, Battlecry, Shrug Off Wounds, Bloodlust, Primal Rage
 7. Gunslinger
-  - Quick Draw, Eagle Eye, Double Shot, Sixth Sense, Hunter's Mark, Godkiller Bullet
+    - Quick Draw, Eagle Eye, Double Shot, Sixth Sense, Hunter's Mark, Godkiller Bullet
 8. Back Cover
 
 ### Finesse Classes
 1. Cover
 2. Finesse Classes Explained
 3. Assassin
-  - Backstab, Sidestep, Steel Nerves, Shadowstep, Darkness, Death's Glare
+    - Backstab, Sidestep, Steel Nerves, Shadowstep, Darkness, Death's Glare
 4. Duelist
-  - 
+    - Quick Draw, Call a Duel, Parry, Riposte, Disarm, Coup de Main
 5. Ranger
-  - Track Prey, Camouflage, Double Shot, Sixth Sense, Hunter's Mark, Feychild
+    - Track Prey, Camouflage, Double Shot, Sixth Sense, Hunter's Mark, Feychild
 6. Rogue
-  - Craft Disguise (F), Sleight of Hand, Evasion, Acrobatics, Lucky Break, Vanish
+    - Drop Caltrops, Sleight of Hand, Evasion, Acrobatics, Lucky Break, Vanish
 7. Blacksmith
-  - Craft/Repair Tool (F, D, C, B, A, S)
+    - Craft/Repair Tool (F, D, C, B, A, S)
 8. Back Cover
 
 ### Knowledge Classes
 1. Cover
 2. Knowledge Classes Explained
 3. Artificer
-  - Craft/Repair Invention (F, D, C, B, A, S)
+    - Craft/Repair Invention (F, D, C, B, A, S)
 4. Alchemist
-  - Craft Potion (F, D, C, B, A, S)
+    - Craft Potion (F, D, C, B, A, S)
 5. Oracle
-  - Seek Insight, Dreamwalk, Psychic Blade, Astral Projection, Psychic Storm, Mindflayer
+    - Seek Insight, Dreamwalk, Psychic Blade, Astral Projection, Psychic Storm, Mindflayer
 6. Earthspeaker
-  - Summon Earth, Earth Spike, Rock Skin, Quicksand, Crystal Skin, Crystal Tomb
+    - Summon Earth, Earth Spike, Rock Skin, Quicksand, Crystal Skin, Crystal Tomb
 7. Sunsprite
-  - Summon Fire, Flamespout, Flaming Weapon, Fireball, Incinerate, Firestorm
+    - Summon Fire, Flamespout, Flaming Weapon, Fireball, Incinerate, Firestorm
 8. Back Cover
 
 ### Insight Classes
 1. Cover
 2. Insight Classes Explained
 3. Stormbringer
-  - Summon Rain, Flashstep, Lightning Strike, Ball Lightning, Lightning Barrage, Hurricane
+    - Summon Rain, Flashstep, Lightning Strike, Ball Lightning, Lightning Barrage, Hurricane
 4. Cleric
-  - Healing Hand, Channel Divinity, Healing Aura, Destroy Undead, Divine Intervention, Resurrection
+    - Healing Hand, Channel Divinity, Healing Aura, Destroy Undead, Divine Intervention, Resurrection
 5. Witch
-  - Throw Bones, Minor Hex, Boil Blood, Major Hex, Poppet Punishment, Forbidden Curse
+    - Throw Bones, Minor Hex, Boil Blood, Major Hex, Poppet Punishment, Forbidden Curse
 6. Druid
-  - The Old Tongue, Wild Shape (SM), Wild Shape (MD), Sixth Sense, Wild Shape (LG), Wild Shape (XL)
+    - The Old Tongue, Wild Shape (SM), Wild Shape (MD), Sixth Sense, Wild Shape (LG), Wild Shape (XL)
 7. Paladin
-  - Sacred Oath, Replace Wounds, Shielding Aura, Blessed Strike, Smite, Phoenix Rising
+    - Sacred Oath, Replace Wounds, Shielding Aura, Blessed Strike, Smite, Phoenix Rising
 8. Back Cover
 
 ### Charm Classes
 1. Cover
 2. Charm Classes Explained
 3. Illusionist
-  - Minor Illusion, Disguise (D), Major Illusion, Double Vision, Massive Illusion, Thousand-Year Prison
+    - Minor Illusion, Disguise (D), Major Illusion, Double Vision, Massive Illusion, Thousand-Year Prison
 4. Warlock
-  - Channel Divinity, Glimpse Beyond, Eldritch Augur, Blind Blade, Blessing from Beyond, Eldritch Body
+    - Channel Divinity, Glimpse Beyond, Eldritch Augur, Blind Blade, Blessing from Beyond, Eldritch Body
 5. Bard
-  - Poem of Rest, Melody of Mist, Lullaby of Loss, Harmony of Healing, Bastard's Ballad, Song of Spirits
+    - Poem of Rest, Melody of Mist, Lullaby of Loss, Harmony of Healing, Bastard's Ballad, Song of Spirits
 6. Necromancer
-  - Summon Spirit, Raise Dead (SM), Raise Dead (MD), Necrotic Blast, Raise Dead (LG), Raise Dead (XL)
+    - Summon Spirit, Raise Dead (SM), Raise Dead (MD), Necrotic Blast, Raise Dead (LG), Raise Dead (XL)
 7. Dancer
-  - Hurtful Insult, Fluid Motion, Evasion, Stunning Stance, Inspire Ally, Perfect Performance
+    - Hurtful Insult, Fluid Motion, Evasion, Stunning Stance, Inspire Ally, Perfect Performance
 8. Back Cover
 
 ## World Kits
