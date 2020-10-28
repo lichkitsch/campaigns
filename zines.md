@@ -3,29 +3,29 @@
 ## DNDuet Core Rulebook
 1. Cover
 2. Character Creation
-  - Roll `1d4-2` for your starting stat scores:
-  - STR, DEX, CON, INT, WIS, CHA
-  - You can rearrange your scores once before starting the game.
+    - Roll `1d4-2` for your starting stat scores:
+    - STR, DEX, CON, INT, WIS, CHA
+    - You can rearrange your scores once before starting the game.
 3. Action Rolls
-  - Roll `1d20+stat` against a target for actions with uncertain outcomes.
-  - Targets: _Air of Fate_, obstacle's action roll
-  - Beat the target for a positive outcome, tie for a mixed outcome, or get a negative outcome.
+    - Roll `1d20+stat` against a target for actions with uncertain outcomes.
+    - Targets: _Air of Fate_, obstacle's action roll
+    - Beat the target for a positive outcome, tie for a mixed outcome, or get a negative outcome.
 4. Heart Points
-  - Reduce an obstacle's heart points (HP) with damage dice to overcome them and progress.
-  - If your own HP is reduced to zero you will suffer a major setback such as imprisonment, dismemberment, or even death.
+    - Reduce an obstacle's heart points (HP) with damage dice to overcome them and progress.
+    - If your own HP is reduced to zero you will suffer a major setback such as imprisonment, dismemberment, or even death.
 5. Damage Dice
-  - With a successful action roll against an obstacle with HP you can then roll your damage dice and reduce their HP by the result.
-  - Replenish your own HP during a short rest with damage dice. During a long rest your HP is fully replenished.
+    - With a successful action roll against an obstacle with HP you can then roll your damage dice and reduce their HP by the result.
+    - Replenish your own HP during a short rest with damage dice. During a long rest your HP is fully replenished.
 6. Moves and Items
-  - Characters can have up to 4 moves at a time, based on their unique history, training, or body features.
-  - Characters can carry up to `10+STR` items at a time.
-  - Moves and items are ranked on a scale and have unique properties.
+    - Characters can have up to 4 moves at a time, based on their unique history, training, or body features.
+    - Characters can carry up to `10+STR` items at a time.
+    - Moves and items are ranked on a scale and have unique properties.
 7. Leveling Up
-  - When you level up, follow these instructions:
-  - Update your damage dice
-  - Roll your damage dice and add the result to your max HP (Reroll `CON` dice)
-  - Add 1 point to any stat that is less than 5
-  - Update your moves and switch out for new ones as they become available, if you want
+    - When you level up, follow these instructions:
+    - Update your damage dice
+    - Roll your damage dice and add the result to your max HP (Reroll `CON` dice)
+    - Add 1 point to any stat that is less than 5
+    - Update your moves and switch out for new ones as they become available, if you want
 8. Back Cover
 
 ## Supplemental Rulebooks
