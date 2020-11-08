@@ -36,10 +36,10 @@ The mines are a series of twisting tunnels cut from the mountain with a simple r
 
 | Obstacle | Details |
 |:---:|:--- |
-| **Guardian:** Ezrah's gone missing at the same time that there's an accident at the mines. Dama races off to help. | _AoF_ 12 |
-| **Challenge:**  |  |
-| **Twist:**  |  |
-| **Climax:**  |  |
+| **Guardian**<br/>Ezrah's gone missing at the same time that there's an accident at the mines. Dama races off to help. | _AoF_ 12 |
+| **Challenge**<br/>Ezrah is somewhere deep in the mines and there are plenty of dangers lurking in the dark. |  |
+| **Twist**<br/> |  |
+| **Climax**<br/> |  |
 
 ### Secrets
 
