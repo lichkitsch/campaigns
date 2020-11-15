@@ -16,6 +16,8 @@ Shimni: "Quiet you two, look..."
 
 There are two marsh devils guarding the eggs, stalking about back and forth between the pillars and stopping every so often to investigate and admire them. Party must sneak past to get to the entrance of the temple (_DEX check AF 12_) or risk alerting the devils and starting combat. Luckily there's a din of insects chirping to help hide footsteps.
 
+**Encounter:** Marsh Devils (_D_) x2
+
 ## Entrance
 The temple, built of stacked stone covered in thick, damp moss and overgrown with vines, is quite dark inside and very quiet. The floor is slick with wet earth and moss and must be traversed with care to avoid slipping. There are figures moving about in the darkness.
 
@@ -39,7 +41,7 @@ Following the devil into the eastern chamber off the main entrance room, you des
 
 Hopping onto the stones requires _DEX check AF 15_ for each. Failure means dropping into the murky water and starting combat with the missing devil.
 
-Upon reaching the nest of branches, you can see now that the black shape in the center is the leathery, mummified body of a large adult crocodile. The red aura grows brighter as it peels away from the body, revealing the Willabog. The creature yawns, 
+Upon reaching the nest of branches, you can see now that the black shape in the center is the leathery, mummified body of a large adult crocodile. The red aura grows brighter as it peels away from the body, revealing the Willabog. The creature yawns and gently rises from the nest before floating around the room. Sveta can use her embody spell to take over the creature and give Gin his memories back. Unfortunately, she also learns how the Willabog eats memories, starting with the strongest and working back. Gin's memories also slowly return, not all at once, and his were the only memories she could recover.
 
 ## Second level
 - large chasm in floor leading down to bottom level
