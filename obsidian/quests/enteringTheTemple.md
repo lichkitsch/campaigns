@@ -14,21 +14,21 @@ Talgat: "You're been poisoned against me by these strangers, Sveta."<br/>
 Sveta: "Yeah, cuz you never let me do anything fun!"<br/>
 Shimni: "Quiet you two, look..."
 
-There are two marsh devils guarding the eggs, stalking about back and forth between the pillars and stopping every so often to investigate and admire them. Party must sneak past to get to the entrance of the temple (DEX check AF 12) or risk alerting the devils and starting combat. Luckily there's a din of insects chirping to help hide footsteps.
+There are two marsh devils guarding the eggs, stalking about back and forth between the pillars and stopping every so often to investigate and admire them. Party must sneak past to get to the entrance of the temple (_DEX check AF 12_) or risk alerting the devils and starting combat. Luckily there's a din of insects chirping to help hide footsteps.
 
 ## Entrance
 The temple, built of stacked stone covered in thick, damp moss and overgrown with vines, is quite dark inside and very quiet. The floor is slick with wet earth and moss and must be traversed with care to avoid slipping. There are figures moving about in the darkness.
 
-**Encounter:** Marsh Devils (D) x3
+**Encounter:** Marsh Devils (_D_) x3
 - One of the devils will flee towards the room on the eastern wall, another will drop down the hole in the southwest corner.
 
 ### The Halfling Camp
+After clearing out the marsh devils from the first level, the party can investigate to find the remains of an abandoned halfling camp. There are three bed rolls lying around an old campfire and several chests around, though one is much bigger than the others and has a large locking mechanism on the front.
 
-
-- abandoned camp
-- large ornate chest (locked by will magic, requires key from queen of marsh)
-  - Whetstone of Blazing Ash (A)
-  - Phial of Awakening Salt (B)
+**Magic Chest:**
+Contents:
+  - Whetstone of Blazing Ash (_A_)
+  - Phial of Awakening Salt (_B_)
   - 1500gp
 
 ## Side chamber
