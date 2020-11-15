@@ -31,13 +31,11 @@ After clearing out the marsh devils from the first level, the party can investig
   - 1500gp
 
 ## Side chamber
-Following the devil into the eastern chamber off the main entrance room, you descend a staircase and stop abruptly at the bottom to avoid falling into the water flooding the room. The devil has disappeared, likely into the murky depths.
+Following the devil into the eastern chamber off the main entrance room, you descend a staircase and stop abruptly at the bottom to avoid falling into the water flooding the room. The devil has disappeared, likely into the murky depths. Green slime coats the walls of this room and there are several flat, stone platforms poking up from the water. They are also covered in moss and will be difficult to traverse, but there is something interesting on the far side of the room: a nest of branches and a large, strange, black shape sitting in the center, a glowing red aura rising from it.
 
+Hopping onto the stones requires _DEX check AF 15_ for each. Failure means dropping into the murky water and starting combat with the missing devil.
 
-
-- Filled with swamp water, stone columns poking up from the muck
-- Floating deadwood make a simple bridge to a large bed made of dead plants, a naturally mummified alligator body sits at the center, almost looks asleep
-- Willabog rises from the body, yawns, lazily floats around the room
+Upon reaching the nest of branches, you can see now that the black shape in the center is the leathery, mummified body of a large adult crocodile. The red aura grows brighter as it peels away from the body, revealing the Willabog. The creature yawns, 
 
 ## Second level
 - large chasm in floor leading down to bottom level
