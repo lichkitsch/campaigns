@@ -6,10 +6,10 @@ Pilka explains that Yasmina has been taken to the sunken temple by his kin and p
 ## The Sunken Temple
 You follow Pilka's directions and find the entrance to the sunken temple waiting about half a mile from where you met him. The opening into the temple looks almost like a stone maw opening up to take a large bite of the earth. In a large circle around the entrance are many more stone pillars, now known to be Marsh Devil Eggs.
 
-Talgat: "We should probably leave this up to the adventurers now, what'd'ya say Sveta?"
-Sveta: "No way! I wanna see the temple."
-Talgat: "You're been poisoned against me by these strangers, Sveta."
-Sveta: "Yeah, cuz you never let me do anything fun!"
+Talgat: "We should probably leave this up to the adventurers now, what'd'ya say Sveta?"<br/>
+Sveta: "No way! I wanna see the temple."<br/>
+Talgat: "You're been poisoned against me by these strangers, Sveta."<br/>
+Sveta: "Yeah, cuz you never let me do anything fun!"<br/>
 Shimni: "Quiet you two, look..."
 
 There are two marsh devils guarding the eggs, stalking about back and forth between the pillars and stopping every so often to investigate and admire them. Party must sneak past to get to the entrance of the temple (DEX check AF 12) or risk alerting the devils and starting combat. Luckily there's a din of insects chirping to help hide footsteps.
