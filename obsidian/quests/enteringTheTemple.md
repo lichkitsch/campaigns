@@ -20,15 +20,19 @@ There are two marsh devils guarding the eggs, stalking about back and forth betw
 The temple, built of stacked stone covered in thick, damp moss and overgrown with vines, is quite dark inside and very quiet. The floor is slick with wet earth and moss and must be traversed with care to avoid slipping. There are figures moving about in the darkness.
 
 **Encounter:** Marsh Devils (_D_) x3
+
 - One of the devils will flee towards the room on the eastern wall, another will drop down the hole in the southwest corner.
 
 After clearing out the marsh devils from the first level, the party can investigate to find the remains of an abandoned halfling camp. There are three bed rolls lying around an old campfire and several chests around, though one is much bigger than the others and has a large locking mechanism on the front.
 
 **Magic Chest:** The large chest is locked tightly by magic; anyone trying to open it will feel compelled to leave it alone until the spell is broken.
-  - Whetstone of Blazing Ash (_A_): Used on a blade, the whetstone provides a searing edge which adds burn damage on the next swing.
-  - Phial of Awakening Salt (_B_): Wave under the nose of a sleeping/unconscious creature to wake them.
-  - Thieves' ledger and clothing
-  - 1500gp
+
+- Whetstone of Blazing Ash (_A_)
+    - Used on a blade, the whetstone provides a searing edge which adds burn damage on the next swing.
+- Phial of Awakening Salt (_B_)
+    - Wave under the nose of a sleeping/unconscious creature to wake them.
+- Thieves' ledger and clothing
+- 1500gp
 
 ## Side chamber
 Following the devil into the eastern chamber off the main entrance room, you descend a staircase and stop abruptly at the bottom to avoid falling into the water flooding the room. The devil has disappeared, likely into the murky depths. Green slime coats the walls of this room and there are several flat, stone platforms poking up from the water. They are also covered in moss and will be difficult to traverse, but there is something interesting on the far side of the room: a nest of branches and a large, strange, black shape sitting in the center, a glowing red aura rising from it.
