@@ -6,6 +6,6 @@
 | Stat | +/- 1 | +/- 2 | +/- 3 | +/- 4 | +/- 5 | +/- 6 |
 | HP | <code>4d4</code> | <code>6d6</code> | <code>8d8</code> | <code>10d10</code> | <code>12d12</code> | <code>10d20</code> |
 | DMG | <code>1d4</code> | <code>F + 1d6</code> | <code>D + 1d8</code> | <code>C + 1d10</code> | <code>B + 1d12</code> | <code>A + 1d20</code> |
-| Value | % cp | % sp | % gp | % pp | % pp x 10 | % pp X 100 |
+| Value | %cp | %sp | %gp | %pp | %pp x10 | %pp x100 |
 
 % - Roll <code>1d% + 1d10</code>, 00+0 = 100
