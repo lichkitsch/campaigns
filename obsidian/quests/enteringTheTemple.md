@@ -24,7 +24,7 @@ The temple, built of stacked stone covered in thick, damp moss and overgrown wit
 
 After clearing out the marsh devils from the first level, the party can investigate to find the remains of an abandoned halfling camp. There are three bed rolls lying around an old campfire and several chests around, though one is much bigger than the others and has a large locking mechanism on the front.
 
-**Magic Chest:** The large chest is locked tightly by magic; anyone attempting to open it will feel compelled to leave it alone until the spell is reversed. <br/>
+**Magic Chest:** The large chest is locked tightly by magic; anyone trying to open it will feel compelled to leave it alone until the spell is broken. <br/>
 Contents:
   - Whetstone of Blazing Ash (_A_)
   - Phial of Awakening Salt (_B_)
