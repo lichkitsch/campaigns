@@ -36,17 +36,20 @@ After clearing out the marsh devils from the first level, the party can investig
 - Thieves' ledger and clothing
 - 1500gp
 
-## Side chamber
-Following the devil into the eastern chamber off the main entrance room, you descend a staircase and stop abruptly at the bottom to avoid falling into the water flooding the room. The devil has disappeared, likely into the murky depths. Green slime coats the walls of this room and there are several flat, stone platforms poking up from the water. They are also covered in moss and will be difficult to traverse, but there is something interesting on the far side of the room: a nest of branches and a large, strange, black shape sitting in the center, a glowing red aura rising from it.
+## Side Chamber
+Following the devil into the eastern chamber off the main entrance room, a strong wall falls down between you, cutting off the path. There's a glimmer and the wall is sealed with magic, requiring a spell to unlock it (found in room below).
 
-Hopping onto the stones requires _DEX check AF 15_ for each. Failure means dropping into the murky water and starting combat with the missing devil.
+After retrieving the scroll and unlocking the wall, you descend a staircase and stop abruptly at the bottom to avoid falling into the water flooding the room. The devil has disappeared, likely into the murky depths. Green slime coats the walls of this room and there are several flat, stone platforms poking up from the water. They are also covered in moss and will be difficult to traverse, but there is something interesting on the far side of the room: a nest of branches and a large, strange, black shape sitting in the center, a glowing red aura rising from it.
+
+Hopping onto the stones requires _DEX check AF 15_ for each. Failure means dropping into the murky water and starting combat with the missing devil (_C_).
 
 Upon reaching the nest of branches, you can see now that the black shape in the center is the leathery, mummified body of a large adult crocodile. The red aura grows brighter as it peels away from the body, revealing the Willabog. The creature yawns and gently rises from the nest before floating around the room. Sveta can use her embody spell to take over the creature and give Gin his memories back. Unfortunately, she also learns how the Willabog eats memories, starting with the strongest and working back. Gin's memories also slowly return, not all at once, and his were the only memories she could recover.
 
-## Second level
-- large chasm in floor leading down to bottom level
-- corpse of a halfling adventurer
+## Second Level
+A ladder cut into the crumbling stone wall in the corner of the room leads below to the second floor. It's even darker below, and there is a halfling skeleton slumped against the wall near the bottom of the ladder. There is a wooden chest in the corner of the room with 7sp and a coil of rope (_F_) inside. Searching this level you find a chasm splitting the room in half, with two doors on the opposite side guarded by marsh devils and a hulking marsh beast. The chasm is easy enough to jump (_DEX check AF 10_) but the monsters waiting on the other side could pose a problem.
+
+**Encounter:** Marsh Devils (_D_) x3 and a Marsh Beast (_C_)
+
+Of the two doors, one is easily opened and leads to a small shrine built upon an altar between two columns. There are three small bowls set upon the altar and a statue of the Willabog. To open the statue the three bowls need to have an equal weight placed in them as offering (coins, stones, etc) but if they are set unevenly a trap (spike pit, _DEX check AF 12_) is sprung. Opening the statue presents a scroll (to open the wall) and a key (to open the other door, which leads down to the bottom level.
 
 ## Bottom Level
-- 
-  
