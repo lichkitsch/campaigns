@@ -53,3 +53,4 @@ A ladder cut into the crumbling stone wall in the corner of the room leads below
 Of the two doors, one is easily opened and leads to a small shrine built upon an altar between two columns. There are three small bowls set upon the altar and a statue of the Willabog. To open the statue the three bowls need to have an equal weight placed in them as offering (coins, stones, etc) but if they are set unevenly a trap (spike pit, _DEX check AF 12_) is sprung. Opening the statue presents a scroll (to open the wall) and a key (to open the other door, which leads down to the bottom level.
 
 ## Bottom Level
+The key turns with a loud clank and the door slowly falls into the floor. The air in the chamber below is thick and humid and there is a long stone staircase leading down into the bottom level. The staricase is unguarded, but at the bottom of it there are several marsh devils lying in wait. They won't attack right away, however, as Tirtzi prefers to fight for herself. 
