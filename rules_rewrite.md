@@ -36,7 +36,7 @@ Player characters start with `10+CON` HP at level 1. If a PC's HP falls to zero,
 There are six ranks which describe obstacles, special moves, and item categories in _DNDuet_. Characters have six special moves based on their physical features, training, or background and can carry `10+STR` items in their inventory at a time.
 
 |  | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Uses** | L/1 | L/2 | L/3 | L/4 | L/5 | L/6 |
 | **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `10d20` |
 | **Damage** | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
