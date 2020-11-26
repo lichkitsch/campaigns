@@ -37,8 +37,9 @@ There are six ranks which describe obstacles, special moves, and item categories
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Uses** | L/1 | L/2 | L/3 | L/4 | L/5 | L/6 |
+| **&#42;Uses** | L/1 | L/2 | L/3 | L/4 | L/5 | L/6 |
 | **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `10d20` |
 | **Damage** | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
 | **Buff** | `+/- 0` | `+/- 1` | `+/- 2` | `+/- 3` | `+/- 4` | `+/- 5` |
 | **Value** | `%cp` | `%sp` | `%gp` | `%pp` | `%pp*10` | `%pp*100` |
+&#42; Per long rest
