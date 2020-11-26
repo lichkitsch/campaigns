@@ -40,3 +40,4 @@ You start with `10+CON` HP at level 1. If your own HP falls to zero, you suffer 
 | L/1 uses | L/2 uses | L/3 uses | L/4 uses | L/5 uses | L/6 uses |
 | `1d4+1` | `1d8+1` | `2d6+2` | `2d10+2` | `3d10+3` | `4d10+4` |
 | `+/- 0` | `+/- 1` | `+/- 2` | `+/- 3` | `+/- 4` | `+/- 5` |
+| `%cp` | `%sp` | `%gp` | `%pp` | `%pp*10` | `%pp*100` |
