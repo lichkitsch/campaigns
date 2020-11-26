@@ -42,4 +42,5 @@ There are six ranks which describe obstacles, special moves, and item categories
 | **Damage** | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
 | **Buff** | `+/- 0` | `+/- 1` | `+/- 2` | `+/- 3` | `+/- 4` | `+/- 5` |
 | **Value** | `%cp` | `%sp` | `%gp` | `%pp` | `%pp*10` | `%pp*100` |
+
 &#42; Per long rest
