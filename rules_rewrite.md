@@ -16,7 +16,7 @@ Roll `1d4-2` for your starting stats.
 You can rearrange your starting stat scores once. When leveling up, add 1 point to any one stat with less than 5.
 
 ## Action Rolls
-Roll `1d20+stat` for actions with uncertain outcomes. The target to beat depends on the GM's action roll and the obstacle's rank. Rolling higher than the target results in a positive outcome and rolling lower results in a negative outcome. Ties result in a mixed outcome.
+Roll `1d20+stat` for actions with uncertain outcomes. The target to beat is set by the GM and is based on the obstacle's rank. Rolling higher than the target results in a positive outcome and rolling lower results in a negative outcome. Ties result in a mixed outcome.
 
 ## Heart Points
 With positive outcomes against an obstacle, roll your **damage dice** and subtract the result from the target's **heart points (HP)**. When an obstacle's HP reaches zero it is no longer a threat.
@@ -62,13 +62,15 @@ For every two hours of rest in a safe area, roll your damage dice to recover som
 </table>
 
 ## Powers and Items
-Characters can use special powers and items to as bonus points to action rolls or extra damage to damage dice rolls based on their level and the power/item's rank. Characters have 6 powers and can carry up to `10+STR` items at a time.
+Characters can use special powers and items to add bonus points to action rolls or extra dice to damage rolls based on their level and the power/item's rank. Characters have 6 powers and can carry up to `10+STR` items at a time. The power/item ranks are as follows:
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Stat** | `+/-1` | `+/-2` | `+/-3` | `+/-4` | `+/-5` | `+/-6` |
 | **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `10d20` |
 | **DMG** | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
+
+Some items have requirements, such as a minimum specific stat score, that the character must meet before they can use the bonus. For example, a heavy hammer might require `STR+3` to swing it effectively.
 
 ### Limits and Consequences
 Bonuses from powers and items can only be used a limited number of times per long rest (8 hours) based on your level. To find the limit for a rank, divide your level by the stat bonus (rounded down).
@@ -78,4 +80,4 @@ If you exceed the limit for an item, roll damage and reduce the item's HP by the
 If you exceed the limit for a power, roll damage as a consumable (see below) and reduce your own HP by the result. Dealing in powers you cannot control can have devastating consequences!
 
 ### Consumables and Obstacles
-When rolling damage for consumable (one-use) items or obstacles (as a GM), roll one of each lower rank's damage dice and add it to the damage for the rank instead of rolling regular damage. For example, a D-rank potion heals `1d4+1d6` HP regardless of the character's level.
+When rolling damage for consumable (one-use) items or obstacles (as a GM), roll the rank's damage die and add each lower rank's damage dice to it instead of rolling regular damage. For example, a C-rank potion heals `1d4+1d6+1d8` HP regardless of a character's level.
