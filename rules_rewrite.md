@@ -62,7 +62,7 @@ For every two hours of rest in a safe area, roll your damage dice to recover som
 </table>
 
 ## Powers and Items
-Characters can use special powers and items to as bonus points to action rolls or extra damage to damage dice rolls based on their level and the power/item's rank. Characters have 6 powers and can carry up to `10+CON` items at a time.
+Characters can use special powers and items to as bonus points to action rolls or extra damage to damage dice rolls based on their level and the power/item's rank. Characters have 6 powers and can carry up to `10+STR` items at a time.
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
