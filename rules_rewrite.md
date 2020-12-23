@@ -3,7 +3,7 @@ _DNDuet_ is a simple, flexible system for building and playing custom tabletop R
 
 ## Action Rolls
 
-When the outcome of a character’s action is uncertain, roll 1d20+stat against the obstacle in question. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll 1d4-2 for the following stats:
+When the outcome of a character’s action is uncertain, roll `1d20+stat` against the obstacle in question. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following stats:
 
 | Stat | Abbr. | Use |
 |:---:|:---:|:--- |
@@ -18,7 +18,7 @@ You can rearrange stats once. When you level up, you can spend 1 point on any on
 
 ## Heart Points
 
-Characters, as with many items and obstacles, have a stat called heart points (HP) which represents their overall integrity. After a successful action roll against a target, roll your level-specific damage dice and reduce their HP by the result. If a character’s HP reaches zero, they suffer a major setback like imprisonment, severe injury, or even death.
+Characters, as with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. If a character’s HP reaches zero, they suffer a major setback like imprisonment, severe injury, or even death.
 
 ### Damage Dice by Level
 
@@ -57,7 +57,7 @@ Characters, as with many items and obstacles, have a stat called heart points (H
   </tbody>
 </table>
 
-Characters start with 10+CON max HP at level 1. When you level up, roll your new damage dice and add the result to your max HP. You can reroll CON dice when leveling up.
+Characters start with `10+CON` max HP at level 1. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
 
 ## Items & Abilities
 
@@ -72,4 +72,4 @@ Characters can carry 10+STR items and have ability slots based on their level. I
 | **A** | `+/- 5` | `1d12` | `12d12` |
 | **S** | `+/- 6` | `1d20` | `10d20` |
 
-Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s damage rather than adding your own damage roll. Abilities require specific stats, use slots (Level / Stat Buff), and are gained through experience, study, training, etc. Pick a class, but learn new things as you go!
+Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s damage rather than adding your own damage roll. Abilities require specific stats, use slots (`Level / Stat Buff`), and are gained through experience, study, training, etc. Pick a class, but learn new things as you go!
