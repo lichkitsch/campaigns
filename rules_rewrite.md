@@ -61,7 +61,7 @@ Characters start with `10+CON` max HP at level 1. When you level up, roll your n
 
 ## Items & Abilities
 
-Characters can carry 10+STR items and have ability slots based on their level. Items and abilities use the following ranks:
+Characters can carry `10+STR` items and have ability slots based on their level. Items and abilities use the following ranks:
 
 |  | Stat Buff | Damage | Item HP |
 |:---:|:---:|:---:|:---:|
