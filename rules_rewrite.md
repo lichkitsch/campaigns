@@ -1,31 +1,27 @@
 # DNDuet Core Rules
-_DNDuet_ is a simple, flexible system for building and playing custom tabletop RPGs.
+_DNDuet_ is a simple, flexible system for building and playing custom tabletop RPGs. These rules work with as few as one game master (GM) and one player and have been built around the standard RPG dice set.
 
-## Stats
-Roll `1d4-2` for your starting stats.
+## Action Rolls
+
+When the outcome of a character’s action is uncertain, roll 1d20+stat against the obstacle in question. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll 1d4-2 for the following stats:
 
 | Stat | Abbr. | Use |
 |:---:|:---:|:--- |
-| Strength | `STR` | Athletics, muscle, melee |
-| Dexterity | `DEX` | Acrobatics, stealth, precision |
+| Strength | `STR` | Athletics, muscle, melee attacks |
+| Dexterity | `DEX` | Acrobatics, stealth, finesse |
 | Constitution | `CON` | Health, endurance, stamina |
-| Intelligence | `INT` | Memory, logic, tactics |
-| Wisdom | `WIS` | Intuition, perception, ranged |
-| Charisma | `CHA` | Performance, persuasion, deceit |
+| Intelligence | `INT` | Memory, logic, investigation |
+| Wisdom | `WIS` | Intuition, perception, ranged attacks |
+| Charisma | `CHA` | Performance, persuasion, deception |
 
-You can rearrange your starting stat scores once. When leveling up, add 1 point to any one stat with less than 5.
-
-## Action Rolls
-Roll `1d20+stat` for actions with uncertain outcomes. The target to beat is set by the GM and is based on the obstacle's rank. Rolling higher than the target results in a positive outcome and rolling lower results in a negative outcome. Ties result in a mixed outcome.
+You can rearrange stats once. When you level up, you can spend 1 point on any one stat lower than 5.
 
 ## Heart Points
-With positive outcomes against an obstacle, roll your **damage dice** and subtract the result from the target's **heart points (HP)**. When an obstacle's HP reaches zero it is no longer a threat.
 
-Player characters start with `10+CON` HP at level 1. If a characters's HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death. 
+Characters, as with many items and obstacles, have a stat called heart points (HP) which represents their overall integrity. After a successful action roll against a target, roll your level-specific damage dice and reduce their HP by the result. If a character’s HP reaches zero, they suffer a major setback like imprisonment, severe injury, or even death.
 
-For every two hours of rest in a safe area, roll your damage dice to recover some HP. When you level up, roll your new damage dice and add the result to your max HP. You can reroll `CON` dice when leveling up.
+### Damage Dice by Level
 
-### Damage Dice
 <table>
   <tbody>
     <tr>
@@ -61,23 +57,19 @@ For every two hours of rest in a safe area, roll your damage dice to recover som
   </tbody>
 </table>
 
-## Powers and Items
-Characters can use special powers and items to add bonus points to action rolls or extra dice to damage rolls based on their level and the power/item's rank. Characters have 6 powers and can carry up to `10+STR` items at a time. The power/item ranks are as follows:
+Characters start with 10+CON max HP at level 1. When you level up, roll your new damage dice and add the result to your max HP. You can reroll CON dice when leveling up.
 
-|  | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Stat** | `+/-1` | `+/-2` | `+/-3` | `+/-4` | `+/-5` | `+/-6` |
-| **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `10d20` |
-| **DMG** | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
+## Items & Abilities
 
-Some items have requirements, such as a minimum specific stat score, that the character must meet before they can use the bonus. For example, a heavy hammer might require `STR+3` to swing it effectively.
+Characters can carry 10+STR items and have ability slots based on their level. Items and abilities use the following ranks:
 
-### Limits and Consequences
-Bonuses from powers and items can only be used a limited number of times per long rest (8 hours) based on your level. To find the limit for a rank, divide your level by the stat bonus (rounded down).
+|  | Stat Buff | Damage | Item HP |
+|:---:|:---:|:---:|:---:|
+| **F** | `+/- 1` | `1d4` | `4d4` |
+| **D** | `+/- 2` | `1d6` | `6d6` |
+| **C** | `+/- 3` | `1d8` | `8d8` |
+| **B** | `+/- 4` | `1d10` | `10d10` |
+| **A** | `+/- 5` | `1d12` | `12d12` |
+| **S** | `+/- 6` | `1d20` | `10d20` |
 
-If you exceed the limit for an item, roll damage and reduce the item's HP by the result. Items with zero HP break and their bonuses cannot be used until it is repaired by someone qualified.
-
-If you exceed the limit for a power, roll damage as a consumable (see below) and reduce your own HP by the result. Dealing in powers you cannot control can have devastating consequences!
-
-### Consumables and Obstacles
-When rolling damage for consumable (one-use) items or obstacles (as a GM), roll the rank's damage die and add each lower rank's damage dice to it instead of rolling regular damage. For example, a C-rank potion heals `1d4+1d6+1d8` HP regardless of a character's level.
+Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s damage rather than adding your own damage roll. Abilities require specific stats, use slots (Level / Stat Buff), and are gained through experience, study, training, etc. Pick a class, but learn new things as you go!
