@@ -1,7 +1,5 @@
 # Quest Name
-Review recent events, the party's status, and the situation at hand.
-
-**Goal:** Give a clear, measurable, attainable goal for the player to pursue.
+_Review_ recent events, the party's status, and the situation at hand.
 
 ## Important NPCs
 
@@ -9,12 +7,11 @@ Review recent events, the party's status, and the situation at hand.
   - Who they are
   - Appearance and personality
   - Wants to ... so they ...
+  
+**Goal:** Give a clear, measurable, attainable goal for the player to pursue.
 
 ## Name of Location
 Describe the location, why it's relevant to the player, and any special conditions required to gain access. Provide a map, if you have it.
-
-### Name of Area
-Describe the area as it exists within the larger location including its layout, obstacles, and secrets.
 
 | ID | Description |
 |:---:|:--- |
