@@ -5,7 +5,7 @@
       "req": "",
       "bonus": "",
       "cons": true,
-      "hp": { max: 0, temp: 0},
+      "hp": { "max": 0, "temp": 0 },
       "cost": ""
     },
   "F": [
@@ -13,14 +13,22 @@
       "name": "Rusty Shortsword",
       "desc": "An old blade, rusted neary beyond recognition.",
       "req": "",
-      "bonus": "DMG+1d4"
+      "bonus": "DMG+1d4",
       "cons": false,
-      "hp": { max: 6, temp: 6},
+      "hp": { "max": 8, "temp": 8 },
       "cost": "2cp"
     }
   ],
   "D": [
-  
+    {
+      "name": "Iron Shortsword",
+      "desc": "A reliable blade, forged from iron and roughly 20 inches long.",
+      "req": "",
+      "bonus": "DMG+1d6",
+      "cons": false,
+      "hp": { "max": 20, "temp": 20 },
+      "cost": "2sp"
+    }
   ],
   "C": [
   
