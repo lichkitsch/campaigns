@@ -61,15 +61,15 @@ Characters start with `10+CON` max HP at level 1. When you level up, roll your n
 
 ## Items & Abilities
 
-Characters can carry `10+STR` items and have ability slots based on their level. Items and abilities use the following ranks:
+Characters can carry `10+STR` items and have limited ability slots per rank based on their level. Items and abilities use the following ranks:
 
-|  | Stat Buff | Damage | Item HP |
-|:---:|:---:|:---:|:---:|
-| **F** | `+/- 1` | `1d4` | `4d4` |
-| **D** | `+/- 2` | `1d6` | `6d6` |
-| **C** | `+/- 3` | `1d8` | `8d8` |
-| **B** | `+/- 4` | `1d10` | `10d10` |
-| **A** | `+/- 5` | `1d12` | `12d12` |
-| **S** | `+/- 6` | `1d20` | `10d20` |
+|  | Stat Buff | Damage | Item HP | Value |
+|:---:|:---:|:---:|:---:|:---:|
+| **F** | `+/- 1` | `1d4` | `4d4` | `1d10` cp |
+| **D** | `+/- 2` | `1d6` | `6d6` | `1d10` sp |
+| **C** | `+/- 3` | `1d8` | `8d8` | `1d10` gp |
+| **B** | `+/- 4` | `1d10` | `10d10` | `1d10` pp |
+| **A** | `+/- 5` | `1d12` | `12d12` | `1d10` gems |
+| **S** | `+/- 6` | `1d20` | `10d20` | `1d10` jewels |
 
 Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s damage rather than adding your own damage roll. Abilities require specific stats, use slots (`Level / Stat Buff`), and are gained through experience, study, training, etc. Pick a class, but learn new things as you go!
