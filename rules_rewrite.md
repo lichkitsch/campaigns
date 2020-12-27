@@ -18,9 +18,9 @@ You can rearrange stats once. When you level up, you can spend 1 point on any on
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. If a character’s HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death.
+Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice** and reduce their HP by the result. If a character’s HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death.
 
-### Damage Dice by Level
+### Heart Dice by Level
 
 <table>
   <tbody>
@@ -59,13 +59,13 @@ Characters, along with many items and obstacles, have a stat called **heart poin
   </tbody>
 </table>
 
-Characters start with 10 max HP at level 1. When you level up, roll your new damage dice and add the result to your max HP.
+Characters start with 10 max HP at level 1. When you level up, roll your new heart dice and add the result to your max HP.
 
 ## Items & Abilities
 
 Characters can carry `10+STR` items and have limited ability slots per rank based on their level. Items and abilities use the following ranks:
 
-|  | Stat Buff | Damage | Item HP | Value |
+|  | Stat Buff | Heart Dice | Item HP | Value |
 |:---:|:---:|:---:|:---:|:---:|
 | **F** | `+/- 1` | `1d4` | `4d4` | `1d10` cp |
 | **D** | `+/- 2` | `1d6` | `6d6` | `1d10` sp |
@@ -74,4 +74,4 @@ Characters can carry `10+STR` items and have limited ability slots per rank base
 | **A** | `+/- 5` | `1d12` | `12d12` | `1d10` gems |
 | **S** | `+/- 6` | `1d20` | `20d20` | `1d10` jewels |
 
-Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s damage rather than adding your own damage roll. Abilities require specific stats, use slots (`Level / Stat Buff`), and are gained through experience, study, training, etc.
+Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s heart dice rather than adding your own roll. Abilities require specific stats, use slots (`Level / Stat Buff`), and are gained through experience, study, training, etc.
