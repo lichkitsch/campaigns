@@ -4,9 +4,9 @@ _Review_ recent events, the party's status, and the situation at hand.
 ## Important NPCs
 
 - **NPC Name**
-  - Who they are
-  - Appearance and personality
-  - Wants to ... so they ...
+    - Who they are
+    - Appearance and personality
+    - Wants to ... so they ...
   
 **Goal:** Give a clear, measurable, attainable goal for the player to pursue.
 
