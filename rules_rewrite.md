@@ -3,7 +3,7 @@ _DNDuet_ is a simple, flexible system for building and playing custom tabletop R
 
 ## Action Rolls
 
-When the outcome of a character’s action is uncertain, roll `1d20+stat` against the obstacle in question. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following stats:
+When the outcome of a character’s action is uncertain, roll `1d20+stat` against the obstacle. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following stats:
 
 | Stat | Abbr. | Use |
 |:---:|:---:|:--- |
