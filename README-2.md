@@ -18,7 +18,7 @@ You can rearrange stats once. When you level up, you can spend 1 point on any on
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If a character’s HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death.
+Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If an obstacle's HP reaches zero it is no longer a threat. If a character’s HP reaches zero they suffer a major narrative setback.
 
 ### Heart Dice by Level
 
