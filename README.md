@@ -65,12 +65,13 @@ Characters start with 10 max HP at L1. Roll HD to regain HP every 2 hours of res
 
 Players can add bonus dice to specific actions and HD rolls using items such as tools, weapons, wearables, and consumables. Characters can carry `10+STR` items at a time, though smaller items can sometimes stack. Non-consumable items have HP and take HD damage when used on a failed action. If the item's HP reaches zero it breaks and cannot be used until repaired by someone qualified (based on it's rating).
 
-|  | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+|  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Bonus** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
 | **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
-| **Cost** | x0.1 | x1 | x10 | x100 | x1000 | x10000 |
+| **Cost** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
-If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For cost, roll percentage dice (`1d10` and `1d00`) and multiply the result as listed.
+If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For cost, roll percentage dice (`1d10` for the first digit and `1d00` for the second digit, 0 and 00 equals 100) and multiply the result as listed.
 
 ## Abilities
 
