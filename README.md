@@ -3,22 +3,22 @@ _DNDuet_ is a simple, flexible system for building and playing custom tabletop R
 
 ## Action Rolls
 
-When the outcome of a character’s action is uncertain, roll `1d20+stat` against the GM. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following stats:
+When the outcome of a character’s action is uncertain, roll `1d20+trait` against the target, set by the GM. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following:
 
-| Stat | Abbr. | Use |
-|:---:|:---:|:--- |
-| Strength | `STR` | Athletics, muscle, melee attacks |
-| Dexterity | `DEX` | Acrobatics, stealth, finesse |
-| Constitution | `CON` | Health, endurance, stamina |
-| Intelligence | `INT` | Memory, logic, investigation |
-| Wisdom | `WIS` | Intuition, perception, ranged attacks |
-| Charisma | `CHA` | Performance, persuasion, deception |
+| Trait | Uses |
+|:---:|:--- |
+| Strength | Athletics, muscle, melee attacks |
+| Dexterity | Acrobatics, stealth, finesse |
+| Constitution | Endurance, resistance |
+| Intelligence | Memory, logic, investigation |
+| Wisdom | Intuition, perception, ranged attacks |
+| Charisma | Performance, persuasion, deception |
 
-You can rearrange stats once. When you level up, you can spend 1 point on any one stat lower than 5.
+You can rearrange these rolls once. When you level up, you can spend 1 point on any one trait lower than 5.
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If an obstacle's HP reaches zero it is no longer a threat. If a character’s HP reaches zero they suffer a major narrative setback.
+Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If an obstacle's HP reaches zero it is no longer a threat. If a character’s HP reaches zero they suffer a major narrative setback.
 
 ### Heart Dice by Level
 
