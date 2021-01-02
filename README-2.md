@@ -18,7 +18,7 @@ You can rearrange stats once. When you level up, you can spend 1 point on any on
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice** and reduce their HP by the result. If a character’s HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death.
+Characters, along with many items and obstacles, have a stat called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If a character’s HP reaches zero they suffer a major setback like imprisonment, severe injury, or even death.
 
 ### Heart Dice by Level
 
@@ -59,21 +59,27 @@ Characters, along with many items and obstacles, have a stat called **heart poin
   </tbody>
 </table>
 
-Characters start with 10 max HP at level 1. When you level up, roll your new heart dice and add the result to your max HP.
+Characters start with 10 max HP at L1. Roll HD to regain HP every 2 hours of rest. When you level up, roll your new HD and add the result to your max HP.
 
-## Items & Abilities
+## Items & Inventory
 
-Characters can carry `10+STR` items and have a limited amount of ability points based on their level. Items and abilities use the following heirarchy:
+Players can add bonus dice to specific actions and HD rolls using items such as tools, weapons, wearables, and consumables. Characters can carry `10+STR` items at a time, though smaller items can sometimes stack. Non-consumable items have HP and take HD damage when used on a failed action. If the item's HP reaches zero it breaks and cannot be used until repaired by someone qualified (based on it's rating).
 
-| Bonus | Item HP | Value |
-|:---:|:---:|:---:|
-| `d4` | `4d4` | `d10` cp |
-| `d6` | `6d6` | `d10` sp |
-| `d8` | `8d8` | `d10` gp |
-| `d10` | `10d10` | `d10` pp |
-| `d12` | `12d12` | `d10` gems |
-| `d20` | `20d20` | `d10` jewels |
+|  | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
+| **Cost** | x0.1 | x1 | x10 | x100 | x1000 | x10000 |
 
-Item and ability bonus dice are applied to either action rolls or heart dice rolls, depending on the specific function of the item/ability. Items take damage on failed rolls, break when they reach zero HP, and can only be repaired by someone qualified. Consumable items add each lower rank’s heart dice rather than adding your own roll.
+If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For cost, roll percentage dice (`1d10` and `1d00`) and multiply the result as listed.
 
-Abilities are based on physical features, experience, study, training, divine gifts, etc. p
+## Abilities
+
+Abilities are based on physical features, experience, study, training, divine gifts, etc. They have a similar effect as items, and can sometimes be combined with items in the right circumstances, but if you use an ability with an item and the roll fails you mist add the ability bonus when rolling damage for the item.
+
+Abilities are equipped by spending **ability points (AP)**. Characters start with 5 AP and one `d4` ability at L1 and gain 3 AP with every level up. Some abilities are gifted by the GM based on events in the story, but characters also unlock abilities specific to their class/job/etc on every even-numbered level:
+
+| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `d4` | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+
+Abilities cost the same amount of AP to equip as the number of sides on their bonus die. At L2 you can equip both of your `d4` abilities, but at higher levels you'll have to be more strategic. You can switch around your abilities during times of rest.

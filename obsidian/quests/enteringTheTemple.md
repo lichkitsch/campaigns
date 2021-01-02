@@ -1,3 +1,5 @@
+* rewind to before sex
+
 # Entering the Temple
 You hear something making its way through the brush. Shimni calls out to the group, "Get ready!" From the dark wood, a figure emerges; the old beggar from before steps out. "Ah, funny seeing you lot this deep in my forest...this late into the night..." He's covered himself in a brown woven cloak and is carrying his walking stick under his arm.
 
