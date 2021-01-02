@@ -75,12 +75,12 @@ If a consumable item affects HP, roll the bonus die and one of each lesser dice 
 
 ## Abilities
 
-Abilities are based on physical features, experience, study, training, divine gifts, etc. They have a similar effect as items, and can sometimes be combined with items in the right circumstances, but if you use an ability with an item and the roll fails you mist add the ability bonus when rolling damage for the item.
+Abilities are bonuses to specific rolls based on physical features, experience, study, training, divine gifts, etc. They can sometimes be combined with items in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item.
 
-Abilities are equipped by spending **ability points (AP)**. Characters start with 5 AP and one `d4` ability at L1 and gain 3 AP with every level up. Some abilities are gifted by the GM based on events in the story, but characters also unlock abilities specific to their class/job/etc on every even-numbered level:
+Abilities are equipped by spending **ability points (AP)**. Characters start with 5 AP and one `d4` ability at L1 and gain 3 AP with every level up. Characters unlock abilities specific to their class/job/etc on every even-numbered level:
 
 | L1 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `d4` | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
 
-Abilities cost the same amount of AP to equip as the number of sides on their bonus die. At L2 you can equip both of your `d4` abilities, but at higher levels you'll have to be more strategic. You can switch around your abilities during times of rest.
+Abilities cost the same amount of AP to equip as the number of sides on their bonus die. At L2 you can equip both of your `d4` abilities, but at higher levels you'll have to be more strategic. You can switch around your abilities during times of rest. On rare occasions the GM may grant a character temporary or even permanent abilities thanks to specific narrative events.
