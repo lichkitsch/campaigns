@@ -14,7 +14,7 @@ When the outcome of a character’s action is uncertain, roll `1d20+trait` again
 | Wisdom | Intuition, perception, ranged attacks |
 | Charisma | Performance, persuasion, deception |
 
-You can rearrange these rolls once. When you level up, you can spend 1 point on any one trait lower than 5.
+You can rearrange these rolls once. When you level up, you can add 1 point to any one trait lower than 5.
 
 ## Heart Points
 
