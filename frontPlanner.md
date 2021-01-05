@@ -19,9 +19,9 @@ Each front will follow a typical story structure, with each quest ending on a mi
 
 | Rank | Milestone | Description |
 |:---:|:---:|:--- |
-| F | Hook | Something immediate happens to draw the player's attention and make them care about the situation at hand. Make it clear that there will be consequences for ignoring the call to action, and follow through with the consequences if they ignore it. |
-| D | Exploration | The player is missing something that they need to start the quest proper such as information, allies, access, or supplies. Give them NPCs to interact with and interesting places to explore before things get real. |
-| C | Guardian | The location in question is blocked by something (magic, enemies, lack of information, societal convention, etc) and the player must find a way inside before they can proceed. |
-| B | Challenge | Some obstacle stands between the player and their goal (a puzzle, enemies, or both) and they must use their skills and prowess to overcome it to move on.  |
-| A | Twist | Something about the goal isn't as it seems and the truth is revealed to the player; there is more going on than they were led to believe. |
-| S | Boss Fight | There is one last huge obstacle to overcome before the goal is reached and the player can receive their reward, if they survive. The resolution of the boss fight should also reveal the milestone within the larger front and provide a clue to the next course of action. |
+| F | Hook | Something happens to draw the player's attention and make them care about the situation. Make it clear that there will be consequences for ignoring the call to action, and follow through with the consequences if they choose to ignore it. Prepare NPCs to interact with and interesting places to explore before things get real. |
+| D | Guardian | The way is shut by something or someone and the party has some obstacle to overcome to enter the quest location. |
+| C | Challenge | Some obstacle stands between the player and their goal (a puzzle, enemies, or both) and they must use their skills and prowess to overcome it to move on.  |
+| B | Twist | Something about the goal isn't as it seems and the truth is revealed to the player; there is more going on than they were led to believe. |
+| A | Boss Fight | There is one last huge obstacle to overcome before the goal is reached and the player can receive their reward, if they survive. |
+| S | Revelation | The resolution of the boss fight reveals some final perspective on the situation, the milestone within the larger front, and provides a clue to the next course of action. |
