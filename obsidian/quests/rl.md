@@ -17,12 +17,20 @@ Flat wetland shining red as blood, wandering Marsh Devils (F) hiding in bubbling
 **Travel Roll**
 | Result | Outcome |
 |:---:|:---:|
-| 2-4 |  |
-| 5-7 |  |
-| 8-10 |  |
+| 2-4 | Ambushed by Marsh Devils |
+| 5-7 | Make way through the marsh unharmed, but takes longer |
+| 8-10 | Meet up with a group traveling with a possessed devil |
 
 ## Ramora
 Ramshackle buildings piled up like firewood, wall and gates of sharpened logs, charms of carved bones hanging from twine stretched over the walkways
 
+**Scenes**
+- Gin possessed by Sveta, chase through town
+- Talgat hustling adventurers at the Hollowing Hole
+- Sveta's plea for help in finding her parents
+
 ## The Sunken Temple
 Stone brick walls caked in damp red moss and vines, stone floor littered with oxidized copper braziers, broken stone columns, and bones, the inside is dark and the air thick, damp, and cold
+
+**Obstacles**
+1. 
