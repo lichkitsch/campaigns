@@ -13,7 +13,7 @@ The Willabog has stolen Gin's memories and he and Mellen have been separated fro
 Flat wetland shining red as blood, wandering Marsh Devils (F) hiding in bubbling pits, bleached bones poking up from the murky water with flesh still clinging beneath the surface
 
 | Travel Roll | Outcome |
-|:---:|:---:|
+|:---:|:--- |
 | 2-4 | Ambushed by Marsh Devils |
 | 5-7 | Make way through the marsh unharmed, but takes longer |
 | 8-10 | Meet up with a group traveling with a possessed devil |
