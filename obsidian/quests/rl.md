@@ -12,8 +12,7 @@ The Willabog has stolen Gin's memories and he and Mellen have been separated fro
 ## The Red Marsh
 Flat wetland shining red as blood, wandering Marsh Devils (F) hiding in bubbling pits, bleached bones poking up from the murky water with flesh still clinging beneath the surface
 
-**Travel Roll**
-| Result | Outcome |
+| Travel Roll | Outcome |
 |:---:|:---:|
 | 2-4 | Ambushed by Marsh Devils |
 | 5-7 | Make way through the marsh unharmed, but takes longer |
