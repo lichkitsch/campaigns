@@ -21,13 +21,28 @@ Flat wetland shining red as blood, wandering Marsh Devils (F) hiding in bubbling
 ## Ramora
 Ramshackle buildings piled up like firewood, wall and gates of sharpened logs, charms of carved bones hanging from twine stretched over the walkways
 
-**Scenes**
-- Gin possessed by Sveta, chase through town
-- Talgat hustling adventurers at the Hollowing Hole
-- Sveta's plea for help in finding her parents
+### Scenes
+1. Gin possessed by Sveta, chase through town
+2. Talgat hustling adventurers at the Hollowing Hole
+3. Sveta's plea for help in finding her parents
 
 ## The Sunken Temple
-Stone brick walls caked in damp red moss and vines, stone floor littered with oxidized copper braziers, broken stone columns, and bones, the inside is dark and the air thick, damp, and cold
+Stone brick walls caked in damp red moss and vines, stone floor littered with oxidized copper braziers, broken stone columns, and bones, the inside is dark and the air thick, damp, and cold.
 
-**Obstacles**
-1. 
+In the first room there is an abandoned camp with a skeletal figure clinging to a large chest, locked by magic.
+
+### Scenes
+1. 2 Marsh Devils (F) guarding the entrance and cocoons
+2. 3 Marsh Imps (F) that flee when entering the temple
+3. 3 Marsh Devils (F) and a Marsh Beast (D) waiting across a chasm
+4. **Pilka** the Devil King
+5. **Tirtzi** the Devil Queen (C)
+6. Possessing the Willabog
+
+### Treasures
+The large locked chest can be opened after defeating Tirtzi to reveal the following:
+
+- Whetstone of Blazing Ash (D)
+- Phial of Awakening Salts (C)
+- Thieves' Ledger (includes diary entries of Sveta's parents as well as an illustration of them holding her as a baby)
+- 1500 gp
