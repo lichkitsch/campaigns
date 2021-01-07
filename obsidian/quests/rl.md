@@ -12,3 +12,17 @@ The Willabog has stolen Gin's memories and he and Mellen have been separated fro
 Find the rest of the group and restore Gin's stolen memories.
 
 ## The Red Marsh
+Flat wetland shining red as blood, wandering Marsh Devils (F) hiding in bubbling pits, bleached bones poking up from the murky water with flesh still clinging beneath the surface
+
+**Travel Roll**
+| Result | Outcome |
+|:---:|:---:|
+| 2-4 |  |
+| 5-7 |  |
+| 8-10 |  |
+
+## Ramora
+Ramshackle buildings piled up like firewood, wall and gates of sharpened logs, charms of carved bones hanging from twine stretched over the walkways
+
+## The Sunken Temple
+Stone brick walls caked in damp red moss and vines, stone floor littered with oxidized copper braziers, broken stone columns, and bones, the inside is dark and the air thick, damp, and cold
