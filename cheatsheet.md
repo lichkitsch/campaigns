@@ -50,4 +50,4 @@
 Roll 
 d% and multiply the result by value listed
 
-**Note:** Add lower dice instead of HD roll for consumables and obstacle HD
+Add lower dice (not HD) for consumables/obstacles
