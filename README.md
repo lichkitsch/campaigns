@@ -3,7 +3,9 @@ _DNDuet_ is a simple, flexible system for building and playing custom tabletop R
 
 ## Action Rolls
 
-When the outcome of a character’s action is uncertain, roll `1d20+trait` against the target, set by the GM. If your result is higher the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. When creating a character, roll `1d4-2` for the following:
+When the outcome of a character’s action is uncertain, roll `1d20+trait` against the target, set by the GM. If your result is higher the outcome is positive and if not, the outcome is negative. If the result is equal to the target, the positive outcome carries a cost.
+
+When creating a character, roll `1d4-2` for the following:
 
 | Trait | Uses |
 |:---:|:--- |
@@ -14,7 +16,7 @@ When the outcome of a character’s action is uncertain, roll `1d20+trait` again
 | Wisdom | Intuition, perception, ranged attacks |
 | Charisma | Performance, persuasion, deception |
 
-You can rearrange these rolls once. When you level up, you can add 1 point to any one trait lower than 5.
+You can rearrange these rolls once. When you level up add 1 point to any one trait lower than 5.
 
 ## Heart Points
 
@@ -27,60 +29,61 @@ Characters, along with many items and obstacles, have a resource called **heart 
     <tr>
       <th>L1</th>
       <td><code>1d4</code></td>
-      <th>L5</th>
-      <td><code>2d6</code></td>
-      <th>L9</th>
-      <td><code>3d10</code></td>
-    </tr>
-    <tr>
       <th>L2</th>
       <td><code>1d6</code></td>
-      <th>L6</th>
-      <td><code>2d8</code></td>
-      <th>L10</th>
-      <td><code>3d12</code></td>
-    </tr>
-    <tr>
       <th>L3</th>
       <td><code>1d8</code></td>
-      <th>L7</th>
-      <td><code>2d10</code></td>
-      <th>L11</th>
-      <td><code>4d10</code></td>
-    </tr>
-    <tr>
       <th>L4</th>
       <td><code>1d10</code></td>
+    </tr>
+    <tr>
+      <th>L5</th>
+      <td><code>2d6</code></td>
+      <th>L6</th>
+      <td><code>2d8</code></td>
+      <th>L7</th>
+      <td><code>2d10</code></td>
       <th>L8</th>
       <td><code>2d12</code></td>
+    </tr>
+    <tr>
+      <th>L9</th>
+      <td><code>3d10</code></td>
+      <th>L10</th>
+      <td><code>3d12</code></td>
+      <th>L11</th>
+      <td><code>4d10</code></td>
       <th>L12</th>
       <td><code>4d12</code></td>
     </tr>
   </tbody>
 </table>
 
-Characters start with 10 max HP at L1. Roll HD to regain HP every 2 hours of rest. When you level up, roll your new HD and add the result to your max HP.
+Characters start with 10 max HP at L1. Roll your HD to regain lost HP after every 2 hours of rest. When you level up, roll your new HD to increase your max HP.
 
 ## Items & Inventory
 
-Players can add bonus dice to specific actions and HD rolls using items such as tools, weapons, wearables, and consumables. Characters can carry `10+STR` items at a time, though smaller items can sometimes stack. Non-consumable items have HP and take HD damage when used on a failed action. If the item's HP reaches zero it breaks and cannot be used until repaired by someone qualified (based on it's rating).
+Players can add bonus dice to specific actions and HD rolls using items such as tools, weapons, wearables, and consumables. Non-consumable items have HP and take HD damage on a negative outcome. If the item's HP reaches zero it breaks and cannot be used until if is repaired by someone qualified.
 
-|  | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Bonus** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
-| **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
-| **Cost** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
+| Levels | Bonus | Max HP | Value | Rarity |
+|:---:|:---:|:---:|:---:|:---:|
+| 1-3 | `d4` | `4d4` | x0.01 | Abundant |
+| 4, 5 | `d6` | `6d6` | x0.1 | Common |
+| 6, 7 | `d8` | `8d8` | x1 | Uncommon |
+| 8, 9 | `d10` | `10d10` | x10 | Rare |
+| 10, 11 | `d12` | `12d12` | x100 |  Epic |
+| 12 | `d20` | `20d20` | x1000 | Legendary |
 
-If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For cost, roll percentage dice (`1d10` for the first digit and `1d00` for the second digit, 0 and 00 equals 100) and multiply the result as listed.
+If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For value, roll percentage dice (`1d00+1d10`, 00 and 0 equals 100) and multiply the result as listed.
 
 ## Abilities
 
 Abilities are bonuses to specific rolls based on physical features, experience, study, training, divine gifts, etc. They can sometimes be combined with items in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item.
 
-Abilities are equipped by spending **ability points (AP)**. Characters start with 5 AP and one `d4` ability at L1 and gain 3 AP with every level up. Characters unlock abilities specific to their class/job/etc on every even-numbered level:
+Characters start with one `d4` ability and unlock abilities specific to their class/job/etc with every even numbered level:
 
 | L1 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `d4` | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
 
-Abilities cost the same amount of AP to equip as the number of sides on their bonus die. At L2 you can equip both of your `d4` abilities, but at higher levels you'll have to be more strategic. You can switch around your abilities during times of rest. On rare occasions the GM may grant a character temporary or even permanent abilities thanks to specific narrative events.
+Sometimes the GM may grant a character temporary or even permanent abilities thanks to specific narrative events.
