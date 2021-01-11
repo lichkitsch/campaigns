@@ -37,18 +37,19 @@
   </tbody>
 </table>
 
-**Item, ability, and obstacle ratings**
+**Item and Ability Ranks**
 
-| Rating | Levels | Bonus | Max HP | &#42; Cost |
+| Levels | Bonus | Max HP | Value | Rarity |
 |:---:|:---:|:---:|:---:|:---:|
-| **F** | 1-3 | `+d4`| `4d4` | x0.01 |
-| **D** | 4, 5 | `+d6` | `6d6` | x0.1 |
-| **C** | 6, 7 | `+d8` | `8d8` | x1 |
-| **B** | 8, 9 | `+d10` | `10d10` | x10 |
-| **A** | 10, 11 | `+d12` | `12d12` | x100 |
-| **S** | 12 | `+d20` | `20d20` | x1000 |
+| 1-3 | `d4` | `4d4` | x0.01 | Abundant |
+| 4, 5 | `d6` | `6d6` | x0.1 | Common |
+| 6, 7 | `d8` | `8d8` | x1 | Uncommon |
+| 8, 9 | `d10` | `10d10` | x10 | Rare |
+| 10, 11 | `d12` | `12d12` | x100 |  Epic |
+| 12 | `d20` | `20d20` | x1000 | Legendary |
 
 
-&#42; Roll 2d10, one for each digit, multiply by cost
+Roll 
+d% and multiply the result by value listed
 
-**Note:** Add the listed bonus die and all lower rating bonuses for consumables and obstacle HD
+**Note:** Add lower dice instead of HD roll for consumables and obstacle HD
