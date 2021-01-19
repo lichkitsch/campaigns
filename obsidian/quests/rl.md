@@ -44,5 +44,6 @@ The large locked chest can be opened after defeating Tirtzi to reveal the follow
 
 - Whetstone of Blazing Ash (D)
 - Phial of Awakening Salts (C)
+- Dreamwalker's Amulet (C)
 - Thieves' Ledger (includes diary entries of Sveta's parents as well as an illustration of them holding her as a baby)
 - 1500 gp
