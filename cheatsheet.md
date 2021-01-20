@@ -48,6 +48,6 @@
 
 
 Roll 
-d% and multiply the result by value listed
+d% and multiply the result by the value listed for item value. Add a zero for the value of treasure caches.
 
-Add lower dice (not HD) for consumables/obstacles
+Add lower dice (not HD) for consumables/obstacles.

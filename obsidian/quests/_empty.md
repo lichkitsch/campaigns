@@ -1,36 +1,41 @@
 # Quest Name
-
-
-| Party Status |
-|:--- |
-| **Gin** |
-| **Pes** |
-| **Shimni** |
-| **Taliesin** |
-| **Curaçao** |
+Review of recent events, strong start
 
 ## Important NPCs
+Non-party characters and their motivations
 
-
-## Goal
-
+### Goal
+Pick a plot
 
 ---
 
-## Location Name
+## Locations
+
+### Name
 Description
 
 | Obstacle | Details |
 |:---:|:--- |
-| Guardian |  |
-| Challenge |  |
-| Twist |  |
-| Climax |  |
+| Physical Challenge |  |
+| Mental Challenge |  |
+| Social Encounter |  |
+| Combat Encounter |  |
 
-### Secrets
+---
 
-- 
-
-### Treasure
+## Secrets
 
 1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+## Treasures
+
+- 
