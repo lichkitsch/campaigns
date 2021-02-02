@@ -37,14 +37,14 @@
 
 **Item and Ability Ranks**
 
-| Levels | Bonus | Max HP | Value | Rarity |
+| Bonus | Avg HD | Avg+ | Avg HP | Value |
 |:---:|:---:|:---:|:---:|:---:|
-| 1-3 | `d4` | `4d4` | x0.01 | Abundant |
-| 4, 5 | `d6` | `6d6` | x0.1 | Common |
-| 6, 7 | `d8` | `8d8` | x1 | Uncommon |
-| 8, 9 | `d10` | `10d10` | x10 | Rare |
-| 10, 11 | `d12` | `12d12` | x100 |  Epic |
-| 12 | `d20` | `20d20` | x1000 | Legendary |
+| `d4` | 2.5 | 2.5 | 10 | x0.01 |
+| `d6` | 3.5 | 6 | 21 | x0.1 |
+| `d8` | 4.5 | 10.5 | 36 | x1 |
+| `d10` | 5.5 | 16 | 55 | x10 |
+| `d12` | 6.5 | 22.5 | 78 | x100 |
+| `d20` | 10.5 | 33 | 210 | x1000 |
 
 
 Roll 

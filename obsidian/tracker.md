@@ -9,8 +9,9 @@
 ## Upcoming Scenes
 
 - Meet Kapka and Anton on their horse-less buggy
-- Kapka wants to bring alternative energy to Orben in the form of insect turbines; bugs love the gears and can be somere
+- Kapka wants to bring alternative energy to Orben in the form of mini turbines
 - Mellen finds Berezin's body while he's sleeping/spying inn a possessed creature
 - Mellen wants to use the creeping stutterwort on Berezin without him knowing to try and get some useful straight answers
     - Berezin still <b>cant</b> tell who he works for because the memories have been taken by Ravi
-    - Berezin <b>can</b> admit that Mellen's father asked him to watch over her and keep her safe.
+    - Berezin <b>can</b> admit that someone close to Mellen paid him to watch over her and keep her safe if she ever came to Ramora. He's been watching for a long while.
+
