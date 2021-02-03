@@ -46,5 +46,5 @@
 
 - **Equipment** - add bonus to specific action or damage roll
   - Take dice damage on failure, bonus damage on block to reduce damage
-- **Consumables** - add bonus or roll bonus amount of dice
+- **Consumables** - add bonus to specific action or roll bonus amount of dice for damage
 - **Abilities** - add dice to specific action or damage roll
