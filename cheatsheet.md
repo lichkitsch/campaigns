@@ -37,12 +37,12 @@
 
 **Item and Ability Ratings**
 
-|  | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Bonus** | +1 | +2 | +3 | +4 | +5 | +6 |
-| **Dice** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
-| **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
-| **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| +1 | +2 | +3 | +4 | +5 | +6 |
+| `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+| `4d4 HP` | `6d6 HP` | `8d8 HP` | `10d10 HP` | `12d12 HP` | `20d20 HP` |
+| x $0.01 | x $0.1 | x $1 | x $10 | x $100 | x $1000 |
 
 - **Equipment** - add bonus to specific action or damage roll
     - Take dice damage on failure, bonus damage on block to reduce damage
