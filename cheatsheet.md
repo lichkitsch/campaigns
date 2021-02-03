@@ -1,4 +1,4 @@
-## Heart Dice by Level
+**Damage Dice by Level**
 
 <table>
   <tbody>
