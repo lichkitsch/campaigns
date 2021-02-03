@@ -45,6 +45,6 @@
 | **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
 - **Equipment** - add bonus to specific action or damage roll
-  - Take dice damage on failure, bonus damage on block to reduce damage
+    - Take dice damage on failure, bonus damage on block to reduce damage
 - **Consumables** - add bonus to specific action or roll bonus amount of dice for damage
 - **Abilities** - add dice to specific action or damage roll
