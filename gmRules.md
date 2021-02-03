@@ -16,13 +16,23 @@ Characters, as well as equipment and some obstacles, have a resource called **he
 
 > Insert damage table here
 
+Characters regain HP naturally after every 2 hours of rest by rolling their damage and adding the result to their current HP. When you reach a new level, roll your new damage dice and increase your max HP by the result.
+
+## Equipment
+Equipment has it's own HP and adds or subtracts points to specific action or damage rolls. If the equipment is used on an action but the outcome is negative, the equipment takes damage. In some cases you can choose to damage an item on purpose to offset incoming damage, but only by the equipment's bonus. For example, if you would take 8 points of damage from a club you might use your +3 sword to soften the blow; you would take 5 damage and your sword would take 3. If the equipment breaks it must be repaired by someone qualified before it can be used again.
+
+| Quality | Bonus | Max HP | Value |
+|:---:|:---:|:---:|:---:|
+| Poor | +/- 1 | `4d4` | x0.01 |
+| Fair | +/- 2 | `6d6` | x0.1 |
+| Decent | +/- 3 | `8d8` | x1 |
+| Good | +/- 4 | `10d10` | x10 |
+| Great | +/- 5 | `12d12` | x100 |
+| Excellent | +/- 6 | `20d20` | x1000 |
 
 
-Player Resources:
-- Trait scores modify the results of action rolls
-- Heart points represent overall integrity
-- Damage dice add or subtract HP from targets/self
-- Equipment adds or subtracts points to action or damage rolls
+
+
 - Consumables add or subtract points or damage based on quality
 - Abilities add bonus dice to specific action or damage rolls
 
