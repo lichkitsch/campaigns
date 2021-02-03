@@ -45,7 +45,7 @@
 
 &#42; Roll bonus amount of dice for consumable damage<br/>
 &#42;&#42; Roll dice sides amount of dice for equipment max HP (`4d4`, `6d6`, etc.)<br/>
-&#42;&#42;&#42; Roll 1d10+1d00, multiply by value for consumables, multiply by 10 once more for equipment
+&#42;&#42;&#42; Roll `d%`, multiply by value for consumables, multiply by 10 once more for equipment
 
 **Class Abilities**
 
