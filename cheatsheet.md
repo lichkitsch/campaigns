@@ -43,8 +43,8 @@
 | **Die** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
 | **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
-&#42; Roll bonus amount of dice for consumable damage
-&#42;&#42; Roll die sides amount of dice for equipment max HP
+&#42; Roll bonus amount of dice for consumable damage<br/>
+&#42;&#42; Roll die sides amount of dice for equipment max HP<br/>
 &#42;&#42;&#42; Roll 1d10+1d00, multiply by value for consumables, multiply by 10 once more for equipment
 
 **Class Abilities**
