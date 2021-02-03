@@ -35,16 +35,24 @@
   </tbody>
 </table>
 
-**Item and Ability Ratings**
+**Equipment**
 
 | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | +1 | +2 | +3 | +4 | +5 | +6 |
-| `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
-| `4d4 HP` | `6d6 HP` | `8d8 HP` | `10d10 HP` | `12d12 HP` | `20d20 HP` |
-| x $0.01 | x $0.1 | x $1 | x $10 | x $100 | x $1000 |
+| `4d4HP` | `6d6HP` | `8d8HP` | `10d10HP` | `12d12HP` | `20d20HP` |
+| x0.1 | x1 | x10 | x100 | x1000 | x10000 |
 
-- **Equipment** - add bonus to specific action or damage roll
-    - Take dice damage on failure, bonus damage on block to reduce damage
-- **Consumables** - add bonus to specific action or roll bonus amount of dice for damage
-- **Abilities** - add dice to specific action or damage roll
+**Consumables**
+
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| +1 | +2 | +3 | +4 | +5 | +6 |
+| `1d4` | `2d6` | `3d8` | `4d10` | `5d12` | `6d20` |
+| x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
+
+**Item and Ability Ratings**
+
+| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `+1d4` | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
