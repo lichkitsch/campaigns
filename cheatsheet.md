@@ -44,8 +44,8 @@
 | **Max HP** | 10 | 21 | 36 | 55 | 78 | 210 |
 | **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
-- Equipment: add bonus to action or damage
+- **Equipment**: add bonus to action or damage
   - Take dice damage on failure
   - Sacrifice bonus damage of equipment HP to reduce bonus amount of incoming damage
-- Consumables: add bonus or roll bonus amount of dice
-- Abilities: add dice to specific action or damage roll
+- **Consumables**: add bonus or roll bonus amount of dice
+- **Abilities**: add dice to specific action or damage roll
