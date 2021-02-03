@@ -35,19 +35,21 @@
   </tbody>
 </table>
 
-**Item and Ability Ranks**
+**Item Ranks**
 
-| Bonus | Avg HD | Avg+ | Avg HP | Value |
+| Rating | Bonus | Damage | Max HP | * Value |
 |:---:|:---:|:---:|:---:|:---:|
-| `d4` | 2.5 | 2.5 | 10 | x0.01 |
-| `d6` | 3.5 | 6 | 21 | x0.1 |
-| `d8` | 4.5 | 10.5 | 36 | x1 |
-| `d10` | 5.5 | 16 | 55 | x10 |
-| `d12` | 6.5 | 22.5 | 78 | x100 |
-| `d20` | 10.5 | 33 | 210 | x1000 |
+| F | +1 | `1d4` | `4d4` | x0.01 |
+| D | +2 | `2d6` | `6d6` | x0.1 |
+| C | +3 | `3d8` | `8d8` | x1 |
+| B | +4 | `4d10` | `1d010` | x10 |
+| A | +5 | `5d12` | `12d12` | x100 |
+| S | +6 | `6d20` | `20d20` | x1000 |
 
+* Multiply by 1d10+1d00, multiply result by 10 for equipment
 
-Roll 
-d% and multiply the result by the value listed for item value. Add a zero for the value of treasure caches.
+**Class Abilities**
 
-Add lower dice (not HD) for consumables/obstacles.
+| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `+d4` | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
