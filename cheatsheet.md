@@ -46,7 +46,7 @@
 | A | +5 | `5d12` | `12d12` | x100 |
 | S | +6 | `6d20` | `20d20` | x1000 |
 
-&38; Multiply by 1d10+1d00, multiply result by 10 for equipment
+&#38; Multiply by 1d10+1d00, multiply result by 10 for equipment
 
 **Class Abilities**
 
