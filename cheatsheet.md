@@ -35,7 +35,7 @@
   </tbody>
 </table>
 
-**Item Ranks**
+**Item and Ability Ratings**
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
