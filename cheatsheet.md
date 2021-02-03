@@ -37,16 +37,15 @@
 
 **Item Ranks**
 
-| Rating | Bonus | Damage | Max HP | * Value |
-|:---:|:---:|:---:|:---:|:---:|
-| F | +1 | `1d4` | `4d4` | x0.01 |
-| D | +2 | `2d6` | `6d6` | x0.1 |
-| C | +3 | `3d8` | `8d8` | x1 |
-| B | +4 | `4d10` | `1d010` | x10 |
-| A | +5 | `5d12` | `12d12` | x100 |
-| S | +6 | `6d20` | `20d20` | x1000 |
+|  | F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Bonus** | +1 | +2 | +3 | +4 | +5 | +6 |
+| **Die** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+| **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
-&#42; 1d10+1d00, multiply result by 10 for equipment
+&#42; Roll bonus amount of dice for consumable damage
+&#42;&#42; Roll die sides amount of dice for equipment max HP
+&#42;&#42;&#42; Roll 1d10+1d00, multiply by value for consumables, multiply by 10 once more for equipment
 
 **Class Abilities**
 
