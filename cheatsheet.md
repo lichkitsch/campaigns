@@ -41,14 +41,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Bonus** | +1 | +2 | +3 | +4 | +5 | +6 |
 | **Dice** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+| **Max HP** | 10 | 21 | 36 | 55 | 78 | 210 |
 | **Value** | x0.01 | x0.1 | x1 | x10 | x100 | x1000 |
 
-&#42; Roll bonus amount of dice for consumable damage<br/>
-&#42;&#42; Roll dice sides amount of dice for equipment max HP (`4d4`, `6d6`, etc.)<br/>
-&#42;&#42;&#42; Roll `d%`, multiply by value for consumables, multiply by 10 once more for equipment
-
-**Class Abilities**
-
-| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `+1d4` | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
+- Equipment: add bonus to action or damage
+  - Take dice damage on failure
+  - Sacrifice bonus damage of equipment HP to reduce bonus amount of incoming damage
+- Consumables: add bonus or roll bonus amount of dice
+- Abilities: add dice to specific action or damage roll
