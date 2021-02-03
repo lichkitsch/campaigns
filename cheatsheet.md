@@ -37,7 +37,7 @@
 
 **Equipment**
 
-| F | D | C | B | A | S |
+| Poor | Fair | Decent | Good | Great | Epic |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | +1 | +2 | +3 | +4 | +5 | +6 |
 | `4d4HP` | `6d6HP` | `8d8HP` | `10d10HP` | `12d12HP` | `20d20HP` |
@@ -45,7 +45,7 @@
 
 **Consumables**
 
-| F | D | C | B | A | S |
+| Poor | Fair | Decent | Good | Great | Epic |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | +1 | +2 | +3 | +4 | +5 | +6 |
 | `1d4` | `2d6` | `3d8` | `4d10` | `5d12` | `6d20` |
