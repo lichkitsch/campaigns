@@ -86,6 +86,6 @@ Characters start with one `d4` ability at L1 and gain the following bonus dice t
 
 | L1 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `d4` | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+| `1d4` | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
 
-For example, at L1 characters with dragon ancestry might have wings to aid in solo travel or a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6`. In this case, the GM might allow the player to take a new `d4` ability in its place.
+For example, at L1 characters with dragon ancestry could start with a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6` at L4. In this case, the GM might allow the player to take a new `d4` ability in its place.
