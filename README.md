@@ -20,9 +20,9 @@ You can rearrange these rolls once. When you level up add 1 point to any one tra
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **heart dice (HD)** and reduce their HP by the result. If an obstacle's HP reaches zero it is no longer a threat. If a character’s HP reaches zero they suffer a major narrative setback.
+Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. When HP reaches zero equipment breaks, obstacles are overcome, and characters suffer a major narrative setback.
 
-### Heart Dice by Level
+### Damage Dice by Level
 
 <table>
   <tbody>
@@ -59,31 +59,33 @@ Characters, along with many items and obstacles, have a resource called **heart 
   </tbody>
 </table>
 
-Characters start with 10 max HP at L1. Roll your HD to regain lost HP after every 2 hours of rest. When you level up, roll your new HD to increase your max HP.
+Characters start with 10 max HP at L1. Roll your damage to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
 
-## Items & Inventory
+## Equipment and Consumables
 
-Players can add bonus dice to specific actions and HD rolls using items such as tools, weapons, wearables, and consumables. Non-consumable items have HP and take HD damage on a negative outcome. If the item's HP reaches zero it breaks and cannot be used until if is repaired by someone qualified.
+During their adventure, characters collect useful items that provide bonus points to specific rolls. Items that provide a fixed bonus to a specific action or damage roll is called **equipment**. Equipment has max HP and takes damage on a negative outcome, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
 
-| Levels | Bonus | Max HP | Value | Rarity |
-|:---:|:---:|:---:|:---:|:---:|
-| 1-3 | `d4` | `4d4` | x0.01 | Abundant |
-| 4, 5 | `d6` | `6d6` | x0.1 | Common |
-| 6, 7 | `d8` | `8d8` | x1 | Uncommon |
-| 8, 9 | `d10` | `10d10` | x10 | Rare |
-| 10, 11 | `d12` | `12d12` | x100 |  Epic |
-| 12 | `d20` | `20d20` | x1000 | Legendary |
+### Item Ratings
 
-If a consumable item affects HP, roll the bonus die and one of each lesser dice and add up the total instead of adding your own HD roll. For value, roll percentage dice (`1d00+1d10`, 00 and 0 equals 100) and multiply the result as listed.
+| Rating | Bonus | Max HP | DMG | Value | Quality |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| F | +1 | `4d4` | `1d4` | x0.01 | Poor |  
+| D | +2 | `6d6` | `F+1d6` | x0.1 | Fair |
+| C | +3 | `8d8` | `D+1d8` | x1 | Decent |
+| B | +4 | `10d10` | `C+1d10` | x10 | Good |
+| A | +5 | `12d12` | `B+1d12` | x100 |  Great |
+| S | +6 | `20d20` | `A+1d20` | x1000 | Epic |
+
+For value, roll percentage dice (`1d00+1d10`, 00 and 0 equals 100) and multiply the result as listed.
 
 ## Abilities
 
-Abilities are bonuses to specific rolls based on physical features, experience, study, training, divine gifts, etc. They can sometimes be combined with items in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item.
+Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item. The GM may grant a character temporary or even permanent abilities thanks to specific narrative events, but characters also unlock new abilities at every even-numbered level.
 
-Characters start with one `d4` ability and unlock abilities specific to their class/job/etc with every even numbered level:
+Characters start with one `d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
 
 | L1 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `d4` | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
 
-Sometimes the GM may grant a character temporary or even permanent abilities thanks to specific narrative events.
+For example, at L1 characters with dragon ancestry might have wings to aid in solo travel or a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6`. In this case, the GM might allow the player to take a new `d4` ability in its place.
