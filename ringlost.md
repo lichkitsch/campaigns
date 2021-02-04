@@ -16,7 +16,7 @@ First, summarize the current situation including recent relevant events and the 
 Next, list out the important NPCs (friendly and hostile) that the protagonist will certainly encounter. Give them names, jobs, a personality, a level, trait scores, items, and abilities. Describe their appearance in a few short, memorable features. Write down details about their attitude or voice to help ease role-playing. Most importantly, write down **what they want** and **what they're going to do** to get what they want.
 
 ## Goal
-Give the player a clear, measurable, attainable goal to pursue. The goal might be a red herring or open up to reveal twists and turns later on, but the player needs a simple, solid focus to start the quest.
+Give the player a clear, measurable, attainable goal to pursue. The goal might be a red herring or open up to reveal twists and turns later on but the player needs a simple, solid focus to start the quest.
 
 ## Locations
 
