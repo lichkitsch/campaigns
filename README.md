@@ -61,7 +61,7 @@ Characters, along with many items and obstacles, have a resource called **heart 
 
 Characters start with 10 max HP at L1. Roll your damage to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
 
-## Equipment and Consumables
+## Items
 
 During the game, characters will collect useful items that provide either a fixed bonus to a specific action or damage roll or independent damage dice (not added to a damage roll) when used on a target. Some items have their own HP and take damage on a negative outcome or when added to an ability bonus, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. Items take up an action; if you use an item to deal or heal damage it counts as your turn.
 
