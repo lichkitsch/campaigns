@@ -11,12 +11,12 @@ When creating a character, roll `1d4-2` for the following:
 |:---:|:--- |
 | Strength | Athletics, muscle, melee attacks |
 | Dexterity | Acrobatics, stealth, finesse |
-| Constitution | Durability, physical resistance |
+| Constitution | Endurance, resistance |
 | Intelligence | Memory, logic, investigation |
 | Wisdom | Intuition, perception, ranged attacks |
 | Charisma | Performance, persuasion, deception |
 
-You can rearrange your starting trait scores once. When you level up, add 1 point to any one trait with a score lower than 5.
+You can rearrange these rolls once. When you level up add 1 point to any one trait lower than 5.
 
 ## Heart Points
 
@@ -61,29 +61,29 @@ Characters, along with many items and obstacles, have a resource called **heart 
 
 Characters start with 10 max HP at L1. Roll your damage to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
 
-## Items
+## Equipment and Consumables
 
-During the game, characters will collect useful items that provide either a fixed bonus to a specific action or damage roll or independent damage dice (not added to a damage roll) when used on a target. Some items have their own HP and take damage on a negative outcome or when added to an ability bonus, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. Items take up an action; if you use an item to deal or heal damage it counts as your turn.
+During their adventure, characters collect useful items that provide bonus points to specific rolls. Items that provide a fixed bonus to a specific action or damage roll is called **equipment**. Equipment has max HP and takes damage on a negative outcome, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
 
 ### Item Ratings
 
-| Rating | Bonus | Max HP | DMG | Value | Quality |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| F | +1 | `4d4` | `1d4` | x0.01 | Poor |  
-| D | +2 | `6d6` | `F+1d6` | x0.1 | Fair |
-| C | +3 | `8d8` | `D+1d8` | x1 | Decent |
-| B | +4 | `10d10` | `C+1d10` | x10 | Good |
-| A | +5 | `12d12` | `B+1d12` | x100 |  Great |
-| S | +6 | `20d20` | `A+1d20` | x1000 | Epic |
-
-For value, roll percentage dice (`1d00+1d10`, 00 and 0 equals 100) and multiply the result as listed.
+| Rating | Bonus | Max HP | Damage | Quality |
+|:---:|:---:|:---:|:---:|:---:|
+| F | +1 | `4d4` | `1d4` | Poor |  
+| D | +2 | `6d6` | `F+1d6` | Fair |
+| C | +3 | `8d8` | `D+1d8` | Decent |
+| B | +4 | `10d10` | `C+1d10` | Good |
+| A | +5 | `12d12` | `B+1d12` |  Great |
+| S | +6 | `20d20` | `A+1d20` | Epic |
 
 ## Abilities
 
-Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. The GM may grant a character temporary or even permanent abilities thanks to specific narrative events, but characters also unlock new abilities at every even-numbered level. Characters start with one `1d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
+Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item. The GM may grant a character temporary or even permanent abilities thanks to specific narrative events, but characters also unlock new abilities at every even-numbered level.
 
-| L2 | L4 | L6 | L8 | L10 | L12 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
+Characters start with one `d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
 
-For example, at L1 characters with dragon ancestry could start with a breath weapon that deals `DMG+1d4` when used. Players can also decide to improve an existing ability, such as the dragonborn upgrading their breath weapon to `DMG+1d6` at L4. In this case, the GM should allow the player to take a new `d4` ability in its place.
+| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
+
+For example, at L1 characters with dragon ancestry could start with a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6` at L4. In this case, the GM might allow the player to take a new `d4` ability in its place.
