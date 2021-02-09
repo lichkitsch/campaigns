@@ -78,12 +78,12 @@ During their adventure, characters collect useful items that provide bonus point
 
 ## Abilities
 
-Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item. The GM may grant a character temporary or even permanent abilities thanks to specific narrative events, but characters also unlock new abilities at every even-numbered level.
+Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters also unlock new abilities at every even-numbered level.
 
-Characters start with one `d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
+Characters start with one `1d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
 
-| L1 | L2 | L4 | L6 | L8 | L10 | L12 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `1d4` | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
+| L2 | L4 | L6 | L8 | L10 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
 
 For example, at L1 characters with dragon ancestry could start with a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6` at L4. In this case, the GM might allow the player to take a new `d4` ability in its place.
