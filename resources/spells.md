@@ -1,5 +1,5 @@
 | Name | Description |
-|:---:|:---:|
+|:---:|:--- |
 | Adhere | Object becomes extremely sticky. |
 | Aethersight | Magical auras glow brightly for you. |
 | Animate Object | An object animates under your control. |
