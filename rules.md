@@ -27,18 +27,9 @@ Characters, as well as some items and obstacles, have a resource called **heart 
 ### Damage Types
 Damage can occur in many different ways, illustrated through the following **damage types**. Some creatures are resistant or vulnerable to specific types of damage which adds an element of tactics and strategy to combat.
 
-| Type | Sources | Save |
-|:---:|:--- |:---:|
-| 👊&nbsp;Crushing | Blunt objects, gravity | `STR` |
-| ⚔️ Slashing | Bladed weapons | `STR` |
-| 🏹 Piercing | Arrows, spears, bullets | `DEX` |
-| 🔥 Fire | Flames, explosions, ash | `CON` |
-| ❄️ Cold | Frost, water, darkness | `CON` |
-| ⚡️ Shock | Lightning, electricity | `CON` |
-| 💉 Poison | Harmful substances | `CON` |
-| 💀 Necrotic | Acid, disease, death | `CON` |
-| ☀️ Radiant | Light, divine energy | `WIS` |
-| ♥️ Psychic | Mental/emotional trauma | `WIS` |
+| 👊&nbsp;Crushing | ⚔️ Slashing | 🏹 Piercing | 🔥 Fire | ❄️ Cold | ⚡️ Shock | 💉 Poison | 💀 Necrotic | ☀️ Radiant | ♥️ Psychic |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Blunt objects, gravity | Bladed weapons | Arrows, spears, bullets | Flames, explosions, ash | Frost, water, darkness | Lightning, electricity | Harmful substances | Acid, disease, death | Light, divine energy | Mental/emotional trauma |
 
 When a creature is attacked and would take damage, they might get an opportunity to react and reduce or avoid the damage altogether depending on the circumstances. If the action roll to save from damage is successful, the damage is halved and if the save is a natural 20 the damage is avoided completely.
 
