@@ -27,7 +27,7 @@ Characters, as well as some items and obstacles, have a resource called **heart 
 ### Damage Types
 Damage can occur in many different ways, illustrated through the following **damage types**. Some creatures are resistant or vulnerable to specific types of damage which adds an element of tactics and strategy to combat.
 
-| 👊 Crushing | ⚔️ Slashing | 🏹 Piercing | 🔥 Fire | ❄️ Cold | ⚡️ Shock | 💉 Poison | 💀 Necrotic | ☀️ Radiant | ♥️ Psychic |
+| 👊<br/>Crushing | ⚔️<br/>Slashing | 🏹<br/>Piercing | 🔥<br/>Fire | ❄️<br/>Cold | ⚡️<br/>Shock | 💉<br/>Poison | 💀<br/>Necrotic | ☀️<br/>Radiant | ♥️<br/>Psychic |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Blunt objects, gravity | Bladed weapons | Arrows, spears, bullets | Flames, explosions, ash | Frost, water, darkness | Lightning, electricity | Harmful substances | Acid, disease, death | Light, divine energy | Mental and emotional trauma |
 
