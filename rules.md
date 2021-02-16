@@ -8,7 +8,7 @@ When the outcome of a player's action is uncertain, the GM may call for an **act
 Characters have six traits that represent their strengths and weaknesses. When you level up you can add 1 point to any one trait with a score less than 5. The six basic traits are described in the following table:
 
 | Trait | Abbr. | Description |
-|:---:|:---:|:--- |
+| ---:|:---:|:--- |
 | **Strength** | `STR` | Athletics, muscle, melee attacks |
 | **Dexterity** | `DEX` | Acrobatics, stealth, finesse |
 | **Constitution** | `CON` | Durability, damage resistance |
