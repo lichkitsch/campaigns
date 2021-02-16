@@ -1,11 +1,11 @@
 # _DNDuet_ Core Rules
-_DNDuet_ (Dramatic Narrative Duet) is a tabletop role-playing game optimized for play between one game master (GM) and one player. The player roleplays a character living and interacting with a world that is created and controlled by the GM.
+_DNDuet_ (Dramatic Narrative Duet) is a tabletop role-playing game optimized for play between one game master (GM) and one player. The player acts as a character living and interacting with a world that is created and controlled by the GM.
 
 ## Action Rolls
-When the outcome of a player's action is uncertain, the GM may call for an **action roll**. The player rolls `1d20` and adds their most relevant trait score to the result. If the final number is higher than the target (set by the GM), the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes with a cost.
+When the outcome of a player's action is uncertain, the GM may call for an **action roll**. The player rolls `1d20` and adds their most relevant trait score to the result. If the total is higher than the target (set by the GM), the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes with a cost.
 
 ### Traits
-Characters have six traits that represent their strengths and weaknesses. When you level up you can add 1 point to any one trait with a score less than 5. The six basic traits are described in the following table:
+Characters have six traits that represent their strengths and weaknesses. When you level up you get to add 1 point to one trait with a score less than 5.
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
@@ -17,25 +17,43 @@ Characters have six traits that represent their strengths and weaknesses. When y
 | **Charisma** | `CHA` | Performance, persuasion, deception |
 
 ## Heart Points
-Characters, as well as some items and obstacles, have a resource called **heart points** which represent their overall integrity. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback. On a positive outcome against a target with HP, roll your level-specific **damage dice** to reduce the obstacle's HP. After two hours of rest, roll your damage dice to restore lost HP. Players start with `10+CON` max HP. When you level up, roll your new damage dice and increase your max HP by the result. You can reroll `CON` dice when increasing your max HP.
+Characters, as well as some items and obstacles, have **heart points (HP)**, a resource which represents their overall integrity. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback. 
+
+On a positive outcome against a target with HP, roll your level-specific **damage dice** to reduce the obstacle's HP. After two hours of rest, roll your damage dice to restore lost HP. Players start with `10+CON` max HP. When you level up, roll your new damage dice and increase your max HP by the result. You can reroll `CON` dice when increasing your max HP.
 
 ### Damage Dice by Level
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d8` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
+If the attacker rolls a natural 20 it is a critical hit and automatically deals the highest possible damage.
+
 ### Damage Types
-Damage can occur in many different ways, illustrated through the following **damage types**. Some creatures are resistant or vulnerable to specific types of damage which adds an element of tactics and strategy to combat.
+Damage can occur in many different ways, illustrated through the following **damage types**. Some creatures are resistant or vulnerable to specific types of damage which adds an element of strategy to combat.
 
 | 👊<br/>Crushing | ⚔️<br/>Slashing | 🏹<br/>Piercing | 🔥<br/>Fire | ❄️<br/>Cold | ⚡️<br/>Shock | 💉<br/>Poison | 💀<br/>Necrotic | ☀️<br/>Radiant | ♥️<br/>Psychic |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Blunt objects, gravity | Bladed weapons | Arrows, spears, bullets | Flames, explosions | Frost, water, darkness | Lightning, electricity | Harmful substances | Acid, disease, death | Light, divine energy | Mental and emotional trauma |
 | `STR`&nbsp;`DEX` | `STR`&nbsp;`DEX` | `STR`&nbsp;`DEX` | `DEX` | `CON` | `DEX`&nbsp;`CON` | `CON` | `CON` | `WIS` | `INT`&nbsp;`WIS` |
 
-When a creature is attacked and would take damage, they might get an opportunity to react and reduce or avoid the damage altogether depending on the circumstances. If the action roll to save from damage is successful, the damage is halved and if the save is a natural 20 the damage is avoided completely.
+When a creature would take damage from an attack, trap, or spell they might get an opportunity to reduce or avoid the damage altogether depending on the circumstances and their reaction. This reaction roll is called a **save**. If the save is successful the damage is halved and if the save is a natural 20 the damage is avoided completely. Otherwise the victim takes a full damage roll and might suffer from a condition such as blinded, burned, poisoned, or paralyzed.
+
+### Conditions
+If one of the damage dice rolls critical (the highest number possible) the target takes a new condition based on the damage type being dealt to it.
+
+Conditions impose disadvantage on action rolls, meaning the victim must roll their `d20` twice and keep the lower roll, or deal a small amount of damage after every action taken while the condition is in effect. Conditions can stack, causing multiplied disadvantage on action rolls.
+
+| Condition | Effect |
+|:---:|:---:|
+| Blinded | Auto-fail actions relying on sight, disadvantage on `STR`, `DEX`, and reaction rolls. |
+| Burned | Take `2d4` damage after each action roll until burns are healed. |
+| Confused | Disadvantage on `INT`, `WIS`, and `CHA` rolls. |
+| Deafened | Auto-fail actions relying on hearing, disadvantage on reaction rolls. |
+| Paralyzed | Unable to move, disadvantage on `STR`, `DEX`, and reaction rolls. |
+| Poisoned | Take the critically rolled damage after each action roll until cured. |
 
 ## Items
-Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal HP, or deal damage to targets. These items can include weapons, armor, tools, food, ammunition, poisons, and more. Some items have HP and can take damage after certain actions. Items have their own levels that dictate their bonus, max HP, and damage dice:
+Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal conditions or HP, or deal damage to targets. These items can include weapons, armor, tools, food, ammunition, poisons, and more. Some items have their own HP and take damage after certain actions. Items have their own levels that dictate their bonus, max HP, and damage dice:
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
