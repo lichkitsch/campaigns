@@ -43,14 +43,14 @@ If one of the damage dice rolls critical (the highest number possible) the targe
 
 Conditions impose disadvantage on action rolls, meaning the victim must roll their `d20` twice and keep the lower roll, or deal a small amount of damage after every action taken while the condition is in effect. Conditions can stack, causing multiplied disadvantage on action rolls.
 
-| Condition | Effect |
-|:---:|:---:|
-| Blinded | Auto-fail actions relying on sight, disadvantage on `STR`, `DEX`, and reaction rolls. |
-| Burned | Take `2d4` damage after each action roll until burns are healed. |
-| Confused | Disadvantage on `INT`, `WIS`, and `CHA` rolls. |
-| Deafened | Auto-fail actions relying on hearing, disadvantage on reaction rolls. |
-| Paralyzed | Unable to move, disadvantage on `STR`, `DEX`, and reaction rolls. |
-| Poisoned | Take the critically rolled damage after each action roll until cured. |
+| Condition | Effect | DMG Type |
+|:---:|:--- |:---:|
+| Blinded | Auto-fail actions relying on sight, disadvantage on `STR`, `DEX`, and reaction rolls. | ☀️<br/>Radiant |
+| Burned | Take `2d4` damage after each action roll until healed. | 🔥<br/>Fire |
+| Frostbitten | Difficult to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ❄️<br/>Cold |
+| Confused | Disadvantage on `INT`, `WIS`, and `CHA` rolls. | ♥️<br/>Psychic |
+| Poisoned | Take the critically rolled damage after each action roll until cured. | 💉<br/>Poison |
+| Stunned | Unable to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ⚡️<br/>Shock |
 
 ## Items
 Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal conditions or HP, or deal damage to targets. These items can include weapons, armor, tools, food, ammunition, poisons, and more. Some items have their own HP and take damage after certain actions. Items have their own levels that dictate their bonus, max HP, and damage dice:
