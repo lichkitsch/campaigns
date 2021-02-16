@@ -45,12 +45,12 @@ Conditions impose disadvantage on action rolls, meaning the victim must roll the
 
 | Condition | Effect | DMG Type |
 |:---:|:--- |:---:|
-| Blinded | Auto-fail actions relying on sight, disadvantage on `STR`, `DEX`, and reaction rolls. | ☀️<br/>Radiant |
-| Burned | Take `2d4` damage after each action roll until healed. | 🔥<br/>Fire |
-| Frostbitten | Difficult to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ❄️<br/>Cold |
-| Confused | Disadvantage on `INT`, `WIS`, and `CHA` rolls. | ♥️<br/>Psychic |
-| Poisoned | Take the critically rolled damage after each action roll until cured. | 💉<br/>Poison |
-| Stunned | Unable to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ⚡️<br/>Shock |
+| Blinded | Auto-fail actions relying on sight, disadvantage on `STR`, `DEX`, and reaction rolls. | ☀️ Radiant |
+| Burned | Take `2d4` damage after each action roll until healed. | 🔥 Fire |
+| Frostbitten | Difficult to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ❄️ Cold |
+| Confused | Disadvantage on `INT`, `WIS`, and `CHA` rolls. | ♥️ Psychic |
+| Poisoned | Take the critically rolled damage after each action roll until cured. | 💉 Poison |
+| Stunned | Unable to move, disadvantage on `STR`, `DEX`, and reaction rolls. | ⚡️ Shock |
 
 ## Items
 Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal conditions or HP, or deal damage to targets. These items can include weapons, armor, tools, food, ammunition, poisons, and more. Some items have their own HP and take damage after certain actions. Items have their own levels that dictate their bonus, max HP, and damage dice:
