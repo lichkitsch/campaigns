@@ -20,7 +20,7 @@ You can rearrange these rolls once. When you level up add 1 point to any one tra
 
 ## Heart Points
 
-Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. When HP reaches zero equipment breaks, obstacles are overcome, and characters suffer a major narrative setback.
+Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback.
 
 ### Damage Dice by Level
 
@@ -59,11 +59,11 @@ Characters, along with many items and obstacles, have a resource called **heart 
   </tbody>
 </table>
 
-Characters start with 10 max HP at L1. Roll your damage to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
+Characters start with 10 max HP at L1. After every 2 hours of rest roll your damage dice to regain lost HP. When you level up, roll your new damage to increase your max HP.
 
-## Equipment and Consumables
+## Items
 
-During their adventure, characters collect useful items that provide bonus points to specific rolls. Items that provide a fixed bonus to a specific action or damage roll is called **equipment**. Equipment has max HP and takes damage on a negative outcome, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
+Characters collect useful items that provide bonus points to specific rolls. Items that provide a fixed bonus to a specific action or damage roll is called **equipment**. Equipment has max HP and takes damage on a negative outcome, and if a piece of equipment reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
 
 ### Item Ratings
 
@@ -78,12 +78,8 @@ During their adventure, characters collect useful items that provide bonus point
 
 ## Abilities
 
-Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item and the roll fails you must add the ability bonus when rolling damage for the item. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters also unlock new abilities at every even-numbered level.
-
-Characters start with one `1d4` ability at L1 and gain the following bonus dice to specific action or damage rolls:
+Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item for maximum effect, the item may take damage. Characters start with one "reroll" ability at L1, allowing them to reroll a specific action or damage for a chance at a better outcome. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters also unlock class-based abilities at every even-numbered level:
 
 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `1d12` | `1d20` |
-
-For example, at L1 characters with dragon ancestry could start with a breath weapon that deals `DMG+1d4` when used. Players might also decide to improve an existing ability with the level up, such as the dragonborn upgrading their breath weapon to `DMG+1d6` at L4. In this case, the GM might allow the player to take a new `d4` ability in its place.
