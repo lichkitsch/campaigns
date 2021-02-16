@@ -23,41 +23,9 @@ You can rearrange these rolls once. When you level up add 1 point to any one tra
 Characters, along with many items and obstacles, have a resource called **heart points (HP)** which represents their overall integrity. After a successful action roll against a target, roll your level-specific **damage dice** and reduce their HP by the result. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback.
 
 ### Damage Dice by Level
-
-<table>
-  <tbody>
-    <tr>
-      <th>L1</th>
-      <td><code>1d4</code></td>
-      <th>L2</th>
-      <td><code>1d6</code></td>
-      <th>L3</th>
-      <td><code>1d8</code></td>
-      <th>L4</th>
-      <td><code>1d10</code></td>
-    </tr>
-    <tr>
-      <th>L5</th>
-      <td><code>2d6</code></td>
-      <th>L6</th>
-      <td><code>2d8</code></td>
-      <th>L7</th>
-      <td><code>2d10</code></td>
-      <th>L8</th>
-      <td><code>2d12</code></td>
-    </tr>
-    <tr>
-      <th>L9</th>
-      <td><code>3d10</code></td>
-      <th>L10</th>
-      <td><code>3d12</code></td>
-      <th>L11</th>
-      <td><code>4d10</code></td>
-      <th>L12</th>
-      <td><code>4d12</code></td>
-    </tr>
-  </tbody>
-</table>
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d8` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 Characters start with 10 max HP at L1. After every 2 hours of rest roll your damage dice to regain lost HP. When you level up, roll your new damage to increase your max HP.
 
