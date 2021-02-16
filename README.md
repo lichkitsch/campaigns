@@ -7,14 +7,14 @@ When the outcome of a character’s action is uncertain, roll `1d20+trait` again
 
 When creating a character, roll `1d4-2` for the following:
 
-| Trait | Uses |
-|:---:|:--- |
-| Strength | Athletics, muscle, melee attacks |
-| Dexterity | Acrobatics, stealth, finesse |
-| Constitution | Endurance, resistance |
-| Intelligence | Memory, logic, investigation |
-| Wisdom | Intuition, perception, ranged attacks |
-| Charisma | Performance, persuasion, deception |
+| Trait | Abbr. | Description |
+| ---:|:---:|:--- |
+| **Strength** | `STR` | Athletics, muscle, melee attacks |
+| **Dexterity** | `DEX` | Acrobatics, stealth, finesse |
+| **Constitution** | `CON` | Durability, damage resistance |
+| **Intelligence** | `INT` | Memory, logic, investigation |
+| **Wisdom** | `WIS` | Intuition, perception, ranged attacks |
+| **Charisma** | `CHA` | Performance, persuasion, deception |
 
 You can rearrange these rolls once. When you level up add 1 point to any one trait lower than 5.
 
