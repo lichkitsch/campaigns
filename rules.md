@@ -5,7 +5,7 @@ _DNDuet_ (Dramatic Narrative Duet) is a tabletop role-playing game optimized for
 When the outcome of a player's action is uncertain, the GM may call for an **action roll**. The player rolls `1d20` and adds their most relevant trait score to the result. If the final number is higher than the target (set by the GM), the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes with a cost.
 
 ### Traits
-Characters have six traits that represent their strengths and weaknesses:
+Characters have six traits that represent their strengths and weaknesses. When you level up you can add 1 point to any one trait with a score less than 5. The six basic traits are described in the following table:
 
 | Trait | Abbr. | Description |
 |:---:|:---:|:--- |
@@ -35,7 +35,13 @@ Damage can occur in many different ways, illustrated through the following **dam
 When a creature is attacked and would take damage, they might get an opportunity to react and reduce or avoid the damage altogether depending on the circumstances. If the action roll to save from damage is successful, the damage is halved and if the save is a natural 20 the damage is avoided completely.
 
 ## Items
+Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal HP, or deal damage to targets. Items have their own levels that dictate their bonus, max HP, and damage dice:
 
+|  | F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Bonus | +1 | +2 | +3 | +4 | +5 | +6 |
+| Max HP | `4d4` (10) | `6d6` (21) | `8d8` (36) | `10d10` (55) | `12d12` (78) | `20d20` (210) |
+| Damage | `1d4` (2.5) | `F+1d6` (6) | `D+1d8` (10.5) | `C+1d10` (16) | `B+1d12` (22.5) | `A+1d20` (33) |
 
 ## Abilities
 
