@@ -35,13 +35,15 @@ Damage can occur in many different ways, illustrated through the following **dam
 When a creature is attacked and would take damage, they might get an opportunity to react and reduce or avoid the damage altogether depending on the circumstances. If the action roll to save from damage is successful, the damage is halved and if the save is a natural 20 the damage is avoided completely.
 
 ## Items
-Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal HP, or deal damage to targets. Items have their own levels that dictate their bonus, max HP, and damage dice:
+Characters collect useful items on their journey that can be used to add bonus points to specific rolls, heal HP, or deal damage to targets. These items can include weapons, armor, tools, food, ammunition, poisons, and more. Some items have HP and can take damage after certain actions. Items have their own levels that dictate their bonus, max HP, and damage dice:
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Bonus** | +1 | +2 | +3 | +4 | +5 | +6 |
 | **Max HP** | `4d4`<br/>_10_ | `6d6`<br/>_21_ | `8d8`<br/>_36_ | `10d10`<br/>_55_ | `12d12`<br/>_78_ | `20d20`<br/>_210_ |
-| **Damage** | `1d4`<br/>_3_ | `F+1d6`<br/>_6_ | `D+1d8`<br/>_10_ | `C+1d10`<br/>_16_ | `B+1d12`<br/>_22_ | `A+1d20`<br/>_33_ |
+| **Damage** | `1d4`<br/>_3_ | `F+1d6`<br/>_6_ | `D+1d8`<br/>_11_ | `C+1d10`<br/>_16_ | `B+1d12`<br/>_23_ | `A+1d20`<br/>_33_ |
+
+_Note:_ The italicized numbers indicate the average rolls for the dice listed.
 
 ## Abilities
 
