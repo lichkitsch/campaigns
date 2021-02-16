@@ -46,7 +46,7 @@ Characters collect useful items that provide bonus points to specific rolls. Ite
 
 ## Abilities
 
-Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item for maximum effect, the item may take damage. Characters start with one "reroll" ability at L1, allowing them to reroll a specific action or damage for a chance at a better outcome. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters also unlock class-based abilities at every even-numbered level:
+Abilities are bonuses based on physical features, experience, study, training, divine gifts, etc. They can be combined with equipment in the right circumstances, but if you use an ability with an item for maximum effect, the item may take damage. Characters start with one re-roll ability at L1, allowing them to re-roll a specific action or damage roll for a chance at a better outcome. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters also unlock class-based abilities at every even-numbered level:
 
 | L2 | L4 | L6 | L8 | L10 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
