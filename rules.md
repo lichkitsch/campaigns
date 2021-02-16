@@ -9,12 +9,12 @@ Characters have six traits that represent their strengths and weaknesses. When y
 
 | Trait | Abbr. | Description |
 |:---:|:---:|:--- |
-| Strength | `STR` | Athletics, muscle, melee attacks |
-| Dexterity | `DEX` | Acrobatics, stealth, finesse |
-| Constitution | `CON` | Durability, damage resistance |
-| Intelligence | `INT` | Memory, logic, investigation |
-| Wisdom | `WIS` | Intuition, perception, ranged attacks |
-| Charisma | `CHA` | Performance, persuasion, deception |
+| **Strength** | `STR` | Athletics, muscle, melee attacks |
+| **Dexterity** | `DEX` | Acrobatics, stealth, finesse |
+| **Constitution** | `CON` | Durability, damage resistance |
+| **Intelligence** | `INT` | Memory, logic, investigation |
+| **Wisdom** | `WIS` | Intuition, perception, ranged attacks |
+| **Charisma** | `CHA` | Performance, persuasion, deception |
 
 ## Heart Points
 Characters, as well as some items and obstacles, have a resource called **heart points** which represent their overall integrity. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback. On a positive outcome against a target with HP, roll your level-specific **damage dice** to reduce the obstacle's HP. After two hours of rest, roll your damage dice to restore lost HP. Players start with `10+CON` max HP. When you level up, roll your new damage dice and increase your max HP by the result. You can reroll `CON` dice when increasing your max HP.
@@ -39,9 +39,9 @@ Characters collect useful items on their journey that can be used to add bonus p
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Bonus | +1 | +2 | +3 | +4 | +5 | +6 |
-| Max HP | `4d4`<br/>(10) | `6d6`<br/>(21) | `8d8`<br/>(36) | `10d10`<br/>(55) | `12d12`<br/>(78) | `20d20`<br/>(210) |
-| Damage | `1d4`<br/>(2.5) | `F+1d6`<br/>(6) | `D+1d8`<br/>(10.5) | `C+1d10`<br/>(16) | `B+1d12`<br/>(22.5) | `A+1d20`<br/>(33) |
+| **Bonus** | +1 | +2 | +3 | +4 | +5 | +6 |
+| **Max HP** | `4d4`<br/>(10) | `6d6`<br/>(21) | `8d8`<br/>(36) | `10d10`<br/>(55) | `12d12`<br/>(78) | `20d20`<br/>(210) |
+| **Damage** | `1d4`<br/>(2.5) | `F+1d6`<br/>(6) | `D+1d8`<br/>(10.5) | `C+1d10`<br/>(16) | `B+1d12`<br/>(22.5) | `A+1d20`<br/>(33) |
 
 ## Abilities
 
