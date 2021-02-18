@@ -13,3 +13,5 @@
 - Roux and Peach work for Ravi
 - Scimitar sigil is the sign of the followers of Basak, desert mercenaries that kill for coin. They are sought after soldiers and trained killers.
 - Vilna purchased Basak's mercenaries with money from the crystals
+
+Finding other kirin families
