@@ -13,3 +13,5 @@ Yosi and Marius have guided the group to the town of Landringen, home of the Bar
 -  Now that the eye is in Ravi's possession, he's not afraid to let Ludwig know the truth, though he is specifically sharing this so that Mellen might come to trust him little by little.
 -  By revealing the truth to Ludwig, Ravi makes himself a clear enemy of the Bardic College, but it's no worse than before as he's nearly ready to enact his revenge anyway.
 -  Ludwig wants to use Mellen as payment to retreive the eye, but Ravi makes it very clear that she is not to be harmed and in fact, the college would do best to join him in wreaking vengeance against Gras.
+
+> There is a familiar warbling sound and the air grows thick and heavy. Hot, red waves emanate from the back of the room and Ludwig is lifted from the ground by an invisible grasp. Ravi can be heard, but not seen, and states his demands from the headmaster and the college before Ludwig is dropped and the party's bonds are released.
