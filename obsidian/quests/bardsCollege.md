@@ -16,7 +16,10 @@ Yosi and Marius have guided the group to the town of Landringen, home of the Bar
 
 > There is a familiar warbling sound and the air grows thick and heavy. Hot, red waves emanate from the back of the room and Ludwig is lifted from the ground by an invisible grasp. Ravi can be heard, but not seen, and states his demands from the headmaster and the college before Ludwig is dropped and the party's bonds are released.
 
-The group might decide to check the College's archives for anything that can point them to Zsofia, William, or possibly Ravi's thief, but the archives are less magically helpful than Biphate's and work the old fashioned way: reference documentation.
+## The Landringen Library
+The group might decide to check the College's archives for anything that can point them to Zsofia, William, or possibly Ravi's thief, but the archives are less magically helpful than Biphate's and work the old fashioned way: reference documentation. The library is far smaller than the one in Biphate but more focused on the country of Gras.
+
+>  The smell of books hits you before the doors even open. When you approach the doors are unlocked and the library beyond is quiet, only a handful of dedicated students spread out, studying from heavy old tomes. There are several floors of bookshelves and piles of books left all over with more of those large creatures slowly plucking through the piles and returning the lost books to their proper spots.
 
 The party can find out the following from scouring the library:
 
