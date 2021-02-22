@@ -15,3 +15,12 @@ Yosi and Marius have guided the group to the town of Landringen, home of the Bar
 -  Ludwig wants to use Mellen as payment to retreive the eye, but Ravi makes it very clear that she is not to be harmed and in fact, the college would do best to join him in wreaking vengeance against Gras.
 
 > There is a familiar warbling sound and the air grows thick and heavy. Hot, red waves emanate from the back of the room and Ludwig is lifted from the ground by an invisible grasp. Ravi can be heard, but not seen, and states his demands from the headmaster and the college before Ludwig is dropped and the party's bonds are released.
+
+The group might decide to check the College's archives for anything that can point them to Zsofia, William, or possibly Ravi's thief, but the archives are less magically helpful than Biphate's and work the old fashioned way: reference documentation.
+
+The party can find out the following from scouring the library:
+
+- Ravi's thief was a marten from Scorrestia, infiltrated as a bard from Xailos
+- Zsofia entered Gras under an assumed identity, Grenadine the seamstress escaping from discrimination in Doseovia
+    - They will not find where she is hiding, but they can also find out that she is no longer in Gras by checking the magical maps
+- William was taken by a group known as the Snow Ravens, a league of assassins known for killing their targets and witnesses, not kidnapping
