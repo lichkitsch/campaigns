@@ -23,6 +23,7 @@ The group might decide to check the College's archives for anything that can poi
 
 The party can find out the following from scouring the library:
 
+|  |
 |:--- |
 | Ravi's thief was a marten from Scorrestia, infiltrated as a bard from Xailos. |
 | Zsofia entered Gras under an assumed identity, Grenadine the seamstress escaping from discrimination in Doseovia. They will not find where she is hiding, but they can also find out that she is no longer in Gras by checking the magical maps. |
