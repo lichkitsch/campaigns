@@ -23,7 +23,16 @@ The group might decide to check the College's archives for anything that can poi
 
 The party can find out the following from scouring the library:
 
-- Ravi's thief was a marten from Scorrestia, infiltrated as a bard from Xailos
-- Zsofia entered Gras under an assumed identity, Grenadine the seamstress escaping from discrimination in Doseovia
-    - They will not find where she is hiding, but they can also find out that she is no longer in Gras by checking the magical maps
-- William was taken by a group known as the Snow Ravens, a league of assassins known for killing their targets and witnesses, not kidnapping
+|:--- |
+| Ravi's thief was a marten from Scorrestia, infiltrated as a bard from Xailos. |
+| Zsofia entered Gras under an assumed identity, Grenadine the seamstress escaping from discrimination in Doseovia. They will not find where she is hiding, but they can also find out that she is no longer in Gras by checking the magical maps. |
+| William was taken by a group known as the Snow Ravens, a league of assassins known for killing their targets and witnesses, not kidnapping |
+| Scorrestia was many smaller city states, nomadic tribes mostly. Cities grew quickly under a red banner and a fog wall went up at the borders. People who went in never came back out. |
+| Headmaster knows of the Amari from studies, but nothing more than what Mellen already knows. Using psychometry on him grants Mellen his bubbling power, ability allows her to cast a protective shield that is strong against elemental magic but weak against physical damage. |
+| Karalin spying on the group with Arcane Eye. |
+
+2 days to round out week
+
+Pes notice baby bump???
+
+2/24 weeks
