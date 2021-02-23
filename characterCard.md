@@ -1,5 +1,6 @@
 # CHARACTER NAME
-L1 _RACE_ _JOB_
+
+## L1 _RACE_ _JOB_
 
 | `STR` | `DEX` | `CON` | `INT` | `WIS` | `CHA` |
 |:---:|:---:|:---:|:---:|:---:|:---:|
