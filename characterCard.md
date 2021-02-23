@@ -6,15 +6,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | +2 | +1 | +1 | +0 | +0 | -1 |
 
-## Abilities
-
-| Name | Description | Effect |
+| Ability | Description | Effect |
 |:---:|:---:|:---:|
 |  |  | `STR ADV` |
 
-## Inventory
-
-| Name | Description | Effect |
+| Item | Description | Effect |
 |:---:|:---:|:---:|
 |  |  | `STR+1` |
 |  |  | `DEX+1` |
