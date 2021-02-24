@@ -37,6 +37,19 @@ Characters, along with some items and obstacles, have **heart points (HP)** whic
 
 Characters start with 10 max HP at L1. Roll your damage dice to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
 
+## Abilities
+
+Abilities are bonuses based on a character's physical features, experience, study, training, divine gifts, etc. Characters start with one _advantage_ ability at L1, allowing them to re-roll a specific action or damage roll for a chance at a better outcome. The GM can grant a character temporary or even permanent abilities as the result of narrative events, but characters also unlock class-based abilities more predictably at every even-numbered level:
+
+| Level | Ability |
+|:---:|:---:|
+| L2 | `roll+1d4` |
+| L4 | `roll+1d6` |
+| L6 | `roll+1d8` |
+| L8 | `roll+1d10` |
+| L10 | `roll+1d12` |
+| L12 | `roll+1d20` |
+
 ## Items
 Characters collect items that provide bonus points to specific rolls. Some items have HP and take damage on a negative outcome, and if an item reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
 
@@ -50,16 +63,3 @@ Characters collect items that provide bonus points to specific rolls. Some items
 | B | +4 | `10d10` | `C+1d10` | 8 |
 | A | +5 | `12d12` | `B+1d12` | 10 |
 | S | +6 | `20d20` | `A+1d20` | 12 |
-
-## Abilities
-
-Abilities are bonuses based on a character's physical features, experience, study, training, divine gifts, etc. Characters start with one _advantage_ ability at L1, allowing them to re-roll a specific action or damage roll for a chance at a better outcome. The GM can grant a character temporary or even permanent abilities as the result of narrative events, but characters also unlock class-based abilities more predictably at every even-numbered level:
-
-| Level | Ability |
-|:---:|:---:|
-| L2 | `roll+1d4` |
-| L4 | `roll+1d6` |
-| L6 | `roll+1d8` |
-| L8 | `roll+1d10` |
-| L10 | `roll+1d12` |
-| L12 | `roll+1d20` |
