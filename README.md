@@ -1,10 +1,10 @@
 # DNDuet Core Rules
-_DNDuet_ is a simple, flexible system for building and playing custom tabletop RPGs. These rules work with as few as one game master (GM) and one player and have been built around the standard RPG dice set.
+_DNDuet_ (Dramatic Narrative Duet) is a system for building and playing custom tabletop RPGs. This system works with as few as one game master (GM) and one player and has been built around the standard RPG dice set.
 
 ## Action Rolls
-When the outcome of a character’s action is uncertain, roll `1d20+trait` against the target, set by the GM. If your result is higher the outcome is positive and if not, the outcome is negative. If the result is equal to the target, the positive outcome carries a cost.
+When the outcome of a character’s action is uncertain, roll `1d20+trait` against a target, set by the GM. If you beat the target the outcome is positive and if not, the outcome is negative. A tie results in a positive outcome that comes at a cost.
 
-When creating a character, roll `1d4-2` for the following:
+When creating a character, roll `1d4-2` for the following traits:
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
@@ -18,7 +18,7 @@ When creating a character, roll `1d4-2` for the following:
 You can rearrange these rolls once. When you level up add 1 point to any one trait lower than 5.
 
 ## Heart Points
-Characters, along with many items and obstacles, have **heart points (HP)** which represent their overall integrity. On a positive outcome against a target, roll your level-specific **damage dice** and reduce their HP by the result. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback.
+Characters, along with some items and obstacles, have **heart points (HP)** which represent their overall integrity. After a successful action against a target roll your level-specific **damage dice** to reduce their HP. When HP reaches zero items break, obstacles are overcome, and characters suffer a major narrative setback.
 
 | Level | Damage | AVG DMG | AVG HP |
 |:---:|:---:|:---:|:---:|
@@ -35,10 +35,10 @@ Characters, along with many items and obstacles, have **heart points (HP)** whic
 | 11 | `4d10` | 22 | 121.5 |
 | 12 | `4d12` | 26 | 147.5 |
 
-Characters start with 10 max HP at L1. After every 2 hours of rest roll your damage dice to regain lost HP. When you level up, roll your new damage to increase your max HP.
+Characters start with 10 max HP at L1. Roll your damage dice to regain lost HP after every 2 hours of rest. When you level up, roll your new damage to increase your max HP.
 
 ## Items
-Characters collect items that provide bonus points to specific action or damage rolls.  Some items have HP and take damage on a negative outcome, and if an item reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
+Characters collect items that provide bonus points to specific rolls. Some items have HP and take damage on a negative outcome, and if an item reaches zero HP it breaks and cannot be used until it is repaired by someone qualified. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific action rolls or deal damage as listed on the table below:
 
 ### Item Ratings
 
@@ -53,7 +53,7 @@ Characters collect items that provide bonus points to specific action or damage 
 
 ## Abilities
 
-Abilities are bonuses based on a character's physical features, experience, study, training, divine gifts, etc. Characters start with one _advantage_ ability at L1, allowing them to re-roll a specific action or damage roll for a chance at a better outcome. The GM may grant a character temporary or even permanent abilities as the result of specific narrative events, but characters unlock class-based abilities more predictably at every even-numbered level:
+Abilities are bonuses based on a character's physical features, experience, study, training, divine gifts, etc. Characters start with one _advantage_ ability at L1, allowing them to re-roll a specific action or damage roll for a chance at a better outcome. The GM can grant a character temporary or even permanent abilities as the result of narrative events, but characters also unlock class-based abilities more predictably at every even-numbered level:
 
 | Level | Ability |
 |:---:|:---:|
