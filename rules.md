@@ -49,7 +49,7 @@ Characters can use unique **abilities** to add bonus dice to specific rolls base
 | 12 | `roll+1d20` |
 
 ## Items
-Characters collect items on their adventure that add bonus points to specific rolls. Some items have their own HP and take damage on a negative outcome. Other items are **consumable** and are destroyed after use. Consumable items add bonus dice, rather than bonus points, to the next action or deal/heal specific damage dice. Items are rated with letter grades, as seen on the table below:
+Characters collect items on their adventure that add bonus points to specific rolls. Some items have their own HP and take damage on a negative outcome. Other items are **consumable** and are destroyed after use. Consumables that affect HP deal/heal specific damage dice. Items are rated with letter grades, as seen on the table below:
 
 | Rating | Bonus | Max HP | Damage | Level |
 |:---:|:---:|:---:|:---:|:---:|
