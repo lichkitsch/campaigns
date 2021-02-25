@@ -35,15 +35,12 @@ Abilities are based on physical features, magical powers, training, study, etc. 
 
 ## Items
 Characters collect items on their adventure that deal/heal damage, provide temporary abilities, or add a fixed point bonus to specific rolls when used. Items are rated on the following scale:
-	
-| Rating | Bonus | Max HP | Damage | Level |
-|:---:|:---:|:---:|:---:|:---:|
-| F | +1 | `4d4` | `1d4` | 1 |
-| D | +2 | `6d6` | `F+1d6` | 4 |
-| C | +3 | `8d8` | `D+1d8` | 6 |
-| B | +4 | `10d10` | `C+1d10` | 8 |
-| A | +5 | `12d12` | `B+1d12` | 10 |
-| S | +6 | `20d20` | `A+1d20` | 12 |
+
+|  | F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Bonus | +1 | +2 | +3 | +4 | +5 | +6 |
+| Damage | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
+| Max HP | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
 ## Damage Dice
 Characters become more effective at dealing damage every time they level up:
