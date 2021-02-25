@@ -28,15 +28,10 @@ Roll 1d4-2 for each trait and rearrange the scores to design your character at l
 
 ## Abilities
 Abilities are based on physical features, magical powers, training, study, etc. and add bonus dice to specific action or damage rolls. Characters start with one "re-roll" ability at level 1 that can help them get a better result from a specific roll and gain a new ability (or upgrade an old one) when they level up:
-	
-| Levels | Ability |
-|:---:|:---:|
-| 2, 3 | `roll+1d4` |
-| 4, 5 | `roll+1d6` |
-| 6, 7 | `roll+1d8` |
-| 8, 9 | `roll+1d10` |
-| 10, 11 | `roll+1d12` |
-| 12 | `roll+1d20` |
+
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `re-roll` | `+d4` | `+d4` | `+d6` | `+d6` | `+d8` | `+d8` | `+d10` | `+d10` | `+d12` | `+d12` | `+d20` |
 
 ## Items
 Characters collect items on their adventure that deal/heal damage, provide temporary abilities, or add a fixed point bonus to specific rolls when used. Items are rated on the following scale:
@@ -52,21 +47,10 @@ Characters collect items on their adventure that deal/heal damage, provide tempo
 
 ## Damage Dice
 Characters become more effective at dealing damage every time they level up:
-	
-| Level | Damage | AVG DMG | AVG HP |
-|:---:|:---:|:---:|:---:|
-| 1 | `1d4` | 2.5 | 10 |
-| 2 | `1d6` | 3.5 | 13.5 |
-| 3 | `1d8` | 4.5 | 18 |
-| 4 | `1d10` | 5.5 | 23.5 |
-| 5 | `2d6` | 7 | 30.5 |
-| 6 | `2d8` | 9 | 39.5 |
-| 7 | `2d10` | 11 | 50.5 |
-| 8 | `2d12` | 13 | 63.5 |
-| 9 | `3d10` | 16.5 | 80 |
-| 10 | `3d12` | 19.5 | 99.5 |
-| 11 | `4d10` | 22 | 121.5 |
-| 12 | `4d12` | 26 | 147.5 |
+
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Heart Points
 HP represents the overall integrity of a creature or object. At zero HP obstacles are overcome, items break, and characters suffer a major narrative setback. Characters start with 10 max HP at level 1 and increase their maximum HP by rolling their new damage dice and adding the result when they level up.
