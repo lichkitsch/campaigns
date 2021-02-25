@@ -42,13 +42,12 @@ Characters collect items on their adventure that deal/heal damage, provide tempo
 | Damage | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
 | Max HP | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
-## Damage Dice
+## Heart Points
+HP represents the overall integrity of a creature or object. At zero HP obstacles are overcome, items break, and characters suffer a major narrative setback. Characters start with 10 max HP at level 1 and increase their maximum HP by rolling their new damage dice and adding the result when they level up.
+
+### Damage Dice
 Characters become more effective at dealing damage every time they level up:
 
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
-
-## Heart Points
-HP represents the overall integrity of a creature or object. At zero HP obstacles are overcome, items break, and characters suffer a major narrative setback. Characters start with 10 max HP at level 1 and increase their maximum HP by rolling their new damage dice and adding the result when they level up.
-
