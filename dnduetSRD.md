@@ -29,7 +29,7 @@ _DNDuet_ is a set of guidelines for building custom tabletop RPGs that are optim
 ## 2. Definitions
 
 | Term | Definition |
-|:---:|:--- |
+| ---:|:--- |
 | Ability | A skill or feature of a character that provides a bonus dice to a specific action or damage roll |
 | Action Roll |  |
 | Advantage | Roll twice and keep the higher result |
