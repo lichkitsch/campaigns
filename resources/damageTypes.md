@@ -5,4 +5,4 @@ Damage can occur in many different ways, illustrated through the following **dam
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Blunt objects, gravity | Bladed weapons | Arrows, spears, bullets | Flames, explosions | Frost, water, darkness | Lightning, electricity | Harmful substances | Acid, disease, death | Light, divine energy | Mental and emotional trauma |
 
-If a creature is resistant to a damage type it only takes half damage (rounded up). If the creature is vulnerable to a damage type, the damage it takes is doubled.
+If a creature is resistant to a damage type it only takes half damage (rounded down). If the creature is vulnerable to a damage type, the damage it takes is doubled.
