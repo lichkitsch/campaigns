@@ -25,15 +25,12 @@ Characters start with 10 max HP and increase it when they level up by rolling th
 
 > Table
 
-## Bonuses
-Players can use abilities and items to add bonuses to specific action or damage rolls.
-
-### Abilities
+## Abilities
 Abilities are based on the character's physical features, background, studies, training, and talents. Characters start with one "reroll" ability at level 1 which allows them to reroll a specific action or damage roll for a chance at a higher result. Other abilities add a bonus die to a specific roll based on the level the ability is obtained:
 
 > Table
 
-### Items
+## Items
 Characters collect items on their adventure that add bonus points to a roll, provide temporary abilities, or deal/heal a specific amount of damage based on the item's rank:
 
 > Table
