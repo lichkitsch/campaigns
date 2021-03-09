@@ -14,7 +14,7 @@ The main game loop of _DNDuet_ is simple: the narrator describes the setting, as
 When the outcome of a character's action is uncertain the narrator may ask that they roll a **check** or a **contest**, depending on the target. If the target is static, the roll will most likely be a check and if the target is dynamic it will most likely be a contest:
 
 | Check | Contest |
-|:---:|:--- |
+|:--- |:--- |
 | Roll `1d20+trait` against the obstacle's _Air of Fate_, a fixed number indicating difficulty. | Roll `1d20+trait` against the obstacle's own `1d20+trait` roll. |
 
 If the player beats the target, the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a price.
