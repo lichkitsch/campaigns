@@ -1,29 +1,9 @@
 **Damage Dice by Level**
 
-<table>
-  <tbody>
-    <tr>
-      <td><b>L1</b>: <code>1d4</code> (2.5)</td>
-      <td><b>L2</b>: <code>1d6</code> (3.5)</td>
-      <td><b>L3</b>: <code>1d8</code> (4.5)</td>
-    </tr>
-    <tr>
-      <td><b>L4</b>: <code>1d10</code> (5.5)</td>
-      <td><b>L5</b>: <code>2d6</code> (7)</td>
-      <td><b>L6</b>: <code>2d8</code> (9)</td>
-    </tr>
-    <tr>
-      <td><b>L7</b>: <code>2d10</code> (11)</td>
-      <td><b>L8</b>: <code>2d12</code> (13)</td>
-      <td><b>L9</b>: <code>3d10</code> (16.5)</td>
-    </tr>
-    <tr>
-      <td><b>L10</b>: <code>3d12</code> (19.5)</td>
-      <td><b>L11</b>: <code>4d10</code> (22)</td>
-      <td><b>L12</b>: <code>4d12</code> (26)</td>
-    </tr>
-  </tbody>
-</table>
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
+| _2.5_ | _3.5_ | _4.5_ | _5.5_ | _7_ | _9_ | _11_ | _13_ | _16.5_ | _19.5_ | _22_ | _26_ |
 
 **Item Ranks**
 
