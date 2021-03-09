@@ -55,15 +55,9 @@ Players can use abilities and items to add extra dice and bonus points to specif
 ### Abilities
 Abilities are bonuses based on a character's physical features, experience, study, training, divine gifts, etc. Characters start with one _advantage_ ability at L1, allowing them to re-roll a specific check or damage roll for a chance at a better outcome. The GM can grant a character temporary or even permanent abilities as the result of narrative events, but characters also unlock or upgrade class-based abilities when they level up:
 
-| Level | Ability |
-|:---:|:---:|
-| L1 | `Advantage` |
-| L2, L3 | `roll+1d4` |
-| L4, L5 | `roll+1d6` |
-| L6, L7 | `roll+1d8` |
-| L8, L9 | `roll+1d10` |
-| L10, L11 | `roll+1d12` |
-| L12 | `roll+1d20` |
+| L1 | L2, L3 | L4, L5 | L6, L7 | L8, L9 | L10, L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `Advantage` | `roll+1d4` | `roll+1d6` | `roll+1d8` | `roll+1d10` | `roll+1d12` | `roll+1d20` |
 
 ### Items
 Characters collect items that provide bonus points to specific rolls. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific rolls or deal damage as listed on the table below:
