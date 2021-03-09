@@ -13,10 +13,9 @@ The main game loop of _DNDuet_ is simple: the narrator describes the setting, as
 ### Checks and Contests
 When the outcome of a character's action is uncertain the narrator may ask that they roll a **check** or a **contest**, depending on the target. If the target is static, the roll will most likely be a check and if the target is dynamic it will most likely be a contest:
 
-| Action | Method |
+| Check | Contest |
 |:---:|:--- |
-| Check | Roll `1d20+trait` against the obstacle's _Air of Fate_, a fixed number indicating difficulty. |
-| Contest | Roll `1d20+trait` against the obstacle's own `1d20+trait` roll. |
+| Roll `1d20+trait` against the obstacle's _Air of Fate_, a fixed number indicating difficulty. | Roll `1d20+trait` against the obstacle's own `1d20+trait` roll. |
 
 If the player beats the target, the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a price.
 
@@ -44,20 +43,9 @@ Static obstacles have a fixed target that the player must beat to earn a positiv
 ## Heart Points
 Characters, as well as some obstacles, have a resource called **heart points** (HP) that represents their overall integrity. HP is reduced and restored by rolling **damage dice** on a successful roll against a target. Characters roll specific dice for damage based on their level:
 
-| Level | Damage | Average DMG | Average HP |
-|:---:|:---:|:---:|:---:|
-| 1 | `1d4` | 2.5 | 10 |
-| 2 | `1d6` | 3.5 | 13.5 |
-| 3 | `1d8` | 4.5 | 18 |
-| 4 | `1d10` | 5.5 | 23.5 |
-| 5 | `2d6` | 7 | 30.5 |
-| 6 | `2d8` | 9 | 39.5 |
-| 7 | `2d10` | 11 | 50.5 |
-| 8 | `2d12` | 13 | 63.5 |
-| 9 | `3d10` | 16.5 | 80 |
-| 10 | `3d12` | 19.5 | 99.5 |
-| 11 | `4d10` | 22 | 121.5 |
-| 12 | `4d12` | 26 | 147.5 |
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 When HP reaches zero obstacles are overcome and characters suffer major narrative setbacks. Characters can roll their damage dice to restore lost HP after every 2 hours of rest in a safe place. Characters start with 10 max HP. When you level up, roll your new damage dice and increase your max HP by the result.
 
