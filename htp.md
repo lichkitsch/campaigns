@@ -37,12 +37,9 @@ When creating a character at level 1, roll `1d4-2` six times and distribute the 
 ### The _Air of Fate_
 Static obstacles have a fixed target that the player must beat to earn a positive outcome. The _Air of Fate_ (AoF) can apply to specific obstacles and actions or even entire rooms and areas:
 
-- Very Easy: `AoF 8`
-- Easy: `AoF 10`
-- Moderate: `AoF 12`
-- Challenging: `AoF 14`
-- Difficult: `AoF 16`
-- Very Difficult: `AoF 18`
+| Very Easy | Easy | Moderate | Challenging | Difficult | Very Difficult |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `AoF 8` | `AoF 10` | `AoF 12` | `AoF 14` | `AoF 16` | `AoF 18` |
 
 ## Heart Points
 Characters, as well as some obstacles, have a resource called **heart points** (HP) that represents their overall integrity. HP is reduced and restored by rolling **damage dice** on a successful roll against a target. Characters roll specific dice for damage based on their level:
