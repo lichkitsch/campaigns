@@ -101,25 +101,43 @@ Characters collect items that provide bonus points to specific rolls. **Consumab
 The following is a method for designing quests for _DNDuet_ games. While RINGSLOST is definitely not the only method for this, there are important insights specifically built around the core mechanics that are worth knowing, such as creating obstacles and designing magic items as treasure rewards for your player.
 
 ### Review
-
+First, summarize the current situation including recent relevant events and the status of the party. Where is the protagonist? Who is with them? Where are they going and why? This helps get you in the headspace for what's coming up next.
 
 ### Important NPCs
-
+Next, list out the important NPCs (friendly and hostile) that the protagonist will certainly encounter. Give them names, jobs, a personality, a level, trait scores, items, and abilities. Describe their appearance in a few short, memorable features. Write down details about their attitude or voice to help ease role-playing. Most importantly, write down **what they want** and **what they're doing** to get it.
 
 ### Goal
-
+Give the player a clear, measurable, attainable goal to pursue. The goal might be a red herring or open up to reveal twists and turns later on but the player needs a simple, solid focus to start the quest.
 
 ### Stakes
-
+What happens if the player fails to accomplish the goal? What happens if player walks away and ignores the call to action? What is on the line, internally and externally, when taking on this mission?
 
 ### Locations
-
+Design fantastical locations with at least three unique and interesting features each. Why does the area look the way it does? What purpose do the features serve? What people, animals, or plants exist here? Having a layout is very helpful, and a full map is useful for combat but not totally necessary if your game is focused on theater-of-the-mind combat.
 
 ### Obstacles
+Fill the locations with a variety of traps, puzzles, creatures, enemies, etc. Also, include environmental hazards and ideas for conflicts like chases or stealth sequences.
+Scene-like obstacles can probably get by with an _Air of Fate_ and narrative consequences, but most obstacles are designed like items:
 
+| Rating | Traits | Damage | Max HP |
+|:---:|:---:|:---:|:---:|
+| F | +1 | `1d4` | `4d4` |
+| D | +2 | `F+1d6` | `6d6` |
+| C | +3 | `D+1d8` | `8d8` |
+| B | +4 | `C+1d10` | `10d10` |
+| A | +5 | `B+1d12` | `12d12` |
+| S | +6 | `A+1d20` | `20d20` |
+
+Obstacles are based on items in the following ways:
+
+1. The bonus points are divied up amongst 3 traits (instead of 6). The 3 obstacle traits are Body (`STR/CON`), Mind (`INT/DEX`), and Heart (`WIS/CHA`). Traits are added to checks and contests made by obstacles.
+2. Obstacles deal damage like consumable items, adding a new dice for each rank.
+3. Obstacles have their own HP that the player reduces by rolling their damage dice after positive outcomes against the obstacle.
 
 ### Secrets
-
+Write down 10 one-sentence bits of information about the world/story that may be revealed during the quest. Make them connect to the player characters, the situation at hand, and/or the larger plot in the background. Be sure to only write down what the information is and not how it is revealed to remain flexible in how and when you decide to drop the hints. You might not use all of the secrets you come up with but that's fine, nothing becomes real to the story until you say it out loud.
 
 ### Treasure
+Provide rewards for your players for engaging with the quest and the NPCs, for delving into dangerous territory and walking away victorious. Magic items, treasure caches, special secret information, new allies, etc. are all examples of treasure that might be doled out to your party as payment for a job well done.
 
+When creating magic items for your player be sure to include the specific purpose of the item, the roll the bonus applies to, and a simple description on the item itself.
