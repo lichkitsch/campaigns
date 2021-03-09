@@ -62,14 +62,10 @@ Abilities are bonuses based on a character's physical features, experience, stud
 ### Items
 Characters collect items that provide bonus points to specific rolls. **Consumables** are limited-use items that take up an action and either give a one-time bonus to specific rolls or deal damage as listed on the table below:
 
-| Rating | Bonus | Damage |
-|:---:|:---:|:---:|
-| F | +1 | `1d4` |
-| D | +2 | `F+1d6` |
-| C | +3 | `D+1d8` |
-| B | +4 | `C+1d10` |
-| A | +5 | `B+1d12` |
-| S | +6 | `A+1d20` |
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| +1 | +2 | +3 | +4 | +5 | +6 |
+| `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
 
 ## RINGSLOST
 The following is a method for designing quests for _DNDuet_ games. While RINGSLOST is definitely not the only method for this, there are important insights specifically built around the core mechanics that are worth knowing, such as creating obstacles and designing magic items as treasure rewards for your player.
@@ -93,14 +89,11 @@ Design fantastical locations with at least three unique and interesting features
 Fill the locations with a variety of traps, puzzles, creatures, enemies, etc. Also, include environmental hazards and ideas for conflicts like chases or stealth sequences.
 Scene-like obstacles can probably get by with an _Air of Fate_ and narrative consequences, but most obstacles are designed like items:
 
-| Rating | Traits | Damage | Max HP |
-|:---:|:---:|:---:|:---:|
-| F | +1 | `1d4` | `4d4` |
-| D | +2 | `F+1d6` | `6d6` |
-| C | +3 | `D+1d8` | `8d8` |
-| B | +4 | `C+1d10` | `10d10` |
-| A | +5 | `B+1d12` | `12d12` |
-| S | +6 | `A+1d20` | `20d20` |
+|  | F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Traits** | +1 | +2 | +3 | +4 | +5 | +6 |
+| **Damage** | `1d4` | `F+1d6` | `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
+| **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
 Obstacles are based on items in the following ways:
 
