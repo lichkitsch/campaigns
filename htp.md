@@ -73,16 +73,11 @@ Abilities are bonuses based on a character's physical features, experience, stud
 | Level | Ability |
 |:---:|:---:|
 | L1 | `Advantage` |
-| L2 | `roll+1d4` |
-| L3 | `roll+1d4` |
-| L4 | `roll+1d6` |
-| L5 | `roll+1d6` |
-| L6 | `roll+1d8` |
-| L7 | `roll+1d8` |
-| L8 | `roll+1d10` |
-| L9 | `roll+1d10` |
-| L10 | `roll+1d12` |
-| L11 | `roll+1d12` |
+| L2, L3 | `roll+1d4` |
+| L4, L5 | `roll+1d6` |
+| L6, L7 | `roll+1d8` |
+| L8, L9 | `roll+1d10` |
+| L10, L11 | `roll+1d12` |
 | L12 | `roll+1d20` |
 
 ### Items
