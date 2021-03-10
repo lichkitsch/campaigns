@@ -2,7 +2,7 @@
 _DNDuet_ is a simplified tabletop roleplaying system optimized for longform, multi-session campaigns between 1 narrator and at least 1 player.
 
 ## As a Player
-You are responsible for the main character. Your character has traits, heart points (HP), damage dice, and a list of helpful items and abilities. Use your traits, items, and abilities to take actions within the world. When the Narrator asks, roll dice and add bonuses.
+You are responsible for one of the main characters in the story. Your character has traits, heart points (HP), damage dice, and a list of helpful items and abilities. Use your traits, items, and abilities to take actions within the world. When the Narrator asks, roll dice and add bonuses.
 
 Rules are for referees; know your character and use that info to inform your actions and decisions within the context of the game.
 
