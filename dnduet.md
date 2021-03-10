@@ -10,5 +10,19 @@ You are responsible for _everything that is not the main character_. You control
 ## The Rules
 The core mechanic of _DNDuet_ is the action roll. When your player wants to do something but the outcome is uncertain, have them describe their approach. Based on the nature of their action, pick the most relevant trait and call for either a **check** or a **contest**. Checks are made against static obstacles, usually with a fixed target number to beat, while contests are made by making an opposing roll, adding the obstacle's own relevant trait score to a roll and comparing it with the player's result.
 
-|  |  |  |
+Player characters have 6 traits:
+
+| Trait | Abbr. | Description |
 | ---:|:---:|:--- |
+| Strength | `STR` | Athletics, muscle, melee |
+| Dexterity | `DEX` | Acrobatics, stealth, finesse |
+| Constitution | `CON` | Durability, healthiness |
+| Intelligence | `INT` | Memory, logic, investigation |
+| Wisdom | `WIS` | Intuition, perception, aim |
+| Charisma | `CHA` | Performance, persuasion |
+
+And obstacles have only 3:
+
+| Body | Mind | Heart |
+|:---:|:---:|:---:|
+| `STR/CON` | `INT/DEX` | `WIS/CHA` |
