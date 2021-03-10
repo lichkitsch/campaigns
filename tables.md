@@ -17,3 +17,5 @@
 | **Trait Points** | 1 | 2 | 3 | 4 | 5 | 6 |
 | **Damage** | `1d4` | `F+1d6` |  `D+1d8` | `C+1d10` | `B+1d12` | `A+1d20` |
 | **Max HP** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
+
+&#42; Obstacles distribute trait points among Body (`STR/CON`), Mind (`INT/DEX`), and Heart (`WIS/CHA`).
