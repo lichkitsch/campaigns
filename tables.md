@@ -10,7 +10,7 @@
 | **Temp Ability** | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 | **Value** | 0.01 | 0.1 | 1 | 10 | 100 | 1000 |
 
-&42; For value, roll `1d00` and multiply the result by the number listed.
+&#42; For value, roll `1d00` and multiply the result by the number listed.
 
 | Obstacles | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
