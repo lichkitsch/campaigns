@@ -21,8 +21,9 @@ Player characters have 6 traits:
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion |
 
-And obstacles have only 3:
+Obstacles have only 3 traits:
 
 | Body | Mind | Heart |
 |:---:|:---:|:---:|
 | `STR/CON` | `INT/DEX` | `WIS/CHA` |
+
