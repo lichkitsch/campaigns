@@ -46,20 +46,20 @@ When the player reaches significant narrative milestones the narrator can grant 
 2. Learn a new ability or upgrade an existing ability.
 3. Increase your max HP by rolling your new damage dice:
 
-| Level | Damage | Ability |
-|:---:|:---:|:---:|
-| 1 | `1d4` | `+1d4` |
-| 2 | `1d6` | `+1d4` |
-| 3 | `1d8` | `+1d4` |
-| 4 | `1d10` | `+1d6` |
-| 5 | `2d6` | `+1d6` |
-| 6 | `2d8` | `+1d8` |
-| 7 | `2d10` | `+1d8` |
-| 8 | `2d12` | `+1d10` |
-| 9 | `3d10` | `+1d10` |
-| 10 | `3d12` | `+1d12` |
-| 11 | `4d10` | `+1d12` |
-| 12 | `4d12` | `+1d20` |
+| Level | Damage |
+|:---:|:---:|
+| 1 | `1d4` |
+| 2 | `1d6` |
+| 3 | `1d8` |
+| 4 | `1d10` |
+| 5 | `2d6` |
+| 6 | `2d8` |
+| 7 | `2d10` |
+| 8 | `2d12` |
+| 9 | `3d10` |
+| 10 | `3d12` |
+| 11 | `4d10` |
+| 12 | `4d12` |
 
 
 
