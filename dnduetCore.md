@@ -13,18 +13,18 @@ When facing obstacles, the player makes **action rolls** by describing their int
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion |
 
-The narrator rolls with `1d20`, adds the obstacle's bonus, and compares the results. If the player's result is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome with a cost. The narrator describes the outcome and play continues.
+The narrator rolls `1d20`, adds the obstacle's bonus, and compares the results. If the player's result is higher than the narrator's then the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome with a cost. The narrator describes the changes to the scene and play continues.
 
 ## Heart Points
-Characters, and most obstacles, have a resource called **heart points (HP)** that represent their overall integrity. On a positive outcome against an obstacle with HP, the player may roll their level-specific **damage dice** to reduce the obstacle's HP. Obstacles with zero HP are no longer a threat. On a negative outcome the player takes damage and if their HP reaches zero they suffer a major narrative setback.
+Characters, along with most obstacles, have a resource called **heart points (HP)** that represent their overall integrity. On a positive outcome against an obstacle with HP, the player rolls their **damage dice** to reduce the obstacle's HP. Obstacles with zero HP are no longer a threat. On a negative outcome the player takes damage and if their HP reaches zero they suffer a major narrative setback.
 
 Characters start with 10 max HP at level 1. The player may restore lost HP using their damage dice after 2 hours of rest in a safe place.
 
 ## Abilities
-Characters unlock abilities (extra dice) that they can add to specific action or damage rolls based on their physical features, magical powers, talents, training, studies, etc. Abilities can be temporary or permanent, are gained through items or narrative events, and can be upgraded. Characters start with one `1d4` ability.
+Characters unlock abilities (extra dice) that improve specific action or damage rolls. Abilities are based on the character's physical features, magical powers, talents, training, studies, etc. They can be temporary or permanent, are gained through items or narrative events, and can be upgraded. Characters start with one `1d4` ability.
 
 ## Items
-Characters obtain useful items such as clothing, tools, weapons, food, ammo, etc. that can be used to provide extra points to specific rolls, give the target a temporary ability, or roll the item's own damage dice to reduce or restore HP. Some items are destroyed when used while others break if used on an action roll that results in a natural 1.
+Characters obtain items such as armor, weapons, tools, food, and ammunition that can be used to provide extra points to specific rolls, grant the target a temporary ability, or use the item's own damage dice to reduce or restore HP. Some items are destroyed on use while others break if used on an action roll that results in a natural 1.
 
 Items are ranked by their effectiveness and obstacles are created by the narrator as items with their own HP:
 
