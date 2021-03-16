@@ -2,7 +2,7 @@
 In _DNDuet_, the narrator and the player work together to tell a story. The narrator describes the world and the player uses a combination of traits, abilities, and items to overcome obstacles and accomplish their goals.
 
 ## Action Rolls
-When facing obstacles, the player makes **action rolls** by describing their intent, rolling `1d20`, and adding their most relevant trait score. When creating a character, the player rolls `1d4-2` and distributes the scores amongst their six traits:
+When facing obstacles, the player makes **action rolls** by describing their intent and adding their most relevant trait score to a `1d20` roll. When creating a character, the player rolls `1d4-2` and distributes the scores amongst their six traits:
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
