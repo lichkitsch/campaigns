@@ -1,5 +1,5 @@
 # DNDuet Core
-In _DNDuet_ the player controls the protagonist of the narrator's fictional world. The narrator describes the world and the player uses traits, abilities, and items to overcome obstacles and accomplish their goals.
+In _DNDuet_, the narrator and the player work together to tell a story. The narrator describes the world and the player uses a combination of traits, abilities, and items to overcome obstacles and accomplish their goals.
 
 ## Action Rolls
 When facing obstacles, the player makes **action rolls** by describing their intent, rolling `1d20`, and adding their most relevant trait score. When creating a character, the player rolls `1d4-2` and distributes the scores amongst their six traits:
