@@ -10,6 +10,20 @@ To overcome obstacles, roll `1d20+bonuses` against the narrator. Higher result r
     </tr>
   </thead>
   <tbody>
-    <tr></tr>
+    <tr>
+      <th>L1</th>
+      <td><code>1d4</code></td>
+      <td rowspan="3"><code>d4</code></td>
+    </tr>
+    <tr>
+      <th>L2</th>
+      <td><code>1d6</code></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>L3</th>
+      <td><code>1d8</code></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
