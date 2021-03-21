@@ -61,7 +61,7 @@ To overcome obstacles, roll `1d20+bonuses` against the narrator. Higher result r
     </tr>
     <tr>
       <th>L12</th>
-      <td><code4d12</code></td>
+      <td><code>4d12</code></td>
       <td><code>d20</code></td>
     </tr>
   </tbody>
