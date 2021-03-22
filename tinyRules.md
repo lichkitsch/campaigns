@@ -1,5 +1,5 @@
 # _DNDuet_
-To overcome obstacles, roll `1d20+bonuses` against the narrator. Higher result rolls damage dice to reduce HP. Zero HP results in a major setback.
+_DNDuet_ is a simple system for building custom tabletop RPGs. The narrator creates and controls a fictional world and the player controls the story's protagonist, overcoming obstacles to achieve their character's goals.
 
 <table>
   <thead>
