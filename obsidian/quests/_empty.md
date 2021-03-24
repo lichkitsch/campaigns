@@ -1,27 +1,22 @@
 # Quest Name
 Review of recent events, strong start
 
-## Important NPCs
-Non-party characters and their motivations
+| Important NPCs |
+| --- |
+| _ wants to _ so they _ |
 
-### Goal
-Pick a plot
-
----
+**Goal:** Pick a plot
 
 ## Locations
 
 ### Name
 Description
 
-| Obstacle | Details |
-|:---:|:--- |
-| Physical Challenge |  |
-| Mental Challenge |  |
-| Social Encounter |  |
-| Combat Encounter |  |
+## Obstacles
 
----
+| Name | Description | Rank | HP |
+|:---:|:---:|:---:|:---:|
+|  |  |  |  |
 
 ## Secrets
 
@@ -38,4 +33,6 @@ Description
 
 ## Treasures
 
-- 
+| Name | Description | Effect |
+|:---:|:--- |:---:|
+|  |  | `STR+1` |
