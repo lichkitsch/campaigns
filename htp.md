@@ -1,7 +1,7 @@
 # DNDuet Core SRD
-This is a system reference document for DNDuet, a simple framework for building and playing custom tabletop RPGs with 1 player and 1 narrator. The narrator describes the world and events of the story while the player controls the protagonist. When the player faces an obstacle, they make an action roll by describing their intention, rolling 1d20, and adding their most relevant trait to the result. The narrator rolls 1d20, adds the obstacle's bonus, and compares both results. If the player's result is higher the outcome is positive and if not the outcome is negative. Ties result in a positive outcome that comes at a cost.
+This is a system reference document for DNDuet, a simple framework for building and playing custom tabletop RPGs with 1 player and 1 narrator. The narrator describes the world and events of the story while the player controls the protagonist.
 
-When creating a character, roll 1d4‐2 for the following six traits:
+When the player faces an obstacle, they make an action roll by describing their intention, rolling 1d20, and adding their most relevant trait to the result. The narrator rolls 1d20, adds the obstacle's bonus, and compares both results. If the player's result is higher the outcome is positive and if not the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a character, roll 1d4‐2 for the following six traits:
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
