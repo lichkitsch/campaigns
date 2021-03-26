@@ -24,15 +24,15 @@ Characters start with 10 max HP at level 1. The player may restore lost HP using
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Items & Abilities
-The player can use learned abilities and collected items to improve specific action or damage rolls. Characters start with one *F*‐rank ability and gain a new ability (or upgrade an existing one) when they level up. Items are ranked by their effectiveness. Some items are spent when used and others break if used on an action roll where the d20 lands on a natural 1. The narrator creates obstacles as items with HP.
+The player can use learned abilities and collected items to improve specific action or damage rolls. Characters start with one `F`‐rank ability and gain a new ability (or upgrade an existing one) when they level up. Items are ranked by their effectiveness. Some items are spent when used and others break if used on an action roll where the d20 lands on a natural 1. The narrator creates obstacles as items with HP.
 
 | Rank | Bonus | Damage | Max HP | &#42;Value | Levels |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| `*F*` | +1 | `1d4` | `4d4` | 0.01 | 1-3 |
-| D | +2 | `F+1d6` | `6d6` | 0.1 | 4, 5 |
-| C | +3 | `D+1d8` | `8d8` | 1 | 6, 7 |
-| B | +4 | `C+1d10` | `10d10` | 10 | 8, 9 |
-| A | +5 | `B+1d12` | `12d12` | 100 | 10, 11 |
-| S | +6 | `A+1d20` | `20d20` | 1000 | 12 |
+| `F` | +1 | `1d4` | `4d4` | 0.01 | 1-3 |
+| `D` | +2 | `F+1d6` | `6d6` | 0.1 | 4, 5 |
+| `C` | +3 | `D+1d8` | `8d8` | 1 | 6, 7 |
+| `B` | +4 | `C+1d10` | `10d10` | 10 | 8, 9 |
+| `A` | +5 | `B+1d12` | `12d12` | 100 | 10, 11 |
+| `S` | +6 | `A+1d20` | `20d20` | 1000 | 12 |
 
 &#42;For value, roll `1d00` and multiply by the listed value
