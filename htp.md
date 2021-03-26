@@ -3,6 +3,15 @@ This is a system reference document for DNDuet, a simple framework for building 
 
 When creating a character, roll 1d4‐2 for the following six traits:
 
+| Trait | Abbr. | Description |
+| ---:|:---:|:--- |
+| Strength | `STR` | Athletics, muscle, melee |
+| Dexterity | `DEX` | Acrobatics, stealth, finesse |
+| Constitution | `CON` | Durability, healthiness |
+| Intelligence | `INT` | Memory, logic, investigation |
+| Wisdom | `WIS` | Intuition, perception, aim |
+| Charisma | `CHA` | Performance, persuasion, deceit |
+
 When the player levels up they add 1 point to any one trait (max +5).
 
 ## Heart Points
