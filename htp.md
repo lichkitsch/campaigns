@@ -35,4 +35,4 @@ The player can use learned abilities and collected items to improve specific act
 | A | +5 | `B+1d12` | `12d12` | 100 |
 | S | +6 | `A+1d20` | `20d20` | 1000 |
 
-&42;For value, roll `1d00` and multiply by the listed value
+&#42;For value, roll `1d00` and multiply by the listed value
