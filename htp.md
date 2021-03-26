@@ -28,7 +28,7 @@ The player can use learned abilities and collected items to improve specific act
 
 | Rank | Bonus | Damage | Max HP | &#42;Value | Levels |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| F | +1 | `1d4` | `4d4` | 0.01 | 1-3 |
+| `*F*` | +1 | `1d4` | `4d4` | 0.01 | 1-3 |
 | D | +2 | `F+1d6` | `6d6` | 0.1 | 4, 5 |
 | C | +3 | `D+1d8` | `8d8` | 1 | 6, 7 |
 | B | +4 | `C+1d10` | `10d10` | 10 | 8, 9 |
