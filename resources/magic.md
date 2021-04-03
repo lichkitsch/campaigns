@@ -19,6 +19,8 @@ Many spells require specific ingredients and concentration to cast. The ingredie
 | Water | Any water-based liquid will suffice, even blood |
 | Air   | Feathers, plant matter, breath, words of power |
 
+---
+
 | Name | Description |
 |:---:|:--- |
 | Flesh | Air |
