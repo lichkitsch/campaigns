@@ -13,7 +13,7 @@
 Many spells require specific ingredients and concentration to cast. The ingredients required are based on the four elements:
 
 ### Earth
-Spell components representing earth are the easiest and most difficult to come by, depending on your needs. The required ingredient can range from a handful or dirt or sand to a flawless gemstone or rare crystal, and the required component is nearly always destroyed when the spell is cast. In blood magic, bones represent the element of earth.
+Spell components representing earth are both the easiest and the most difficult to come by, depending on your needs. The required ingredient can range from a handful or dirt or sand to a flawless gemstone or rare crystal, and the required component is nearly always destroyed when the spell is cast. In blood magic, bones represent the element of earth.
 
 ### Fire
 Fire representations are usually as simple as applying heat or flame to the second spell ingredient, but the source of heat might be a component to the spell in-and-of itself. Like the One Ring required the fires of Mount Doom to destroy it, the caster might be required to heat an object with their own body for a certain period of time, drop it into a specific pool of molten rock, or even sacrifice a cherised object to flame for the spell to work. In blood magic, meat and offal represent the element of fire.
