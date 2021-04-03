@@ -12,7 +12,7 @@ Damage can occur in many different ways, illustrated through the following **dam
 | 💉 Poison | Harmful substances | Poisoned |
 | 💀 Necrotic | Acid, disease, death | Cursed |
 | ☀️ Radiant | Light, divine energy | Blinded |
-| ♥️ Psychic | Mental and emotional trauma | Confused |
+| ♥️ Psychic | Mental/emotional trauma | Confused |
 
 ## Conditions
 If the target is not resistant to the damage type and the action roll to attack is a critical success (natural 20), the respective **condition** is applied to the target. Check the list below for the effects of each condition:
