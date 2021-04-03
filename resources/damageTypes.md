@@ -3,16 +3,16 @@ Damage can occur in many different ways, illustrated through the following **dam
 
 | Type | Causes | Condition |
 |:---:|:--- |:---:|
-| 👊<br/>Crushing | Blunt objects, gravity, soundwaves | Broken |
-| ⚔️<br/>Slashing | Bladed weapons | Bleeding |
-| 🏹<br/>Piercing | Arrows, spears, bullets | Pinned |
-| 🔥<br/>Fire | Flames, explosions | Burned |
-| ❄️<br/>Cold | Frost, water, darkness | Frozen |
-| ⚡️<br/>Shock | Lightning, electricity | Paralyzed |
-| 💉<br/>Poison | Harmful substances | Poisoned |
-| 💀<br/>Necrotic | Acid, disease, death | Cursed |
-| ☀️<br/>Radiant | Light, divine energy | Blinded |
-| ♥️<br/>Psychic | Mental and emotional trauma | Confused |
+| 👊 Crushing | Blunt objects, gravity, soundwaves | Broken |
+| ⚔️ Slashing | Bladed weapons | Bleeding |
+| 🏹 Piercing | Arrows, spears, bullets | Pinned |
+| 🔥 Fire | Flames, explosions | Burned |
+| ❄️ Cold | Frost, water, darkness | Frozen |
+| ⚡️ Shock | Lightning, electricity | Paralyzed |
+| 💉 Poison | Harmful substances | Poisoned |
+| 💀 Necrotic | Acid, disease, death | Cursed |
+| ☀️ Radiant | Light, divine energy | Blinded |
+| ♥️ Psychic | Mental and emotional trauma | Confused |
 
 ## Conditions
 If the target is not resistant to the damage type and the action roll to attack is a critical success (natural 20), the respective **condition** is applied to the target. Check the list below for the effects of each condition:
