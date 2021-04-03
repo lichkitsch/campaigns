@@ -22,7 +22,7 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Bleeding**
     - The victim has suffered a laceration that is causing them to lose blood. They take passive damage each turn while bleeding.
 - **Pinned**
-    - The victim is pierced in such a way that the implement has trapped them to either the ground, a wall, or some other object. The victim must succeed on a `STR > 10` roll to pull themselves free.
+    - The victim is pierced in such a way that the implement has trapped them to some other object and the victim must succeed on a `STR > 10` roll to pull themselves free.
 - **Burned**
     - The victim suffers painful burns on the area of contact. If the burned area is struck again, the victim takes double damage.
 - **Frozen**
