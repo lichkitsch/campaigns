@@ -34,6 +34,6 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Cursed**
     - The victim's flesh becomes cursed, eating away at itself until the affected area is cleansed, blessed, or removed.
 - **Blinded**
-    - The victim's eyesight is impaired and they automatically fail any action involving sight until they are healed or they succeed on a `CON > 10` roll.
+    - The victim's eyesight is impaired and they automatically fail any action involving sight until they are healed.
 - **Confused**
     - The victim suffers from mental or emotional trauma so great that they must succeed on a `WIS > 10` roll before making any action until their next rest.
