@@ -1,29 +1,23 @@
 # Magic Spells
 
-| Category | Effect | Color |
-|:---:|:--- |:---:|
-| 💥 Destruction | Inflict a specific damage type through a magical medium | 🔴 |
-| 🚪 Conjuration | Call forth creatures and objects from beyond | 🟠 |
-| 🛡 Protection | Ward against specific actions and reduce harm from specific damage types | 🟡 |
-| ↩️ Restoration | Return creatures and objects to a past state | 🟢 |
-| 🌀 Alteration | Change specific properties of creatures and objects | 🔵 |
-| 🔮 Divination | Gain insight and information about creatures and objects | 🟣 |
+| Category | Effect | Color | Components |
+|:---:|:--- |:---:|:---:|
+| 💥 Destruction | Inflict a specific damage type through a magical medium | 🔴 | Earth & Fire |
+| 🚪 Conjuration | Call forth creatures and objects from beyond | 🟠 | Fire & Water |
+| 🛡 Protection | Ward against specific actions and reduce harm from specific damage types | 🟡 | Earth & Air |
+| ↩️ Restoration | Return creatures and objects to a past state | 🟢 | Earth & Water |
+| 🌀 Alteration | Change specific properties of creatures and objects | 🔵 | Fire & Air |
+| 🔮 Divination | Gain insight and information about creatures and objects | 🟣 | Air & Water |
 
-## Elements
+## Casting Spells
+Many spells require specific ingredients and concentration to cast. The ingredients required are based on the four elements:
 
-| Name | Description |
+| Element | Description |
 |:---:|:--- |
-| Earth |  |
-| Fire  |  |
-| Water |  |
-| Air   |  |
-
-- Earth + Fire  = Destruction (STR)
-- Fire + Water  = Conjuration (CHA)
-- Earth + Air   = Protection (CON)
-- Earth + Water = Restoration (WIS)
-- Fire + Air    = Alteration (DEX)
-- Air + Water   = Divination (INT)
+| Earth | Dirt, stones, rocks, metal, crystals, or precious gems |
+| Fire  | Burnt or flaming material, the more important the stronger the spell |
+| Water | Any water-based liquid will suffice, even blood |
+| Air   | Feathers, plant matter, breath, words of power |
 
 | Name | Description |
 |:---:|:--- |
