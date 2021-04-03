@@ -28,7 +28,7 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Frozen**
     - Frost accumulates around the area of contact, giving the victim a penalty to actions involving the affected area.
 - **Paralyzed**
-    - The victim convulses, causing them to drop any held items if they fail a `CON > 10` roll and giving them a penalty on their next action roll.
+    - The victim convulses, causing them to drop any held items if they fail a `CON > 10` roll and a penalty on their next action roll.
 - **Poisoned**
     - The victim becomes poisoned and takes passive damage until it either works it's way through their system or is counteracted by an appropriate antidote.
 - **Cursed**
