@@ -1,13 +1,13 @@
 # Magic Spells
 
-| Category | Effect | Color | Components |
-|:---:|:--- |:---:|:---:|
-| 💥 Destruction | Inflict a specific damage type through a magical medium | 🔴 | Earth & Fire |
-| 🚪 Conjuration | Call forth creatures and objects from beyond | 🟠 | Fire & Water |
-| 🛡 Protection | Ward against specific actions and reduce harm from specific damage types | 🟡 | Earth & Air |
-| ↩️ Restoration | Return creatures and objects to a past state | 🟢 | Earth & Water |
-| 🌀 Alteration | Change specific properties of creatures and objects | 🔵 | Fire & Air |
-| 🔮 Divination | Gain insight and information about creatures and objects | 🟣 | Air & Water |
+| Category | Effect | Components |
+|:---:|:--- |:---:|
+| 💥🔴 Destruction | Inflict a specific damage type through a magical medium | Earth & Fire |
+| 🚪🟠 Conjuration | Call forth creatures and objects from beyond | Fire & Water |
+| 🛡🟡 Protection | Ward against specific actions and reduce harm from specific damage types | Earth & Air |
+| ↩️🟢 Restoration | Return creatures and objects to a past state | Earth & Water |
+| 🌀🔵 Alteration | Change specific properties of creatures and objects | Fire & Air |
+| 🔮🟣 Divination | Gain insight and information about creatures and objects | Air & Water |
 
 ## Casting Spells
 Many spells require specific ingredients and concentration to cast. The ingredients required are based on the four elements:
