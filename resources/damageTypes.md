@@ -36,4 +36,4 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Blinded**
     - The victim's eyesight is impaired and they automatically fail any action involving sight until they are healed.
 - **Confused**
-    - The victim suffers from mental or emotional trauma so great that they must succeed on a `WIS > 10` roll before making any action until their next rest.
+    - The victim suffers from trauma so great that they must succeed on a `WIS > 10` roll before making any action until their next rest.
