@@ -3,7 +3,7 @@ Damage can occur in many different ways, illustrated through the following **dam
 
 | Type | Causes | Condition |
 |:---:|:--- |:---:|
-| 👊<br/>Crushing | Blunt objects, gravity | Broken |
+| 👊<br/>Crushing | Blunt objects, gravity, soundwaves | Broken |
 | ⚔️<br/>Slashing | Bladed weapons | Bleeding |
 | 🏹<br/>Piercing | Arrows, spears, bullets | Pinned |
 | 🔥<br/>Fire | Flames, explosions | Burned |
@@ -19,7 +19,7 @@ If the target is not resistant to the damage type and the action roll to attack 
 
 | Condition | Effect |
 |:---:|:--- |
-| Broken | The blow has caused some piece of the victim to break, either internal bone structure, external armor, or some tool sacrificed to protect themselves. Broken pieces deal damage if the victim tries to move. |
+| Broken | The blow has caused some piece of the victim to break, either internal bone structure, external armor, or some tool sacrificed to protect themselves. Broken pieces deal damage if the victim tries to move. If the affected area is the head, they might temporarily lose their hearing or take the `Confused` condition instead. |
 | Bleeding | The victim has suffered a laceration that is causing them to lose blood. They take passive damage each turn while bleeding. |
 | Pinned | The victim is pierced in such a way that the implement has trapped them to either the ground, a wall, or some other object. The victim must succeed a `STR > 10` roll to pull themselves free. |
 | Burned | The victim suffers painful burns on the area of contact. If the burned area is struck again, the victim takes double damage. |
