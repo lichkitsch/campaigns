@@ -22,7 +22,7 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Bleeding**
     - The victim has suffered a laceration that is causing them to lose blood. They take passive damage each turn while bleeding.
 - **Pinned**
-    - The victim is pierced in such a way that the implement has trapped them to either the ground, a wall, or some other object. The victim must succeed a `STR > 10` roll to pull themselves free.
+    - The victim is pierced in such a way that the implement has trapped them to either the ground, a wall, or some other object. The victim must succeed on a `STR > 10` roll to pull themselves free.
 - **Burned**
     - The victim suffers painful burns on the area of contact. If the burned area is struck again, the victim takes double damage.
 - **Frozen**
@@ -34,6 +34,6 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Cursed**
     - The victim's flesh becomes cursed, eating away at itself until the affected area is cleansed, blessed, or removed.
 - **Blinded**
-    - The victim's eyesight is impaired and they automatically fail any action involving sight until they are healed or they succeed a `CON > 10` roll.
+    - The victim's eyesight is impaired and they automatically fail any action involving sight until they are healed or they succeed on a `CON > 10` roll.
 - **Confused**
     - The victim suffers from mental or emotional trauma so great that they must succeed on a `WIS > 10` roll before making any action until their next rest.
