@@ -30,7 +30,7 @@ Casting spells takes a full action; the caster cannot move or make other actions
 Concentration typically requires a successful `WIS` or `INT` roll against the narrator for the spell to be cast, depending on the spell. (Remembering a specific true name would require `INT` while most other spells would likely just require intuition and focus, which is typically a `WIS` roll.)
 
 ## Blood Magic
-Some casters claim to find more success when using taboo elements in designing and casting their spells, a practice known as **blood magic**. These casters replace typical spell components with physical pieces of once-living things, adding pieces of the victim's soul to the spell to boost the effect. In blood magic, the four elements are represented by the following:
+Some casters claim to find more success when using taboo elements in designing and casting their spells, a practice known as **blood magic**. These casters replace typical spell components with physical pieces of once-living things, adding pieces of the victim's soul to the spell to boost the effect. Blood magic is banned or forbidden in many societies and combined with typical ingredients in others, and casters would do well to research the customs and laws of their surroundings before casting spells with blood magic. In blood magic, the four elements are represented by the following:
 
 | Element | Replacement components |
 |:---:|:--- |
