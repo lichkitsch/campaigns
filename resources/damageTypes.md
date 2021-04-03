@@ -30,7 +30,7 @@ If the target is not resistant to the damage type and the action roll to attack 
 - **Paralyzed**
     - The victim convulses, causing them to drop any held items if they fail a `CON > 10` roll and a penalty on their next action roll.
 - **Poisoned**
-    - The victim becomes poisoned and takes passive damage until it is counteracted by an appropriate antidote.
+    - The victim becomes poisoned and takes passive damage until they are healed or the poison is counteracted by an appropriate antidote.
 - **Cursed**
     - The victim's flesh becomes cursed, eating away at itself until the affected area is cleansed, blessed, or removed.
 - **Blinded**
