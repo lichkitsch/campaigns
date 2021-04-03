@@ -2,7 +2,7 @@
 Damage can occur in many different ways, illustrated through the following **damage types**. Some creatures are resistant or vulnerable to specific types of damage which adds an element of strategy to combat. If a creature is resistant to a damage type it only takes half damage (rounded down). If the creature is vulnerable to a damage type, the damage it takes is doubled.
 
 | Type | Causes | Condition |
-| ---:|:--- |:---:|
+|:--- |:--- |:---:|
 | 👊 Crushing | Blunt objects, gravity, soundwaves | Broken |
 | ⚔️ Slashing | Bladed weapons | Bleeding |
 | 🏹 Piercing | Arrows, spears, bullets | Pinned |
