@@ -3,7 +3,7 @@ Damage can occur in many different ways, illustrated through the following **dam
 
 | Type | Causes | Condition |
 |:--- |:---:|:---:|
-| 👊 Crushing | Blunt objects, gravity, soundwaves | Broken |
+| 👊 Crushing | Blunt objects, gravity, sound | Broken |
 | ⚔️ Slashing | Bladed weapons | Bleeding |
 | 🏹 Piercing | Arrows, spears, bullets | Pinned |
 | 🔥 Fire | Flames, explosions | Burned |
