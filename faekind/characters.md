@@ -1,1 +1,60 @@
 # Character List
+
+- Alder Danann: King of the Seelie Court of Faeries, CEO of Oberon Enterprises, Sorrel's father
+- Maple Danann: Queen of the Seelie Court of Faeries, Mayor of Paragon City, Sorrel's mother
+- Basil/Yarrow: Former secretary and assistant to Alder, secretly the missing twin of Foxglove
+- Belby the doorman: 
+- Purple smoke caterpillar
+- Benny the Owlbear
+- Acorn sprite
+- Salamander
+- Adrian Fox
+- Redd
+- Fern
+- Ash
+- Malva
+- Dogwood
+- Thorn
+- Buckeye
+- Hadera Helix
+- Posey
+- Lobelia
+- Thistle
+- Verbena
+- Deadwood
+- Edi
+- Clove
+- Myrtle
+- Dahlia
+- Belvedere
+- Hemlock
+- Beech
+- Oyster
+- Jacob
+- Whisper
+- Castor
+- Achillea
+- Jasper
+- Rex
+- Tex
+- Tully
+- Astrid
+- Thaddeus
+- Carrot
+- Lach
+- Bua
+- Nightshade
+- Lavender
+- Cybin
+- Vinca
+- Dombeya
+- Dr. Lemna
+- Oberon
+- Titania
+- Hydrangea "Heidi"
+- Amaryllis
+- Larkspur
+- Cattail
+- Fig
+- Moonwort
+- Goatsbeard
