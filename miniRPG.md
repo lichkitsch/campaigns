@@ -1,5 +1,5 @@
 # MinRPG
-The narrator tells the story and the player controls the protagonist. First, the player assigns each **trait** below one of the following dice: `d6`, `d8`, `d10`, and `d12`.
+The narrator tells the story and the player controls the protagonist. The player starts by assigning each **trait** below one of the following dice: `d6`, `d8`, `d10`, and `d12`.
 
 | Trait | Uses |
 |:---:|:--- |
