@@ -1,0 +1,1 @@
+Roll d20+trait against obstacles. If the result is higher, roll your damage dice to reduce the obstacle’s HP. If not, take damage instead. Ties result in a mixed outcome. Roll damage to restore lost HP after 2 hours of rest. Use abilities and items to improve your odds. Have fun!
