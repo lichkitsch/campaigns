@@ -1,7 +1,12 @@
 # _DNDuet_ Core
-In _DNDuet_ the player controls the actions of the protagonist and the narrator controls the rest of the story including the environment, NPCs, and obstacles. This document has been written with narrators as the intended audience.
 
-## Character Creation
+Item Rankings
 
-
-## Obstacles
+| Rank | Bonus | Max HP | Damage | Value |
+|:---:|:---:|:---:|:---:|:---:|
+| F | `+d4` | `4d4` *(10)* | `1d4` *(2.5)* | `1d00 x 0.01` |
+| D | `+d6` | `6d6` *(21)* | `F+1d6` *(6)* | `1d00 x 0.1` |
+| C | `+d8` | `8d8` *(36)* | `D+1d8` *(10.5)* | `1d00` |
+| B | `+d10` | `10d10` *(55)* | `C+1d10` *(16)* | `1d00 x 10` |
+| A | `+d12` | `12d12` *(78)* | `B+1d12` *(22.5)* | `1d00 x 100` |
+| S | `+d20` | `20d20` *(210)* | `A+1d20` *(33)* | `1d00 x 1000` |
