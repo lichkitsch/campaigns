@@ -1,4 +1,9 @@
 ## Ausica
+When the earth's environment became too hostile, most of mankind took to the stars. Nature took back the landscape, a thick green blanket laid over the ruins, formed over centuries. New creatures rose from the earth to oversee its rebirth. Sixteen dragons, eight chromatic and eight metallic, spread out across the continent to help return life to the land.
+
+Several millenia passed and the remaining pockets of humanity evolved and adapted in different ways. The world looks different, but people stay the same; some vie for power while others seek peace, some want progress and others want tradition. The main continent, now know as "Ausica", is diverse and sprawling, with a vibrant history and many cultures clashing in unexpected ways.
+
+The mankind of the old age is long gone and new stories are brewing in the young civilization on the rise.
 
 | Location | Description |
 |:---:|:--- |
