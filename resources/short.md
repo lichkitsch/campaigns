@@ -2,16 +2,7 @@
 The narrator tells the story and controls the world while the player controls the actions of the protagonist.
 
 ## Character Creation
-To create a level 1 character, start by rolling `1d4-2` for each of the following **traits**:
-
-1. Strength `STR`
-2. Dexterity `DEX`
-3. Constitution `CON`
-4. Intelligence `INT`
-5. Wisdom `WIS`
-6. Charisma `CHA`
-
-Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and uses the result to increase their max HP.
+To create a level 1 character, start by rolling `1d4-2` for each of the following **traits**: strength `STR`, dexterity `DEX`, constitution `CON`, intelligence `INT`, wisdom `WIS`, and charisma `CHA`. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and uses the result to increase their max HP.
 
 ### Damage Dice
 
