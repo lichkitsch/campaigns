@@ -1,1 +1,0 @@
-Clothing, armor, weapons, tools, potions, food, ammunition, books, scrolls, toys, etc.
