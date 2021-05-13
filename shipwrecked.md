@@ -11,7 +11,7 @@ Lies about being captain of the "5th Union Fisherman's Corps" and has never caug
 - **Cast a Line**; `WIS+d4` to grapple an enemy with fishing line
 
 ### Inventory
-- Filet knife 
+- Filet knife `DEX+1`
 - Fishing pole `WIS+1`
 
 ## Thaddius Mink
