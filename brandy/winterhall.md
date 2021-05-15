@@ -6,14 +6,19 @@
 **Location - Maison du Reine (Exterior)**
 - A beautiful, ancient manor built on the side of a mountain
 - Stained-glass windows, snow-covered statues, and creaky iron gates
-- A human servant (Buckley) shovels the cobblestone walkway while an elven maiden (Wisteria) waits on the steps
+- A human servant (Buckley) shovels the walkway while an elven maiden (Wisteria) watches from the window
 
 **Location - Maison du Reine (Interior)**
 - The vacation home once belonging to Marie Du Pont Magnifique
 - Oil portraits and landscapes, blue ice-crystal lamps, navy and silver decor
-- The elven maiden escorts visitors into a ballroom to wait for the master of the house
+- Wisteria escorts visitors into a ballroom to wait for the master of the house
 
 **NPC - Elvross Winterhall**
 - Last of the Winterhall line and caretaker of the Maison du Reine
 - 12ft tall and very muscular, gray-blue skin and white hair, rides in a massive wheelchair
 - Offers fame and fortune to whomever can retrieve the Crystal Spectacles from the Den of Uin
+
+**Location - Den of Uin (Exterior)**
+
+
+**Location - Den of Uin**
