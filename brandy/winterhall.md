@@ -15,7 +15,7 @@
 - Wisteria escorts visitors into a ballroom to wait for the master of the house
 
 **NPC - Elvross Winterhall**
-- Last of the Winterhall line and caretaker of the Maison du Reine
+- Last of the Winterhall line and caretaker of the Maison de la Reine
 - 12ft tall and very muscular, gray-blue skin and white hair, rides in a massive wheelchair
 - Offers fame and fortune to whomever can retrieve the Crystal Spectacles from the Den of Uin
 
