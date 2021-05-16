@@ -33,4 +33,13 @@
 - The pillar is speckled with small glowing crystals which act as beacons through the maze, warning of dangers
 
 **Location - Maze of Tunnels**
+- A network of underground tunnels connecting various chambers with traps and treasures
+- Roll on the table below when moving from room to room for descriptions and events:
 
+
+| Name | Description | Event |
+|:---:|:--- :|:--- :|
+| Sink or Swim | A 25ft cube of water inhabited by venomous jellies. |  |
+| Tentacle Pit | A 40ft drop along craggy walls into a pit filled with shiny pink tentacles. The tunnel continues on the far wall but the wall must be climbed while avoiding the tentacles, which secrete a powerful aphrodisiac. |  |
+| Ghosts of Heroes Past | A somber dinner party at a round table, composed of ghosts from the Cromwell-Wilding war. |  |
+| Trophy Room |  |  |
