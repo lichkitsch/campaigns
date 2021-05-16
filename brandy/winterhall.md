@@ -38,7 +38,7 @@
 
 
 | Name | Description | Event |
-|:---:|:--- :|:--- :|
+|:---:|:--- |:--- |
 | Sink or Swim | A 25ft cube of water inhabited by venomous jellies. |  |
 | Tentacle Pit | A 40ft drop along craggy walls into a pit filled with shiny pink tentacles. The tunnel continues on the far wall but the wall must be climbed while avoiding the tentacles, which secrete a powerful aphrodisiac. |  |
 | Ghosts of Heroes Past | A somber dinner party at a round table, composed of ghosts from the Cromwell-Wilding war. |  |
