@@ -5,12 +5,12 @@ By starting at L3 players are a little more hardy (16 max HP on average), do a l
 | L3 | F, D | X Catalyst | X Catalyst | `D` Consumable |
 | L4/a | F, D | Y Catalyst | Y Catalyst | `D` Permanent |
 | L4/b | F, D | Z Catalyst | Y Shadow | `C` Consumable |
-| L5/a | D, C | Z Shadow | Y Twist | `C` Permanent |
-| L5/b | D, C | X Shadow |  X Shadow | `C` Consumable |
+| L5/a | D, C | Z Shadow | X Shadow | `C` Permanent |
+| L5/b | D, C | X Shadow | Y Twist | `C` Consumable |
 | L6/a | D, C | Y Shadow | Y Darkness | `C` Permanent |
 | L6/b | D, C | Y Twist | Y Revelation | `B` Consumable |
-| L7/a | C, B | Z Twist | Y Battle | `B` Permanent |
-| L7/b | C, B | X Twist |  X Twist | `B` Consumable |
+| L7/a | C, B | Z Twist | X Twist | `B` Permanent |
+| L7/b | C, B | X Twist | Y Battle | `B` Consumable |
 | L8/a | C, B | X Darkness | Z Catalyst | `B` Permanent |
 | L8/b | C, B | Y Darkness | X Darkness | `A` Consumable |
 | L9/a | B, A | Z Darkness | Z Shadow | `A` Permanent |
