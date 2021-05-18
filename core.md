@@ -12,7 +12,7 @@ When creating the protagonist at level 1, the player rolls `1d4-2` for their six
 | Wisdom | `WIS` | Senses, willpower, ranged |
 | Charisma | `CHA` | Performance, persuasion |
 
-When facing an obstacle, the player describes their intended action and rolls 1d20+trait against the narrator, who rolls for the obstacle (1d20+bonus). If the player’s result is higher than the obstacle’s result then the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. The narrator describes the outcome and play continues. When leveling up, the player may increase one trait by 1 point.
+When facing an obstacle, the player describes their intended action and rolls `1d20+trait` against the narrator, who rolls for the obstacle (`1d20+bonus`). If the player’s result is higher than the obstacle’s result then the outcome is positive and if not, the outcome is negative. Ties result in a mixed outcome. The narrator describes the outcome and play continues. When leveling up, the player may increase one trait by 1 point.
 
 ## Heart Points
 Characters start with a max of 10 heart points (HP) at level 1. On a negative outcome, the narrator rolls the obstacle’s damage dice to reduce the player’s HP. If the player’s HP reaches zero, they suffer a major narrative setback. On a positive outcome the player can roll their own level-specific damage dice to reduce the obstacle’s HP. Obstacles with zero HP are no longer a threat.
