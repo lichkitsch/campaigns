@@ -1,6 +1,6 @@
 By starting at L3 players are a little more hardy (16 max HP on average), do a little more base damage (4.5 average), and get to start with more (or better) abilities. They also stand a good chance against `F`-rank hostiles and can team up to survive encounters with `D`-rank hostiles. Starting at L3 and leveling up after every 2 quests also makes a campaign with a main plot and 2 subplots last for a comfortable 18 quests, easily achievable in roughly a year of weekly sessions.
 
-| Quest | Encounters | Mixed Plots | Staggered Plots | Rewards |
+| Quest | Encounters | Mixed | Staggered | Rewards |
 |:---:|:---:|:--- |:--- |:--- |
 | L3 | F, D | X Catalyst | X Catalyst | `D` Consumable |
 | L4/a | F, D | Y Catalyst | Y Catalyst | `D` Permanent |
@@ -20,3 +20,5 @@ By starting at L3 players are a little more hardy (16 max HP on average), do a l
 | L11/a | A, S, X | Y Battle | Z Revelation | `S` Permanent |
 | L11/b | A, S, X | Z Battle | Z Battle | `S` Consumable |
 | L12 | A, S, X | X Battle | X Battle | `S` Permanent |
+
+A "mixed" structure sees the three fronts carried equally throughout the narrative, all colliding in three major battles at the very end. On the other hand, the "staggered" structure has one overarching main plot (X) and two subplots that play out one after another, one lower level (Y) and one higher level (Z). With the staggered plots you give the player an exciting conclusion to one subplot and a moment of rest around the middle of the campaign, while the mixed plot structure is a slower build with a big payoff and more excitement at the finale.
