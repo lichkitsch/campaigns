@@ -2,21 +2,21 @@ By starting at L3 players are a little more hardy (16 max HP on average), do a l
 
 | Quest | Encounters | Plot Point | Rewards |
 |:---:|:---:|:---:|:---:|
-| L3 |  | X-F | Level up, `D` Consumable |
-| L4/a |  | Y-F | `D` Permanent |
-| L4/b |  | Z-F | Level up, `C` Consumable |
-| L5/a |  | Z-D | `C` Permanent |
-| L5/b |  | X-D | Level up, `C` Consumable |
-| L6/a |  | Y-D | `C` Permanent |
-| L6/b |  | Y-C | Level up, `B` Consumable |
-| L7/a |  | Z-C | `B` Permanent |
-| L7/b |  | X-C | Level up, `B` Consumable |
-| L8/a |  | X-B | `B` Permanent |
-| L8/b |  | Y-B | Level up, `A` Consumable |
-| L9/a |  | Z-B | `A` Permanent |
-| L9/b |  | Z-A | Level up, `A` Consumable |
-| L10/a |  | X-A | `A` Permanent |
-| L10/b |  | Y-A | Level up, `S` Consumable |
-| L11/a |  | Y-S | `S` Permanent |
-| L11/b |  | Z-S | Level up, `S` Consumable |
-| L12 |  | X-S | Resolution |
+| L3 | F, D | X Catalyst | `D` Consumable |
+| L4/a | F, D | Y Catalyst | `D` Permanent |
+| L4/b | F, D | Z Catalyst | `C` Consumable |
+| L5/a | D, C | Z Shadow | `C` Permanent |
+| L5/b | D, C | X Shadow | `C` Consumable |
+| L6/a | D, C | Y Shadow | `C` Permanent |
+| L6/b | D, C | Y Twist | `B` Consumable |
+| L7/a | C, B | Z Twist | `B` Permanent |
+| L7/b | C, B | X Twist | `B` Consumable |
+| L8/a | C, B | X Darkness | `B` Permanent |
+| L8/b | C, B | Y Darkness | `A` Consumable |
+| L9/a | B, A | Z Darkness | `A` Permanent |
+| L9/b | B, A | Z Revelation | `A` Consumable |
+| L10/a | B, A | X Revelation | `A` Permanent |
+| L10/b | B, A | Y Revelation | `S` Consumable |
+| L11/a | A, S, X | Y Battle | `S` Permanent |
+| L11/b | A, S, X | Z Battle | `S` Consumable |
+| L12 | A, S, X | X Battle | `S` Permanent |
