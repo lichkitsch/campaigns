@@ -2,21 +2,21 @@ By starting at L3 players are a little more hardy (16 max HP on average), do a l
 
 | Quest | Encounters | Plot Point | Rewards |
 |:---:|:---:|:---:|:---:|
-| L3 |  | X-F |  |
-| L4/a |  | Y-F |  |
-| L4/b |  | Z-F |  |
-| L5/a |  | Z-D |  |
-| L5/b |  | X-D |  |
-| L6/a |  | Y-D |  |
-| L6/b |  | Y-C |  |
-| L7/a |  | Z-C |  |
-| L7/b |  | X-C |  |
-| L8/a |  | X-B |  |
-| L8/b |  | Y-B |  |
-| L9/a |  | Z-B |  |
-| L9/b |  | Z-A |  |
-| L10/a |  | X-A |  |
-| L10/b |  | Y-A |  |
-| L11/a |  | Y-S |  |
-| L11/b |  | Z-S |  |
-| L12 |  | X-S |  |
+| L3 |  | X-F | Level up, `D` Consumable |
+| L4/a |  | Y-F | `D` Permanent |
+| L4/b |  | Z-F | Level up, `C` Consumable |
+| L5/a |  | Z-D | `C` Permanent |
+| L5/b |  | X-D | Level up, `C` Consumable |
+| L6/a |  | Y-D | `C` Permanent |
+| L6/b |  | Y-C | Level up, `B` Consumable |
+| L7/a |  | Z-C | `B` Permanent |
+| L7/b |  | X-C | Level up, `B` Consumable |
+| L8/a |  | X-B | `B` Permanent |
+| L8/b |  | Y-B | Level up, `A` Consumable |
+| L9/a |  | Z-B | `A` Permanent |
+| L9/b |  | Z-A | Level up, `A` Consumable |
+| L10/a |  | X-A | `A` Permanent |
+| L10/b |  | Y-A | Level up, `S` Consumable |
+| L11/a |  | Y-S | `S` Permanent |
+| L11/b |  | Z-S | Level up, `S` Consumable |
+| L12 |  | X-S | Resolution |
