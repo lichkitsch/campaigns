@@ -1,7 +1,7 @@
 By starting at L3 players are a little more hardy (16 max HP on average), do a little more base damage (4.5 average), and get to start with more (or better) abilities. They also stand a good chance against `F`-rank hostiles and can team up to survive encounters with `D`-rank hostiles. Starting at L3 and leveling up after every 2 quests also makes a campaign with a main plot and 2 subplots last for a comfortable 18 quests, easily achievable in roughly a year of weekly sessions.
 
 | Quest | Encounters | Plot Point | Rewards |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:--- |
 | L3 | F, D | X Catalyst | `D` Consumable |
 | L4/a | F, D | Y Catalyst | `D` Permanent |
 | L4/b | F, D | Z Catalyst | `C` Consumable |
