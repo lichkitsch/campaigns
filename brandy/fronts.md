@@ -3,24 +3,24 @@
 ## Missing Dragons / Magic Sickness
 The original 16 dragons have disappeared, their domains suffering in their absence.
 
-| Name | Domain | Color | Species |
-|:---:|:---:|:---:|:---:|
-| Xolreit | Destruction | Red | Dragon |
-| Larlise | Conjuration | Orange | Lindworm |
-|  | Abjuration | Yellow | Wyrm |
-| Belrayn | Restoration | Green | Wyvern |
-|  | Alteration | Blue | Dragon |
-| Taldrel | Divination | Purple | Amphithere |
-|  | Necrotic | Black | Wyrm |
-| Xuelian | Cold | White | Drake |
-| Vundi | Poison | Mercury | Amphithere |
-| Murulth | Crushing | Iron | Drake |
-|  | Slashing | Steel | Lindworm |
-|  | Piercing | Brass | Wyvern |
-|  | Shock | Copper | Wyvern |
-|  | Fire | Bronze | Dragon |
-| Copengarde | Radiant | Silver | Wyrm |
-|  | Psychic | Gold | Dragon |
+| Name | Domain | Color | Species | Location |
+|:---:|:---:|:---:|:---:|:---:|
+| Xolreit | Destruction | Red | Dragon | The Cinder Barrens |
+| Larlise | Conjuration | Orange | Lindworm | Skulker's Cage |
+| Ansheri | Abjuration | Yellow | Wyrm | The Unseen |
+| Belrayn | Restoration | Green | Wyvern | Alderbright, the Wilding Wood |
+| Lodhri | Alteration | Blue | Dragon | The Aegon Labyrinth |
+| Taldrel | Divination | Purple | Amphithere | The Ethereal Reef |
+| Haskin | Necrotic | Black | Wyrm | The Wailing |
+| Xuelian | Cold | White | Drake | The Zhuan Ru Tundra |
+| Vundi | Poison | Mercury | Amphithere | Sonus Isle |
+| Murulth | Crushing | Iron | Drake | The Quaking Deep |
+| Ebizut | Slashing | Steel | Lindworm | Selgrit's Garden |
+| Talizex | Piercing | Brass | Wyvern | Osoterel Ravine |
+| Vilkod | Shock | Copper | Wyvern | The Spire |
+| Lugaldoth | Fire | Bronze | Dragon | Demon's Cough |
+| Copengarde | Radiant | Silver | Wyrm | Siren Lake |
+| Razgoshe | Psychic | Gold | Dragon | The Torn Valley |
 
 ## Neo-human Recolonization
 
