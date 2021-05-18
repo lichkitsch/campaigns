@@ -1,5 +1,5 @@
 # DNDuet Core Rules
-DNDuet is a tabletop roleplaying game for two. The player controls the protagonist (also called the player character) by acting and reacting to the events of the story, as described by the narrator.
+DNDuet is a tabletop roleplaying game for two. The player controls the protagonist by reacting to the events of the story, as described by the narrator.
 
 When creating the protagonist at level 1, the player rolls `1d4-2` for their six starting traits:
 
