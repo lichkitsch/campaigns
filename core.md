@@ -3,6 +3,7 @@ DNDuet is a tabletop roleplaying game for two. The player controls the protagoni
 
 When creating the protagonist at level 1, the player rolls 1d4-2 for their six starting traits:
 
+| Trait | Abbr. | Uses |
 | ---:|:---:|:--- |
 | Strength | `STR` | Athletics, muscle, melee |
 | Dexterity | `DEX` | Acrobatics, stealth, finesse |
