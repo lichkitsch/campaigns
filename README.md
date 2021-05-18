@@ -32,7 +32,7 @@ The player can use learned abilities and collected items to improve specific act
 | `D` | +2 | `F+1d6` | `6d6` | 1 | 4, 5 |
 | `C` | +3 | `D+1d8` | `8d8` | 10 | 6, 7 |
 | `B` | +4 | `C+1d10` | `10d10` | 100 | 8, 9 |
-| `A` | +5 | `B+1d12` | `12d12` | 1k | 10, 11 |
+| `A` | +5 | `B+1d12` | `12d12` | 1000 | 10, 11 |
 | `S` | +6 | `A+1d20` | `20d20` | 10k | 12 |
 
 &#42;For value, roll `d100` and multiply by the listed value
