@@ -21,7 +21,9 @@ Players restore lost HP by rolling their damage dice after 2 hours of rest and i
 
 ### Damage Dice by Level
 
-> INSERT TABLE
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Abilities
 Characters learn useful **abilities** during their travels based on their studies, training, talents, blessings, and gifts. Abilities add an extra die to action or damage rolls. When leveling up, the player can choose to learn a new ability (*F*-rank) or upgrade an existing ability (if applicable). Abilities can also be applied temporarily by using consumable items or other narrative devices.
