@@ -4,7 +4,7 @@
 The original 16 dragons have disappeared, their domains suffering in their absence.
 
 | Name | Domain | Color | Species | Location |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:--- |
 | Xolreit | Destruction | Red | Dragon | The Cinder Barrens |
 | Larlise | Conjuration | Orange | Lindworm | Skulker's Cage |
 | Ansheri | Abjuration | Yellow | Wyrm | The Unseen |
