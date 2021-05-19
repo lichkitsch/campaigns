@@ -13,16 +13,16 @@ When facing an obstacle, the player rolls `1d20+trait` against the narrator, who
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ### Items and Abilities
-Characters use items to add a fixed bonus and abilities to add bonus dice to specific action or damage rolls based on their rank. The narrator creates obstacles as items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage, also based on rank.
+Characters use items and abilities to improve specific action or damage rolls based on their rank. Items provide a fixed bonus and have their own max HP: roll `XdX` where `X` is the number of sides of the listed ability die to set an item's max HP. Items can take damage and eventually break at zero HP. Consumable items (arrows, bullets, potions, food) deal their own damage rather than improving the player's damage dice: roll the listed ability die and one of each lower rank's ability dice for dealing/healing damage. For consumables, when you roll damage make sure to reduce the item's HP by the same amount, to represent scarcity.  The narrator creates obstacles as items with the listed bonus standing in for trait scores. Obstacles
 
-| Rank | Bonus | Damage | Max HP | &#42;Value | Level |
+| Rank | Bonus | Ability | &#42;Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| `F` | +1 | `1d4` | `4d4` | 0.1 | 1/2/3 |
-| `D` | +2 | `F+1d6` | `6d6` | 1 | 4/5 |
-| `C` | +3 | `D+1d8` | `8d8` | 10 | 6/7 |
-| `B` | +4 | `C+1d10` | `10d10` | 100 | 8/9 |
-| `A` | +5 | `B+1d12` | `12d12` | 1000 | 10/11 |
-| `S` | +6 | `A+1d20` | `20d20` | 10k | 12 |
+| `F` | +1 | `+1d4` | 0.1 | 1/2/3 |
+| `D` | +2 | `+1d6` | 1 | 4/5 |
+| `C` | +3 | `+1d8` | 10 | 6/7 |
+| `B` | +4 | `+1d10` | 100 | 8/9 |
+| `A` | +5 | `+1d12` | 1000 | 10/11 |
+| `S` | +6 | `+1d20` | 10k | 12 |
 
 ## Leveling Up
 When the player reaches significant milestones, the narrator lets them level up. The player rolls their new damage dice to increase their max HP, adds one point to any one trait, and either learns a new ability or upgrades and existing ability, if applicable.
