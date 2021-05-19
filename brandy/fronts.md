@@ -1,6 +1,6 @@
 # Fronts
 
-## A New God
+## The Composite God
 The original 16 dragons have disappeared, their domains suffering in their absence.
 
 | Name | Domain | Color | Species | Location |
