@@ -5,7 +5,9 @@ The narrator tells the story and controls the world while the player controls th
 To create a level 1 character, start by rolling `1d4-2` for each of the following **traits**: `STR`, `DEX`, `CON`, `INT`, `WIS`, and `CHA`. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and uses the result to increase their max HP. Characters also start with 3 *F*-rank items and one ability, explained later.
 
 ### Damage Dice
-> Insert table
+| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Playing the Game
 When facing an obstacle the player rolls `1d20+trait` against the narrator, who rolls `1d20+bonus` for the obstacle. If the player's result is higher than the obstacle the outcome is positive and if not, the outcome is negative. On a positive outcome the player rolls their damage dice to reduce the obstacle's HP. When an obstacle's HP reaches zero, they are no longer a threat. On a negative outcome the narrator rolls the obstacle's damage dice and reduces the character's HP. When a character's HP reaches zero, they suffer a major narrative setback.
@@ -13,6 +15,13 @@ When facing an obstacle the player rolls `1d20+trait` against the narrator, who 
 ### Obstacles, Items, and Abilities
 Characters can use items to add a fixed bonus to specific rolls and abilities to add bonus dice to specific rolls. Items have HP and can take damage and break. Items and abilities have a rank that dictates their use and value:
 
-> Insert table
+| Rank | Bonus | DMG | HP | &#42;Value | Level |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `F` | +1 | `1d4` | `4d4` | 0.1 | 1/2/3 |
+| `D` | +2 | `F+1d6` | `6d6` | 1 | 4/5 |
+| `C` | +3 | `D+1d8` | `8d8` | 10 | 6/7 |
+| `B` | +4 | `C+1d10` | `10d10` | 100 | 8/9 |
+| `A` | +5 | `B+1d12` | `12d12` | 1000 | 10/11 |
+| `S` | +6 | `A+1d20` | `20d20` | 10k | 12 |
 
-The narrator creates obstacles like items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage based on their rank. 
+The narrator creates obstacles as items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage based on their rank. 
