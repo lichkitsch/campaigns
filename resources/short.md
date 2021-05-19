@@ -13,7 +13,7 @@ When facing an obstacle, the player rolls `1d20+trait` against the narrator, who
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ### Obstacles, Items, and Abilities
-Characters can use items to add a fixed bonus to specific rolls and abilities to add bonus dice to specific rolls. Items have HP and can take damage and break. Items and abilities have a rank that dictates their use and value:
+Characters can use items to add a fixed bonus and abilities to add bonus dice to specific action or damage rolls based on their rank. The narrator creates obstacles as items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage, also based on rank.
 
 | Rank | Bonus | DMG | HP | &#42;Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -23,8 +23,6 @@ Characters can use items to add a fixed bonus to specific rolls and abilities to
 | `B` | +4 | `C+1d10` | `10d10` | 100 | 8/9 |
 | `A` | +5 | `B+1d12` | `12d12` | 1000 | 10/11 |
 | `S` | +6 | `A+1d20` | `20d20` | 10k | 12 |
-
-The narrator creates obstacles as items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage based on their rank. 
 
 ## Leveling Up
 When the player reaches significant milestones, the narrator lets them level up. The player rolls their new damage dice to increase their max HP, adds one point to any one trait, and either learns a new ability or upgrades and existing ability, if applicable.
