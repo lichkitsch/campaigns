@@ -15,7 +15,7 @@ When facing an obstacle, the player rolls `1d20+trait` against the narrator, who
 ### Obstacles, Items, and Abilities
 Characters use items to add a fixed bonus and abilities to add bonus dice to specific action or damage rolls based on their rank. The narrator creates obstacles as items with the fixed bonus standing in for trait scores and rolling specific dice for their HP and damage, also based on rank.
 
-| Rank | Bonus | DMG | HP | &#42;Value | Level |
+| Rank | Bonus | Damage | Max HP | &#42;Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | `F` | +1 | `1d4` | `4d4` | 0.1 | 1/2/3 |
 | `D` | +2 | `F+1d6` | `6d6` | 1 | 4/5 |
