@@ -2,7 +2,7 @@
 The narrator describes situations, the player controls the protagonist, and dice rolls determine uncertain outcomes.
 
 ## Character Creation
-To create a level 1 character, roll `1d4-2` for each of the following **traits**: strength (`STR`), dexterity (`DEX`), constitution (`CON`), intelligence (`INT`), wisdom (`WIS`), and charisma (`CHA`). Characters start with 10 max heart points (HP), three *F*-rank items, and one *F*-rank ability.
+To create a level 1 character, roll `1d4-2` for each of the following **traits**: strength, dexterity, constitution, intelligence, wisdom, and charisma. Characters start with 10 max heart points (HP), three *F*-rank items, and one *F*-rank ability.
 
 ### Damage Dice
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
