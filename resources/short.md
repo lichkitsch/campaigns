@@ -16,7 +16,7 @@ When facing an obstacle, the player rolls `1d20+trait` against the narrator, who
 Characters use items and abilities to improve specific action or damage rolls based on their rank. Items provide a fixed bonus and have their own max HP: roll `XdX` where `X` is the number of sides of the listed ability die to set an item's max HP. Items can take damage and eventually break at zero HP. Consumable items (arrows, bullets, potions, food) deal their own damage rather than improving the player's damage dice: roll the listed ability die and one of each lower rank's ability dice for dealing/healing damage. For consumables, when you roll damage make sure to reduce the item's HP by the same amount, to represent scarcity.  The narrator creates obstacles as items with the listed bonus standing in for trait scores. Obstacles
 
 | Rank | Bonus | Ability | &#42;Value | Level |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | `F` | +1 | `+1d4` | 0.1 | 1/2/3 |
 | `D` | +2 | `+1d6` | 1 | 4/5 |
 | `C` | +3 | `+1d8` | 10 | 6/7 |
