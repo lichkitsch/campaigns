@@ -5,7 +5,7 @@ The narrator describes situations, the player controls the protagonist, and dice
 To create a level 1 character, roll `1d4-2` for each of the following **traits**: strength, dexterity, constitution, intelligence, wisdom, and charisma. Characters start with 10 max **heart points (HP)**, three *F*-rank **items**, and one *F*-rank **ability**.
 
 ## Playing the Game
-When facing an obstacle, the player rolls `1d20+trait` against the narrator, who rolls `1d20+bonus` for the obstacle. If the player's result is higher than the obstacle the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes with a cost. On a positive outcome the player rolls their level-specific **damage dice** to reduce the obstacle's HP. When an obstacle's HP reaches zero, they are no longer a threat. On a negative outcome the narrator rolls the obstacle's damage dice and reduces the character's HP. When a character's HP reaches zero, they suffer a major narrative setback. 
+When facing an obstacle, the player rolls `1d20+trait` against the narrator, who rolls `1d20+bonus` for the obstacle. If the player's result is higher than the obstacle the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes with a cost. On a positive outcome the player rolls their level-specific **damage dice** to reduce the obstacle's HP. When an obstacle's HP reaches zero, they are no longer a threat. On a negative outcome the narrator rolls the obstacle's damage dice and reduces the character's HP. When a character's HP reaches zero, they suffer a major narrative setback. Death must be unanimous.
 
 ### Damage Dice by Level
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
