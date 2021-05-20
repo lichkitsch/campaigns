@@ -3,7 +3,7 @@
 - An abandoned military outpost of crumbling stone, built on a cliff overlooking a beach.
 - Broken barricades and rusty weapons, torn flags with the Cromwell crest, most window slots covered by wooden planks or thick curtains.
     - The Cromwell family crest is a golden goblet in front of a red shield with a thick, white, diagonal stripe.
-- Vampires and wights sleep and wait in the darkness for victims, easily woken by activity and ready to call others to their aid.
+- Vampires and wights sleep and wait in the darkness for victims, easily woken by activity and ready to call others to for help.
 
 ## Sebastian Cromwell - Vampire Lord (D)
 
