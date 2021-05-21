@@ -56,6 +56,111 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 
 Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast. Spells can be cast and contained in potions, scrolls, and other items and used at a later time without needing to spend the components or concentration during the action.
 
+### Spell Elements, Forms, and Creatures
+
+| ID | Element | Form | Creature |
+|:---:|:---:|:---:|:---:|
+| 1 | Acid |	Arc |	Ant |
+| 2 | Aether |	Assassin | Ape |
+| 3 | Air | Aura |	Badger |
+| 4 | Alabaster | Bastion | Bat |
+| 5 | Amber | Beacon | Bear |
+| 6 | Ash | Beam | Beaver |
+| 7 | Bat | Beast | Bee |
+| 8 | Battle |	Blade | Beetle |
+| 9 | Beetle |	Blast | Boar |
+| 10 | Bile |	Blob | Bulldog |
+| 11 | Blight |	Bolt | Butterfly |
+| 12 | Blood | Bubble | Camel |
+| 13 | Bone |	Burst | Cat |
+| 14 | Brimstone | Call | Centipede |
+| 15 | Brine | Cascade | Chameleon |
+| 16 | Bronze |	Circle | Cobra |
+| 17 | Chaos | Cloud | Cockroach |
+| 18 | Clay |	Coil | Constrictor |
+| 19 | Copper |	Colossus | Cougar |
+| 20 | Crow |	Column | Cow |
+| 21 | Crystal | Cone | Coyote |
+| 22 | Death | Crystal | Crab |
+| 23 | Doom |	Cube | Crane |
+| 24 | Dream | Disk | Cricket |
+| 25 | Dust |	Elemental |	Crocodile |
+| 26 | Earth | Emanation |	Crow |
+| 27 | Echo |	Enclosure |	Donkey |
+| 28 | Energy |	Explosion |	Dragonfly |
+| 29 | Fire |	Eye	| Duck |
+| 30 | Flame | Face |	Eagle |
+| 31 | Flesh | Field | Eel |
+| 32 | Fog | Fist | Elephant |
+| 33 | Fungus |	Fountain | Elk |
+| 34 | Ghost | Gate | Falcon |
+| 35 | Glass | Gaze |	Ferret |
+| 36 | Gold |	Grip | Firefly |
+| 37 | Heat |	Gush | Fox |
+| 38 | Honey | Halo | Frog |
+| 39 | Ice | Hand |	Goat |
+| 40 | Ichor | Heart | Goose |
+| 41 | Insect |	Helix | Hare |
+| 42 | Iron |	Image | Hart |
+| 43 | Ivory | Laugh | Hawk |
+| 44 | Jade |	Lock | Hedgehog |
+| 45 | Lava |	Loop | Hornet |
+| 46 | Light | Maze | Horse |
+| 47 | Lightning | Moment |	Hound |
+| 48 | Loam |	Monolith | Hummingbird |
+| 49 | Marmalade | Mount | Jackal |
+| 50 | Miasma |	Mouth | Jellyfish |
+| 51 | Milk |	Nexus | Leech |
+| 52 | Mist |	Oracle | Lion |
+| 53 | Moss |	Path | Locust |
+| 54 | Mud | Pattern | Lynx |
+| 55 | Mutation |	Plane | Mantis |
+| 56 | Nectar | Portal | Mastodon |
+| 57 | Night | Prism | Mockingbird |
+| 58 | Nightmare | Pulse | Mole |
+| 59 | Obsidian |	Puppet | Monkey |
+| 60 | Oil | Pyramid | Moose |
+| 61 | Plague |	Ray |	Moth |
+| 62 | Poison |	Rift | Mouse |
+| 63 | Power | Road | Mule |
+| 64 | Psyche |	Scream | Octopus |
+| 65 | Quicksilver | Seal | Otter |
+| 66 | Rain |	Sentinel | Owl |
+| 67 | Rat | Servant | Ox |
+| 68 | Rose |	Shard |	Panther |
+| 69 | Rot |	Shield | Pig |
+| 70 | Rust |	Shroud | Pony |
+| 71 | Salt |	Sigil | Porcupine |
+| 72 | Sand |	Song | Possum |
+| 73 | Sap | Sphere | Rabbit |
+| 74 | Serpent | Spiral |	Raccoon |
+| 75 | Shadow |	Splinter | Rat |
+| 76 | Silver |	Spray | Reindeer |
+| 77 | Skin |	Storm | Rooster |
+| 78 | Slime | Stream |	Salamander |
+| 79 | Smoke | Strike | Scorpion |
+| 80 | Snow |	Swarm |	Seal |
+| 81 | Souls | Tendril | Shark |
+| 82 | Spirit |	Tentacle | Sheep |
+| 83 | Star |	Throne | Slug |
+| 84 | Steam | Tongue | Snail |
+| 85 | Stench |	Torrent | Sparrow |
+| 86 | Stone | Touch | Spider |
+| 87 | Sun | Tower | Squid |
+| 88 | Tar | Trap | Squirrel |
+| 89 | Thorn | Tree |	Tiger |
+| 90 | Thunder | Tunnel |	Toad |
+| 91 | Treasure |	Veil | Turtle |
+| 92 | Venom | Voice |	Viper |
+| 93 | Vine |	Vortex | Vulture |
+| 94 | Void |	Wall | Walrus |
+| 95 | Water | Ward | Weasel |
+| 96 | Wind |	Wave | Whale |
+| 97 | Wine |	Web | Wolf |
+| 98 | Winter |	Whisper | Wolverine |
+| 99 | Wood |	Word | Worm |
+| 100 | Worm |	Zone | Zebra |
+
 ## Buying Items
 
 | Category | Merchant | Goods |
