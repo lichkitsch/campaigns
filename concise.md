@@ -6,6 +6,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
+The player rolls their new damage dice when gaining a level to increase their max HP. Roll your damage dice after every 2 hours of rest to reestore lost HP.
+
 ## Item and Ability Ranks
 
 | Rank | Bonus | Damage | Max HP | Ability | Value | Level |
