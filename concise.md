@@ -1,4 +1,4 @@
-# *DNDuet* Core
+# *DNDuet*
 
 ## Create a Level 1 Character
 
