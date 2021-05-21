@@ -42,12 +42,12 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 
 | School | Description | Components |
 |:---:|:--- |:---:|
-| Destruction | Inflict damage through a magical medium | Fire, Earth |
-| Conjuration | Summon objects and creatures from elsewhere | Fire, Water |
-| Abjuration | Protect against damage, bad luck, or ill will | Earth, Air |
-| Restoration | Restore an object to a past iteration | Earth, Water |
-| Alteration | Change an object's properties | Fire, Air |
-| Divination | Reveal hidden information | Water, Air |
+| 🔴 Destruction | Inflict damage through a magical medium | Fire, Earth |
+| 🟠 Conjuration | Summon objects and creatures from elsewhere | Fire, Water |
+| 🟡 Abjuration | Protect against damage, bad luck, or ill will | Earth, Air |
+| 🟢 Restoration | Restore an object to a past iteration | Earth, Water |
+| 🔵 Alteration | Change an object's properties | Fire, Air |
+| 🟣 Divination | Reveal hidden information | Water, Air |
 
 | Components | Fire | Earth | Water | Air |
 |:---:|:---:|:---:|:---:|:---:|
