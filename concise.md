@@ -19,15 +19,15 @@
 
 ## Damage Types
 
-| Type | Source | Condition |
-|:---:|:---:|:--- |
-| 👊 Crushing | Blunt objects, gravity, sound | *Broken*: Take damage when moving until healed |
-| ⚔️ Slashing | Bladed weapons | *Bleeding*: Take damage each turn until wound is sealed |
-| 🏹 Piercing | Arrows, spears, bullets | *Pinned*: Roll `STR > 10` to break free or take damage |
-| 🔥 Fire | Flames, explosions | *Burned*: Subsequent blows to burned area deal double damage |
-| ❄️ Cold | Frost, water, darkness | *Frozen*: Roll `CON > 10` to move successfully or take damage |
-| ⚡️ Shock | Lightning, electricity | *Paralyzed*: Drop held weapons and lose a turn |
-| 💉 Poison | Harmful substances | *Poisoned*: Take damage each turn until cured with antidote |
-| 💀 Necrotic | Acid, disease, death | *Cursed*: Take damage each turn until curse is removed |
-| ☀️ Radiant | Light, divine energy | *Blinded*: Automatically fail actions that require sight |
-| ♥️ Psychic | Mental/emotional trauma | *Confused*: Roll `WIS > 10` to make any action until rested |
+| Type | Source | Condition | Effect |
+|:---:|:---:|:---:|:--- |
+| 👊 Crushing | Blunt objects, gravity, sound | *Broken* | Take damage when moving until healed |
+| ⚔️ Slashing | Bladed weapons | *Bleeding* | Take damage each turn until wound is sealed |
+| 🏹 Piercing | Arrows, spears, bullets | *Pinned* | Roll `STR > 10` to break free or take damage |
+| 🔥 Fire | Flames, explosions | *Burned* | Subsequent blows to burned area deal double damage |
+| ❄️ Cold | Frost, water, darkness | *Frozen* | Roll `CON > 10` to move successfully or take damage |
+| ⚡️ Shock | Lightning, electricity | *Paralyzed* | Drop held weapons and lose a turn |
+| 💉 Poison | Harmful substances | *Poisoned* | Take damage each turn until cured with antidote |
+| 💀 Necrotic | Acid, disease, death | *Cursed* | Take damage each turn until curse is removed |
+| ☀️ Radiant | Light, divine energy | *Blinded* | Automatically fail actions that require sight |
+| ♥️ Psychic | Mental/emotional trauma | *Confused* | Roll `WIS > 10` to make any action until rested |
