@@ -78,5 +78,5 @@ Spells require one physical component, one abstract component, and concentration
 |  | General Store | Climbing gear, camping gear, cookware, writing tools, personal effects (canes, pipes, containers, hygiene, makeup, etc.) |
 |  | Toy Store | Cards, dice, puzzles, puppets, dolls, marbles, whistles, magic kits, costumes, etc. |
 |  | Luthier | Instrument cases, string instruments (lute, lyre, violin, etc.), wind instruments (flutes, pipes, horns, etc.), percussion instruments (bells, drums, etc.) |
-|  | Alchemist | balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
+|  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
 |  | Herbalist/Apothecary | Drugs, chemicals, potions, herb satchets, pills, tablets, powders |
