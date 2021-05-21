@@ -56,7 +56,7 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 
 Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast. Spells can be cast and contained in potions, scrolls, and other items and used at a later time without needing to spend the components or concentration during the action.
 
-## Spending Money
+## Buying Items
 
 | Category | Merchant | Goods |
 |:---:| ---:|:--- |
@@ -69,7 +69,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
 |  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
 |  | Innkeep | Tavern meal (bread, cheese, meat, fruit/veggie), live music, rumors, accomodations |
-| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, shoes, furs, etc. |
+| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, cloaks, capes, robes, undergarments, socks, shoes, furs, etc. |
 |  | Jeweler | Clips, rings, pins, cuffs, necklaces, bracelets, anklets, etc. |
 |  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
 | Tools | Blacksmith | Metal-forged weapons (daggers, swords, axes, spears, mauls, maces, flails, etc.) and tools (traps, hammers, nails, screws, etc.) |
@@ -84,3 +84,5 @@ Spells require one physical component, one abstract component, and concentration
 | Raw Material | Gemcutter | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
 |  | Miner | Stone, gravel, ore (iron, copper, silver, gold) |
 |  | Witch | Plants, herbs, flowers, leaves, crystals, potions, satchets, scrolls |
+
+## 
