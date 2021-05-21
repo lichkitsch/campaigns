@@ -69,9 +69,8 @@ Spells require one physical component, one abstract component, and concentration
 |  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
 |  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
 |  | Innkeep | Tavern meal (bread, cheese, meat, fruit/veggie), live music, rumors, accomodations |
-| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, furs, etc. |
+| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, shoes, furs, etc. |
 |  | Jeweler | Clips, rings, pins, cuffs, necklaces, bracelets, anklets, etc. |
-|  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
 |  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
 | Tools | Blacksmith | Metal-forged weapons (daggers, swords, axes, spears, mauls, maces, flails, etc.) and tools (traps, hammers, nails, screws, etc.) |
 |  | Bower/Atilliator | Bows, arrows, crossbows, bolts |
@@ -81,4 +80,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
 |  | Herbalist/Apothecary | Drugs, chemicals, potions, herb satchets, pills, tablets, powders |
 |  | Thief | Glasscutter, prybar, grappling hook, lockpicks, disguises, etc. |
+|  | Artificer | Mechanical weapons (guns, cannons, lasers), traps, sensors, etc. |
 | Raw Material | Gemcutter | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
+|  | Miner | Stone, gravel, ore (iron, copper, silver, gold) |
+|  | Witch | Plants, herbs, flowers, leaves, crystals, potions, satchets, scrolls |
