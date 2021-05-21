@@ -37,3 +37,19 @@ Consumables have their own damage dice, deal damage to themselves equal to the e
 | ♥️ Psychic | Mental/emotional trauma | *Confused* | Roll `WIS > 10` to make any action until rested |
 
 Conditions are applied to a target when the attacker rolls a natural 20.
+
+## Spellcraft
+
+| School | Description | Components |
+|:---:|:--- |:---:|
+| Destruction | Inflict damage through a magical medium | Fire, Earth |
+| Conjuration | Summon objects and creatures from elsewhere | Fire, Water |
+| Abjuration | Protect against damage, bad luck, or ill will | Earth, Air |
+| Restoration | Restore an object to a past iteration | Earth, Water |
+| Alteration | Change an object's properties | Fire, Air |
+| Divination | Reveal hidden information | Water, Air |
+
+| Components | Fire | Earth | Water | Air |
+|:---:|:---:|:---:|:---:|:---:|
+| Physical | Candles, alcohol, ash, heat, spices, flames, blades, meat | Dirt, sand, stone, gems, crystals, oil, staves, bones | Water, rain, ice, snow, cups, ink, blood | Feathers, plants, seeds, scrolls, wands, paper, breath, wind |
+| Abstract | Dance, sex, movement | Burying, grinding, location | Soaking, drinking, time | Breathing, eating, speaking |
