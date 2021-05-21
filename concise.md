@@ -51,7 +51,7 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 
 | Components | Fire | Earth | Water | Air |
 |:---:|:---:|:---:|:---:|:---:|
-| Physical | Candles, alcohol, ash, heat, spices, flames, blades, meat | Dirt, sand, stone, gems, crystals, oil, hammers, bones | Water, rain, ice, snow, cups, ink, whips, blood | Feathers, plants, seeds, paper, scrolls, wands, staves, arrows, breath, wind |
+| Physical | Candles, alcohol, ash, heat, spices, flames, blades, meat | Dirt, sand, stone, gems, crystals, oil, hammers, bones | Water, rain, ice, snow, cups, ink, whips, blood | Feathers, plants, seeds, scrolls, wands, staves, arrows, breath, wind |
 | Abstract | Dance, sex, movement | Burying, grinding, location | Submerging, drinking, time | Breathing, eating, speaking |
 
-Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast.
+Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast. Spells can be cast and contained in potions, scrolls, and other items and used at a later time without needing to spend the components or concentration during the action.
