@@ -7,7 +7,6 @@
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Item and Ability Ranks
-Consumables have their own damage dice, deal damage to themselves equal to the effect they have when used, and run empty when their HP reaches zero. Other items that reach zero HP break, but can usually be repaired by someone qualified. Most obstacles and NPCs are created as items; they roll `1d20+bonus` against the player, deal damage like a consumable item, and are no longer a threat when their HP reaches zero. Some NPCs are created like player characters with damage dice, items, and abilities all their own.
 
 | Rank | Bonus | Damage | Max HP | Ability | Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17,6 +16,8 @@ Consumables have their own damage dice, deal damage to themselves equal to the e
 | `B` | +4 | `C+1d10` | `10d10` | `+1d10` | `d100 * 100` | 8/9 |
 | `A` | +5 | `B+1d12` | `12d12` | `+1d12` | `d100 * 1000` | 10/11 |
 | `S` | +6 | `A+1d20` | `20d20` | `+1d20` | `d100 * 10k` | 12 |
+
+Consumables have their own damage dice, deal damage to themselves equal to the effect they have when used, and run empty when their HP reaches zero. Other items that reach zero HP break, but can usually be repaired by someone qualified. Most obstacles and NPCs are created as items; they roll `1d20+bonus` against the player, deal damage like a consumable item, and are no longer a threat when their HP reaches zero. Some NPCs are created like player characters with damage dice, items, and abilities all their own.
 
 ## Damage Types and Conditions
 Conditions are applied to a target when the attacker rolls a natural 20.
