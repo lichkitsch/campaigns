@@ -20,7 +20,6 @@
 Consumables have their own damage dice, deal damage to themselves equal to the effect they have when used, and run empty when their HP reaches zero. Other items that reach zero HP break, but can usually be repaired by someone qualified. Most obstacles and NPCs are created as items; they roll `1d20+bonus` against the player, deal damage like a consumable item, and are no longer a threat when their HP reaches zero. Some NPCs are created like player characters with damage dice, items, and abilities all their own.
 
 ## Damage Types and Conditions
-Conditions are applied to a target when the attacker rolls a natural 20.
 
 | Type | Source | Condition | Effect |
 |:---:|:---:|:---:|:--- |
@@ -34,3 +33,5 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 | 💀 Necrotic | Acid, disease, death | *Cursed* | Take damage each turn until curse is removed |
 | ☀️ Radiant | Light, divine energy | *Blinded* | Automatically fail actions that require sight |
 | ♥️ Psychic | Mental/emotional trauma | *Confused* | Roll `WIS > 10` to make any action until rested |
+
+Conditions are applied to a target when the attacker rolls a natural 20.
