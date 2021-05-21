@@ -66,6 +66,8 @@ Spells require one physical component, one abstract component, and concentration
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
 |  | Brewer | Tonic, mead, ale, rum, wine, moonshine, etc. |
 |  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
+|  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
+|  | Innkeep | Tavern meal (bread, cheese, meat, vegetable), live music, rumors, accomodations |
 | Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, etc. |
 |  | Jeweler | Clips, rings, cuffs, necklaces, bracelets, anklets, etc. |
 |  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
