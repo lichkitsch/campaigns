@@ -75,7 +75,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
 | Tools | Blacksmith | Metal-forged weapons (daggers, swords, axes, spears, mauls, maces, flails, etc.) and tools (traps, hammers, nails, screws, etc.) |
 |  | Bower/Atilliator | Bows, arrows, crossbows, bolts |
-|  | General Store | Climbing gear, camping gear, cookware, writing tools, personal effects (canes, pipes, containers, hygiene, makeup, etc.) |
+|  | General Store | Climbing gear, camping gear, cookware, writing tools, containers, personal effects (canes, pipes, hygiene, makeup, etc.) |
 |  | Toy Store | Cards, dice, puzzles, puppets, dolls, marbles, whistles, magic kits, costumes, etc. |
 |  | Luthier | Instrument cases, string instruments (lute, lyre, violin, etc.), wind instruments (flutes, pipes, horns, etc.), percussion instruments (bells, drums, etc.) |
 |  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
