@@ -26,7 +26,7 @@ Consumables have their own damage dice, deal damage to themselves equal to the e
 | Type | Source | Condition | Effect |
 |:---:|:---:|:---:|:--- |
 | 👊 Crushing | Blunt objects, gravity, sound | *Broken* | Take damage when moving until healed |
-| ⚔️ Slashing | Bladed weapons | *Bleeding* | Take damage each turn until wound is sealed |
+| ⚔️ Slashing | Blades, whips, saws | *Bleeding* | Take damage each turn until wound is sealed |
 | 🏹 Piercing | Arrows, spears, bullets | *Pinned* | Roll `STR > 10` to break free or take damage |
 | 🔥 Fire | Flames, explosions | *Burned* | Subsequent blows to burned area deal double damage |
 | ❄️ Cold | Frost, water, darkness | *Frozen* | Roll `CON > 10` to move successfully or take damage |
