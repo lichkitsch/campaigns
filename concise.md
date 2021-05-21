@@ -24,7 +24,7 @@ Consumables have their own damage dice, deal damage to themselves equal to the e
 ## Damage Types and Conditions
 
 | Type | Source | Condition | Effect |
-|:---:|:---:|:---:|:--- |
+|:--- |:---:|:---:|:--- |
 | 👊 Crushing | Blunt objects, gravity, sound | *Broken* | Take damage when moving until healed |
 | ⚔️ Slashing | Blades, whips, saws | *Bleeding* | Take damage each turn until wound is sealed |
 | 🏹 Piercing | Arrows, spears, bullets | *Pinned* | Roll `STR > 10` to break free or take damage |
