@@ -59,7 +59,7 @@ Spells require one physical component, one abstract component, and concentration
 ## Spending Money
 
 | Category | Merchant | Goods |
-|:---:|:---:|:--- |
+|:---:| ---:|:--- |
 | Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
 |  | Grocer | Canned goods, boxed goods, frozen goods, candy, honey, maple syrup, dry ingredients (beans, rice, oats, coffee, tea, sugar, dried fruit) |
 |  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans, shells, coral, pearls |
