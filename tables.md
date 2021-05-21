@@ -60,10 +60,18 @@ Spells require one physical component, one abstract component, and concentration
 
 | Category | Merchant | Goods |
 |:---:|:---:|:--- |
-|  | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
+| Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
 |  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
 |  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, pasta, coffee, tea, sugar) |
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
 |  | Brewer | Tonic, mead, ale, rum, wine, moonshine, etc. |
 |  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
-|  |  |  |
+| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, etc. |
+|  | Jeweler | Clips, rings, cuffs, necklaces, bracelets, anklets, etc. |
+|  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
+|  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
+| Tools | Blacksmith | Metal-forged weapons (daggers, swords, axes, spears, mauls, maces, flails, etc.) and tools (traps, hammers, nails, screws, etc.) |
+|  | Bower/Atilliator | Bows, arrows, crossbows, bolts |
+|  | General Store | Climbing gear, camping gear, cookware, writing tools, personal effects (canes, pipes, containers, hygiene, makeup, etc.) |
+|  | Toy Store | Cards, dice, puzzles, puppets, dolls, marbles, whistles, magic kits, costumes, etc. |
+|  | Luthier | Instrument cases, string instruments (lute, lyre, violin, etc.), wind instruments (flutes, pipes, horns, etc.), percussion instruments (bells, drums, etc.) |
