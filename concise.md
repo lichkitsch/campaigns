@@ -52,4 +52,4 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 | Components | Fire | Earth | Water | Air |
 |:---:|:---:|:---:|:---:|:---:|
 | Physical | Candles, alcohol, ash, heat, spices, flames, blades, meat | Dirt, sand, stone, gems, crystals, oil, staves, bones | Water, rain, ice, snow, cups, ink, blood | Feathers, plants, seeds, scrolls, wands, paper, breath, wind |
-| Abstract | Dance, sex, movement | Burying, grinding, location | Soaking, drinking, time | Breathing, eating, speaking |
+| Abstract | Dance, sex, movement | Burying, grinding, location | Submerging, drinking, time | Breathing, eating, speaking |
