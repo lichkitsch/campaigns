@@ -55,3 +55,9 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 | Abstract | Dance, sex, specific movements | Burying, grinding, specific locations | Submerging, drinking, specific times | Breathing, eating, language |
 
 Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast. Spells can be cast and contained in potions, scrolls, and other items and used at a later time without needing to spend the components or concentration during the action.
+
+## Spending Money
+
+| Merchant | Goods |
+|:---:|:--- |
+|  |  |
