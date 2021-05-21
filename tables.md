@@ -61,13 +61,14 @@ Spells require one physical component, one abstract component, and concentration
 | Category | Merchant | Goods |
 |:---:|:---:|:--- |
 | Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
-|  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
-|  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, pasta, coffee, tea, sugar) |
+|  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, oats, pasta, coffee, tea, sugar) |
+|  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
+|  | Farmer | Fresh fruit, fresh vegetables, jams, jellies, pickles, eggs, milk, cheese, butter |
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
 |  | Brewer | Tonic, mead, ale, rum, wine, moonshine, etc. |
-|  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
+|  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
 |  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
-|  | Innkeep | Tavern meal (bread, cheese, meat, vegetable), live music, rumors, accomodations |
+|  | Innkeep | Tavern meal (bread, cheese, meat, fruit/veggie), live music, rumors, accomodations |
 | Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, etc. |
 |  | Jeweler | Clips, rings, cuffs, necklaces, bracelets, anklets, etc. |
 |  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
