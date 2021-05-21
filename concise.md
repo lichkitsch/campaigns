@@ -1,4 +1,4 @@
-# *DNDuet*
+# *DNDuet* Tables
 
 ## Damage Dice by Level
 
@@ -6,7 +6,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
-## Item and Obstacle Ranks
+## Item and Ability Ranks
+Obstacles are created as items. Consumables deal damage to themselves equal to the effect they have and run empty when their HP reaches zero. Other items that reach zero HP break but can usually be repaired by someone qualified.
 
 | Rank | Bonus | Damage | Max HP | Ability | Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17,7 +18,8 @@
 | `A` | +5 | `B+1d12` | `12d12` | `+1d12` | `d100 * 1000` | 10/11 |
 | `S` | +6 | `A+1d20` | `20d20` | `+1d20` | `d100 * 10k` | 12 |
 
-## Damage Types
+## Damage Types and Conditions
+Conditions are applied to a target when the attacker rolls a natural 20.
 
 | Type | Source | Condition | Effect |
 |:---:|:---:|:---:|:--- |
