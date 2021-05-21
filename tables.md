@@ -63,7 +63,7 @@ Spells require one physical component, one abstract component, and concentration
 | Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
 |  | Grocer | Canned goods, boxed goods, frozen goods, candy, honey, maple syrup, dry ingredients (beans, rice, oats, coffee, tea, sugar, dried fruit) |
 |  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans, shells, coral, pearls |
-|  | Farmer | Fresh fruit, fresh vegetables, jams, jellies, pickles, eggs, milk, cheese, butter, honey |
+|  | Farmer | Fresh fruit, fresh vegetables, jams, jellies, pickles, eggs, milk, cheese, butter, honey, livestock |
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
 |  | Brewer | Tonic, mead, ale, rum, wine, moonshine, etc. |
 |  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
@@ -80,7 +80,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
 |  | Herbalist/Apothecary | Drugs, chemicals, potions, herb satchets, pills, tablets, powders |
 |  | Thief | Glasscutter, prybar, grappling hook, lockpicks, disguises, etc. |
-|  | Artificer | Mechanical weapons (guns, cannons, lasers), traps, sensors, etc. |
+|  | Artificer | Mechanical weapons (guns, cannons, lasers), traps, sensors, constructs, etc. |
 | Raw Material | Gemcutter | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
 |  | Miner | Stone, gravel, ore (iron, copper, silver, gold) |
 |  | Witch | Plants, herbs, flowers, leaves, crystals, potions, satchets, scrolls |
