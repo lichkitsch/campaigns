@@ -62,7 +62,7 @@ Spells require one physical component, one abstract component, and concentration
 |:---:|:---:|:--- |
 | Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
 |  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, oats, coffee, tea, sugar) |
-|  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
+|  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans, shells, coral, pearls |
 |  | Farmer | Fresh fruit, fresh vegetables, jams, jellies, pickles, eggs, milk, cheese, butter |
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
 |  | Brewer | Tonic, mead, ale, rum, wine, moonshine, etc. |
@@ -70,7 +70,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
 |  | Innkeep | Tavern meal (bread, cheese, meat, fruit/veggie), live music, rumors, accomodations |
 | Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, etc. |
-|  | Jeweler | Clips, rings, cuffs, necklaces, bracelets, anklets, etc. |
+|  | Jeweler | Clips, rings, pins, cuffs, necklaces, bracelets, anklets, etc. |
 |  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
 |  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
 | Tools | Blacksmith | Metal-forged weapons (daggers, swords, axes, spears, mauls, maces, flails, etc.) and tools (traps, hammers, nails, screws, etc.) |
@@ -80,3 +80,4 @@ Spells require one physical component, one abstract component, and concentration
 |  | Luthier | Instrument cases, string instruments (lute, lyre, violin, etc.), wind instruments (flutes, pipes, horns, etc.), percussion instruments (bells, drums, etc.) |
 |  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
 |  | Herbalist/Apothecary | Drugs, chemicals, potions, herb satchets, pills, tablets, powders |
+|  | Miner | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
