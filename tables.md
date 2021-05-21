@@ -69,7 +69,7 @@ Spells require one physical component, one abstract component, and concentration
 |  | Butcher | Beef, lamb, mutton, goat, raised poultry (chicken, turkey), sausages |
 |  | Street Vendor | Roasted meats, fried bread, sweet treats, etc. |
 |  | Innkeep | Tavern meal (bread, cheese, meat, fruit/veggie), live music, rumors, accomodations |
-| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, etc. |
+| Clothing | Tailor | Hats, tops, bottoms, dresses, coats, robes, undergarments, socks, furs, etc. |
 |  | Jeweler | Clips, rings, pins, cuffs, necklaces, bracelets, anklets, etc. |
 |  | Cobbler | Shoes, boots, heels, cleats, sandals, etc. |
 |  | Armorer | Helms, plates, pauldrons, greaves, gauntlets, etc. |
@@ -81,4 +81,4 @@ Spells require one physical component, one abstract component, and concentration
 |  | Alchemist | Balms, baths, compresses, creams, decoctions, drops, elixirs, extracts, infusions, lotions, oils, perfumes, phials, philtres, pills, potions, poultices, powders, salves, soaks, soap, spices, sprays, syrups, tablets, teas, tinctures, satchets |
 |  | Herbalist/Apothecary | Drugs, chemicals, potions, herb satchets, pills, tablets, powders |
 |  | Thief | Glasscutter, prybar, grappling hook, lockpicks, disguises, etc. |
-|  | Gemcutter | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
+| Raw Material | Gemcutter | Amber, amethyst, aquamarine, azurite, banded agate, bloodstone, carnelian, coral, yellow diamond, pink diamond, blue diamond, white diamond, emerald, garnet, hematite, iolite, jade, jasper, jet, lapis lazuli, malachite, moonstone, obsidian, onyx, opal, freshwater pearl, pearl, black pearl, peridot, quartz, rose quartz, ruby, sapphire, sardonyx, spinel, tiger's eye, topaz, tourmaline, turqouise, zircon |
