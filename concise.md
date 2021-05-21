@@ -8,7 +8,7 @@
 
 ## Item and Obstacle Ranks
 
-| Rank | Bonus | Damage | Max HP | Ability | &#42;Value | Level |
+| Rank | Bonus | Damage | Max HP | Ability | Value (d100) | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `F` | +1 | `1d4` | `4d4` | `+1d4` | 0.1 | 1/2/3 |
 | `D` | +2 | `F+1d6` | `6d6` | `+1d6` | 1 | 4/5 |
