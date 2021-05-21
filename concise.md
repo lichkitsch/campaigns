@@ -7,7 +7,7 @@
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Item and Ability Ranks
-Obstacles are created as items. Consumables deal damage to themselves equal to the effect they have and run empty when their HP reaches zero. Other items that reach zero HP break but can usually be repaired by someone qualified.
+Consumables have their own damage dice, deal damage to themselves equal to the effect they have when used, and run empty when their HP reaches zero. Other items that reach zero HP break, but can usually be repaired by someone qualified. Most obstacles and NPCs are created as items; they roll `1d20+bonus` against the player, deal damage like a consumable item, and are no longer a threat when their HP reaches zero. Some NPCs are created like player characters with damage dice, items, and abilities all their own.
 
 | Rank | Bonus | Damage | Max HP | Ability | Value | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
