@@ -61,8 +61,8 @@ The vacation home once belonging to Marie Du Pont Magnifique, now home to Elvros
 
 | Name | Description | Event |
 |:---:|:--- |:--- |
-| Sink or Swim | A 25ft cube of water held together by a magical field and inhabited by venomous jellies. | The water seems to be leaking slightly along the frame of the door, which is a bit unusual. |
 | Rat Box | A simple room with stacked-stone walls and hardwood floors. There is a small wooden table in the center of the room with a beam of light focused on it and a small paper box with the words "Rat Box" written on the side. To the left is an identical door. | Inside the rat box is a single average brown rat with a little wheel, a bowl of food, and a water bottle. Nothing happens if you interact with the rat or the box. |
-| Tentacle Pit | A 40ft drop along craggy walls into a pit filled with shiny pink tentacles. The tunnel continues on the far wall but the wall must be climbed while avoiding the tentacles, which secrete a powerful aphrodisiac. | The tentacles move slowly and their grip is rather weak, not exactly the harrowing threat it appeared to be. |
 | Ghosts of Heroes Past | A somber dinner party at a round table, composed of ghosts from the Cromwell-Wilding war. | The ghosts at the table flicker and fade halfway through the conversation, leaving the room silent and empty. Even the magic torches along the walls flicker and fade, leaving you in darkness. |
-| Trophy Room |  |  |
+| Tentacle Pit | A 40ft drop along craggy walls into a pit filled with shiny pink tentacles. The tunnel continues on the far wall but the wall must be climbed while avoiding the tentacles, which secrete a powerful aphrodisiac. | The tentacles move slowly and their grip is rather weak, not exactly the harrowing threat it appeared to be. |
+| Sink or Swim | A 25ft cube of water held together by a magical field and inhabited by venomous jellies. | The water seems to be leaking slightly along the frame of the door, which is a bit unusual. |
+| Trophy Room | Trophy cases line the walls with taxidermied animals (and some humanoids) | On a skull sits the crystal spectacles, almost as if forgotten. |
