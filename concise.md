@@ -41,7 +41,7 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 ## Spellcraft
 
 | School | Description | Components |
-|:---:|:--- |:---:|
+|:--- |:--- |:---:|
 | 🔴 Destruction | Inflict damage through a magical medium | Fire, Earth |
 | 🟠 Conjuration | Summon objects and creatures from elsewhere | Fire, Water |
 | 🟡 Abjuration | Protect against damage, bad luck, or ill will | Earth, Air |
