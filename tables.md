@@ -61,7 +61,7 @@ Spells require one physical component, one abstract component, and concentration
 | Category | Merchant | Goods |
 |:---:|:---:|:--- |
 | Food | Hunter | Game meat (squirrel, venison, etc.), game fish, wild poultry (quail, pheasant, pigeon, turkey), mushrooms |
-|  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, oats, pasta, coffee, tea, sugar) |
+|  | Grocer | Canned goods, boxed goods, frozen goods, candy, dry ingredients (beans, rice, oats, coffee, tea, sugar) |
 |  | Fishmonger | Fresh fish, game fish, salted fish, smoked fish, shellfish, crustaceans |
 |  | Farmer | Fresh fruit, fresh vegetables, jams, jellies, pickles, eggs, milk, cheese, butter |
 |  | Baker | Bread loaves, bread rolls, cakes, pies, prepared mixes |
