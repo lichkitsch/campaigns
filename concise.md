@@ -53,3 +53,5 @@ Conditions are applied to a target when the attacker rolls a natural 20.
 |:---:|:---:|:---:|:---:|:---:|
 | Physical | Candles, alcohol, ash, heat, spices, flames, blades, meat | Dirt, sand, stone, gems, crystals, oil, hammers, bones | Water, rain, ice, snow, cups, ink, whips, blood | Feathers, plants, seeds, paper, scrolls, wands, staves, arrows, breath, wind |
 | Abstract | Dance, sex, movement | Burying, grinding, location | Submerging, drinking, time | Breathing, eating, speaking |
+
+Spells require one physical component, one abstract component, and concentration (`WIS > 10`) to cast.
