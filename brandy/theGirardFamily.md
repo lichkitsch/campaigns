@@ -13,7 +13,7 @@ Holstead sneaks down after a little while, curiosity getting the better of him. 
 - A toybox at the end of the bed flows out onto the floor, and Holstead rushes towards it with glee.
 
 ## The Lift Chamber
-- The podium wall has two solid doors thag lead to an inner chamber which houses the lift that leads down into the tunnels.
+- The podium wall has two side doors that lead to an inner chamber.
 - A single wooden lift hangs in the middle of the room from an intricate system of pulleys and wires.
 - The lift can hold the three adventurers, but only just, and creaks and sways quite a bit when lowered down the shaft towards the tunnels.
 
@@ -21,3 +21,5 @@ Holstead sneaks down after a little while, curiosity getting the better of him. 
 - Dank, tight tunnels dug beneath the beach leading to the lower levels beneath Castle Cromwell.
 - Creeping ghouls, black slimes, wraiths, and at least one wandering Banshee.
 - Navigating the tunnels comes with the cost of dangerous creatures looking to stop you and bigger creatures looking to eat you.
+
+Tunnel matches the bridge up above; leaky stone ceiling, watchtowers with rusted iron gates set roughly beneath the pylons, undead creatures wandering in the darkness. Light is useful for driving the smaller creatures off, but the beam causes larger beasts to become aggressive.  
