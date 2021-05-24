@@ -46,11 +46,11 @@ A spaceship sits in orbit, blocking out a small portion of the night sky. The sh
 | 16 | Battle |  |
 
 ## The Old World
-Deep beneath Castle Cromwell, the undead patriarch of the Cromwell line (and king during the Cromwell-Wilding war) Sir Holstead Cromwell is plotting to rise in power once again. Much of his family has been raised from death as vampires, wights, and other foul creatures or have possessed new bodies with which to make war on the surface world, and Holstead is biding his time and waiting for the right moment to sweep over the land.
+Deep beneath Castle Cromwell, the undead patriarch of the Cromwell line (and king during the Cromwell-Wilding war) Sir Lawrence Cromwell is plotting to rise in power once again. Much of his family has been raised from death as vampires, wights, and other foul creatures or have possessed new bodies with which to make war on the surface world, and Lawrence is biding his time and waiting for the right moment to sweep over the land.
 
 |  | Quest | Prompt |
 |:---:|:---:|:--- |
-| 3 | Catalyst | While clearing out the space for North, Diane will uncover evidence that the Cromwell graves are empty; their bodies are all missing and many (if not all) of them are vampires (or otherwise undead). There is also evidence to suggest that Holstead had been a vampire from the beginning. |
+| 3 | Catalyst | While clearing out the space for North, Diane will uncover evidence that the Cromwell graves are empty; their bodies are all missing and many (if not all) of them are vampires (or otherwise undead). There is also evidence to suggest that Lawrence had been a vampire from the beginning. |
 | 4 | Shadow |  |
 | 8 | Twist |  |
 | 12 | Darkness |  |
