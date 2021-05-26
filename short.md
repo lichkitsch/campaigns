@@ -32,7 +32,7 @@ Characters learn abilities that allow them to add a bonus die to specific action
 There are six categories of items that characters carry that they can use to help improve their odds when overcoming obstacles during their adventure.
 
 | Category | Usage |
-|:---:|:--- |
+| ---:|:--- |
 | Food | Roll specific damage dice to restore HP when consumed. |
 | Traps | Roll specific damage dice to reduce HP when used against a target. |
 | Tools | Add a fixed bonus to specific actions when used for its purpose. |
