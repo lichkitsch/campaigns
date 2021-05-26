@@ -21,14 +21,32 @@ If the obstacle has heart points (HP) and the outcome is positive, the player ro
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
-## Abilities and Items
-Abilities and items add bonus points or extra dice to specific action or damage rolls. Abilities can be combat tactics, professional skills, or even magical spells. Some items, such as food or traps, heal/deal damage using their own damage dice rather than the character's level-specific damage dice. Abilities and items are ranked on a scale by their effectiveness and value. Characters start with one `F`-rank ability and either learn a new ability or increase the rank of an exisiting ability when they gain a level. They also start with three `F`-rank items that will help them at the start of their journey. The narrator also rewards the player with useful items, treasure (which can be used to purchase useful items), and temporary abilities during their adventure based on the events of the narrative.
+## Abilities
+Characters learn abilities that allow them to add a bonus die to specific action or damage rolls. Abilities can be combat tactics, professional skills, or even magical spells. Characters start with one `F`-rank ability and either learn a new ability or increase the rank of an exisiting ability when they gain a level:
 
-| Rank | Ability | Item Bonus | Item Damage | Value |
-|:---:|:---:|:---:|:---:|:---:|
-| `F` | Roll+`1d4` | Roll+1 | `1d4 HP` | `4d4` |
-| `D` | Roll+`1d6` | Roll+2 | `2d6 HP` | `6d6` |
-| `C` | Roll+`1d8` | Roll+3 | `3d8 HP` | `8d8` |
-| `B` | Roll+`1d10` | Roll+4 | `4d10 HP` | `10d10` |
-| `A` | Roll+`1d12` | Roll+5 | `5d12 HP` | `12d12` |
-| `S` | Roll+`1d20` | Roll+6 | `6d20 HP` | `20d20` |
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll+`1d4` | Roll+`1d6` | Roll+`1d8` | Roll+`1d10` | Roll+`1d12` | Roll+`1d20` |
+
+## Items
+There are _ categories of items that characters carry that they can use to help improve their odds when overcoming obstacles during their adventure.
+
+| Category | Usage |
+|:---:|:--- |
+| Food | Roll specific damage dice to restore HP when consumed. |
+| Traps | Roll specific damage dice to reduce HP when used against a target. |
+| Tools | Add a fixed bonus to specific actions when used for its purpose. |
+| Weapons | Add a fixed amount of a specific damage type to damage rolls when used. |
+| Potions/Scrolls | Heal HP (like food), deal damage (like traps), or add a temporary ability when used. |
+| Treasure | Carries value and can be used to trade for other items, information, transportation, etc. |
+
+Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback.
+
+| Rank | Item Bonus | Item Damage | Value |
+|:---:|:---:|:---:|:---:|
+| `F` | Roll+1 | `1d4 HP` | `4d4` |
+| `D` | Roll+2 | `2d6 HP` | `6d6` |
+| `C` | Roll+3 | `3d8 HP` | `8d8` |
+| `B` | Roll+4 | `4d10 HP` | `10d10` |
+| `A` | Roll+5 | `5d12 HP` | `12d12` |
+| `S` | Roll+6 | `6d20 HP` | `20d20` |
