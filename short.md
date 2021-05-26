@@ -29,7 +29,7 @@ Characters learn abilities that allow them to add a bonus die to specific action
 | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
 ## Items
-There are six categories of items that characters carry that they can use to help improve their odds when overcoming obstacles during their adventure.
+There are six categories of items characters can use to help improve their odds when overcoming obstacles during their adventure.
 
 | Category | Usage |
 | ---:|:--- |
