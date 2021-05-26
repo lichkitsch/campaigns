@@ -35,18 +35,18 @@ There are six categories of items characters can use to help improve their odds 
 | ---:|:--- |
 | Food | Roll specific damage dice to restore HP when consumed. |
 | Traps | Roll specific damage dice to reduce HP when used against a target. |
-| Tools | Add a fixed bonus to specific actions when used for its purpose. |
+| Tools | Add a fixed bonus/penalty to specific actions when used for its purpose. |
 | Weapons | Add a fixed amount of a specific damage type to damage rolls when used. |
 | Potions/Scrolls | Heal HP (like food), deal damage (like traps), or add a temporary ability when used. |
 | Treasure | Carries value and can be used to trade for other items, information, transportation, etc. |
 
-Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback.
+Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback. Tools can include rope and flashlights, but also magic jewelry or other armor that protects against a few points of a specific damage type.
 
 | Rank | Item Bonus | Item Damage | Value |
 |:---:|:---:|:---:|:---:|
-| `F` | Roll+1 | `1d4 HP` | `4d4` |
-| `D` | Roll+2 | `2d6 HP` | `6d6` |
-| `C` | Roll+3 | `3d8 HP` | `8d8` |
-| `B` | Roll+4 | `4d10 HP` | `10d10` |
-| `A` | Roll+5 | `5d12 HP` | `12d12` |
-| `S` | Roll+6 | `6d20 HP` | `20d20` |
+| `F` | +/- 1 | `1d4 HP` | `4d4` |
+| `D` | +/- 2 | `2d6 HP` | `6d6` |
+| `C` | +/- 3 | `3d8 HP` | `8d8` |
+| `B` | +/- 4 | `4d10 HP` | `10d10` |
+| `A` | +/- 5 | `5d12 HP` | `12d12` |
+| `S` | +/- 6 | `6d20 HP` | `20d20` |
