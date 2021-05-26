@@ -21,11 +21,11 @@ If the obstacle has heart points (HP) and the outcome is positive, the player ma
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 
-| Rank | Item Bonus | Ability | Item Damage | Value |
+| Rank | Ability | Item Bonus | Item Damage | Value |
 |:---:|:---:|:---:|:---:|:---:|
-| `F` | Roll+1 | Roll+`1d4` | `1d4 HP` | `4d4` |
-| `D` | Roll+2 | Roll+`1d6` | `2d6 HP` | `6d6` |
-| `C` | Roll+3 | Roll+`1d8` | `3d8 HP` | `8d8` |
-| `B` | Roll+4 | Roll+`1d10` | `4d10 HP` | `10d10` |
-| `A` | Roll+5 | Roll+`1d12` | `5d12 HP` | `12d12` |
-| `S` | Roll+6 | Roll+`1d20` | `6d20 HP` | `20d20` |
+| `F` | Roll+`1d4` | Roll+1 | `1d4 HP` | `4d4` |
+| `D` | Roll+`1d6` | Roll+2 | `2d6 HP` | `6d6` |
+| `C` | Roll+`1d8` | Roll+3 | `3d8 HP` | `8d8` |
+| `B` | Roll+`1d10` | Roll+4 | `4d10 HP` | `10d10` |
+| `A` | Roll+`1d12` | Roll+5 | `5d12 HP` | `12d12` |
+| `S` | Roll+`1d20` | Roll+6 | `6d20 HP` | `20d20` |
