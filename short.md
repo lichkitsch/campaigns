@@ -40,7 +40,9 @@ There are six categories of items characters can use to help improve their odds 
 | Potions/Scrolls | Heal HP (like food), deal damage (like traps), or add a temporary ability when used. |
 | Treasure | Carries value and can be used to trade for other items, information, transportation, etc. |
 
-Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback. Tools include things like rope and flashlights, but also magic jewelry or other armor that protects against a few points of a specific damage type.
+Tools include things like rope and flashlights, but also magic jewelry or other armor that protects against a few points of a specific damage type.
+
+Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback.
 
 | Rank | Item Bonus | Item Damage | Value |
 |:---:|:---:|:---:|:---:|
