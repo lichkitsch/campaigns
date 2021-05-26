@@ -24,7 +24,7 @@ Characters start with 10 max HP at level 1. The player may restore lost HP using
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Items & Abilities
-Creatures can use learned abilities and collected items to improve ***specific*** action or damage rolls. This requires some creativity on the narrator's part when designing items and abilities: their use must be for a specific action or damage roll. For example, a `D`-rank grappling hook might add +2 to strength checks when used to scale a wall, but does not add +2 to any other action. Items are ranked by their effectiveness. Some items are spent when used and others break if used on an action roll where the `d20` lands on a natural 1. Characters start with three `F`-rank items and one `F`‐rank ability. Characters gain a new ability (or upgrade an existing one) when they level up. 
+Creatures can use abilities and collected items to improve ***specific*** action or damage rolls. This requires some creativity on the narrator's part when designing items and abilities: their use must be for a specific action or damage roll. For example, a `D`-rank grappling hook might add +2 to strength checks when used to scale a wall, but does not add +2 to any other action. Items are ranked by their effectiveness. Some items are spent when used and others break if used on an action roll where the `d20` lands on a natural 1. Characters start with three `F`-rank items and one `F`‐rank ability. Characters gain a new ability (or upgrade an existing one) when they level up. 
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
