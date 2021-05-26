@@ -1,7 +1,7 @@
 # *DNDuet* Core
 *DNDuet* (Dramatic Narrative Duet) is a framework for building tabletop RPGs for one narrator and one player. The narrator describes the world and events of the story while the player controls the protagonist.
 
-When the player faces an obstacle they describe their intention and action.
+
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
