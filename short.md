@@ -12,14 +12,15 @@ When a player's action involves a chance of failure and risk, the narrator will 
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
-Characters gain +1 to one trait score when they gain a level.
+Characters gain +1 to one trait score (no more than +5) when they gain a level.
 
-If the obstacle has heart points (HP) and the outcome is positive, the player may roll damage dice to reduce the obstacle's HP. Obstacles with zero HP are no longer a threat. On a negative outcome the narrator might roll damage dice to reduce the character's HP. Characters with zero HP suffer a major narrative setback such as permanent injuries, lost or broken equipment, or even death (if allowed by the player). Characters start with 10 max HP at level 1 and increase their limit by rolling their new damage dice when they gain a level:
+If the obstacle has heart points (HP) and the outcome is positive, the player rolls damage dice to reduce the obstacle's HP. Obstacles with zero HP are no longer a threat. On a negative outcome the narrator rolls damage dice to reduce the character's HP. Characters with zero HP suffer a major narrative setback such as permanent injuries, lost or broken equipment, or even death (if allowed by the player). Characters start with 10 max HP at level 1 and increase their limit by rolling their new damage dice when they gain a level:
 
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
+Abilities and items add bonus points or extra dice to specific action or damage rolls. Abilities can be combat tactics, professional skills, or even magical spells. Some items, such as food or traps, heal/deal damage using their own damage dice rather than the character's level-specific damage dice. Abilities and items are ranked on a scale by their effectiveness and value. Characters start with one `F`-rank ability and either learn a new ability or increase the rank of an exisiting ability when they gain a level. They also start with three `F`-rank items that will help them at the start of their journey. The narrator also rewards the player with useful items, treasure (which can be used to purchase useful items), and temporary abilities during their adventure based on the events of the narrative.
 
 | Rank | Ability | Item Bonus | Item Damage | Value |
 |:---:|:---:|:---:|:---:|:---:|
