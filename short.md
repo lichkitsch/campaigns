@@ -52,3 +52,5 @@ Follow the rankings below when designing items for your game. If an item adds a 
 | `B` | +/- 4 | `4d10 HP` | `10d10` |
 | `A` | +/- 5 | `5d12 HP` | `12d12` |
 | `S` | +/- 6 | `6d20 HP` | `20d20` |
+
+The narrator will reward the player with items and temporary abilities as the result of narrative events and, when they reach significant milestones, allow the player to gain a level.
