@@ -26,10 +26,10 @@ Characters learn abilities that allow them to add a bonus die to specific action
 
 | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll+`1d4` | Roll+`1d6` | Roll+`1d8` | Roll+`1d10` | Roll+`1d12` | Roll+`1d20` |
+| `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
 ## Items
-There are _ categories of items that characters carry that they can use to help improve their odds when overcoming obstacles during their adventure.
+There are six categories of items that characters carry that they can use to help improve their odds when overcoming obstacles during their adventure.
 
 | Category | Usage |
 |:---:|:--- |
