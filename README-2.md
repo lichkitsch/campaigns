@@ -28,8 +28,9 @@ Creatures can use learned abilities and collected items to improve specific acti
 
 |  | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Item** | +1 | +2 | +3 | +4 | +5 | +6 |
-| **Ability** | `d4` | `d6` | `d8` | `d10` | `d12` | `d20` |
+| **Item** | Roll+1 | Roll+2 | Roll+3 | Roll+4 | Roll+5 | Roll+6 |
+| **Ability** | Roll+`1d4` | Roll+`1d6` | Roll+`1d8` | Roll+`1d10` | Roll+`1d12` | Roll+`1d20` |
+| **Damage** | `1d4` | `2d6` | `3d8` | `4d10` | `5d12` | `6d20` |
+| **Value** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
-### Value and Consumables
-Items with limited uses are called "consumables" and include things like potions, scrolls, food, and traps. These items are destroyed on use and can come bundled or be found/sold individually. For item value, roll the same amount of dice as the sides of the die listed under **Ability**, which means `F`-rank treasures are worth `4d4` monies. Potions and scrolls give the holder a portable magic spell which can either add a temporary ability or provide specific damage dice (or healing) based on their rank. For a consumable item's damage dice, roll **Item** amount of **Ability** dice (`1d4`, `2d6`, `3d8`, etc.). This also applies to food (which heals) and traps or other consumable damaging items like runes, mines, bombs, etc.
+Items with limited uses are called **consumables** and include things like potions, scrolls, food, and traps. These items are destroyed on use and can come bundled or be found/sold individually. Some consumables, like potions or scrolls, might provide the target with a temporary ability while consumables that deal or heal damage independently from the user (potions, scrolls, food, traps, bombs, etc.) provide specific damage dice based on their rank. Some items do not provide a bonus or damage at all, like treasure, which is simply used for trading based on its **value**.
