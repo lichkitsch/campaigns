@@ -41,6 +41,21 @@
 
 ## Non-party Characters
 
-Toby
-Addison
-North
+- Toby
+- Addison
+- Clyde
+- North
+- Buckley
+- Elvross
+- Wisteria
+- Acanthia
+- Mother Maria
+- Holstead
+- Clifton
+- Lawrence
+- Belrayn
+- Taldrel
+- Iosefka
+- Copengarde
+- Razgoshe
+- Lugaldoth
