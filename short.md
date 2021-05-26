@@ -12,6 +12,8 @@ When a player's action involves a chance of failure and risk, the narrator will 
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
+Characters gain +1 to one trait score when they gain a level.
+
 If the obstacle has heart points (HP) and the outcome is positive, the player may roll damage dice to reduce the obstacle's HP. Obstacles with zero HP are no longer a threat. On a negative outcome the narrator might roll damage dice to reduce the character's HP. Characters with zero HP suffer a major narrative setback such as permanent injuries, lost or broken equipment, or even death (if allowed by the player). Characters start with 10 max HP at level 1 and increase their limit by rolling their new damage dice when they gain a level:
 
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
