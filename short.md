@@ -1,8 +1,7 @@
 # *DNDuet* Core
 *DNDuet* (Dramatic Narrative Duet) is a framework for building tabletop RPGs for one narrator and one player. The narrator describes the world and events of the story while the player controls the protagonist.
 
-## Action Rolls
-When a player's action involves a chance of failure and risk, the narrator will ask them to make an **action roll** using `1d20` and adding their most relevant **trait** score to the result. The narrator rolls `1d20` and adds the obstacle's bonus or relevant trait score and looks for the higher result. If the player wins the outcome is positive and if not the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a level 1 character, the player rolls `1d4-2` to set their six starting trait scores:
+When facing an obstacle, the player makes an **action roll** by describing their intention, rolling `1d20`, and adding their most relevant trait to the result. The narrator rolls `1d20`, adds the obstacle's bonus, and compares both results. If the player's result is higher the outcome is positive and if not the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a character, roll `1d4‐2` for the following six traits
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
