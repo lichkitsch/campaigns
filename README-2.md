@@ -48,7 +48,7 @@ As an example, the player might have an iron chain that acts as a `D`-rank tool,
 When the player reaches significant narrative milestones the narrator may allow them to gain a level. This means that the player:
 
 1. Gets new, stronger damage dice
-2. Increases their maximum HP by rolling their new damage dice
+2. Increases their maximum HP by rolling their new damage dice and adding the result to their current max HP
 3. Increases one trait score by one point (max of 5)
 4. Either learns a new `F`-rank ability or increases the rank of an existing one
 
