@@ -42,7 +42,7 @@ Characters collect items during their adventure that they can use to add bonuses
 | **Traps** | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
 | **Treasure** | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
-As an example, the player might have an iron chain that acts as a `D`-rank tool, giving them a +2 to `STR` rolls when using the chain to restrain something. All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing.
+As an example, the player might have an iron chain that acts as a `D`-rank tool, giving them a +2 to `STR` rolls when using the chain to restrain something. All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing. The narrator should set the value of items ahead of time, as there are a lot of dice involved. We recommend using a digital dice roller for this (or simply google the dice you need, such as "roll 12d12").
 
 ## Leveling Up
 When the player reaches significant narrative milestones the narrator may allow them to gain a level. This means that the player:
