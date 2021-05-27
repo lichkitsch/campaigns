@@ -37,8 +37,8 @@ Characters collect items during their adventure that they can use to add bonuses
 
 | Category | Usage | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Weapons** | Damage bonus | `DMG+1` | `DMG+2` | `DMG+3` | `DMG+4` | `DMG+5` | `DMG+6` |
 | **Tools** | Trait bonus | `Roll+1` | `Roll+2` | `Roll+3` | `Roll+4` | `Roll+5` | `Roll+6` |
+| **Weapons** | Damage bonus | `DMG+1` | `DMG+2` | `DMG+3` | `DMG+4` | `DMG+5` | `DMG+6` |
 | **Armor** | Reduce damage | `DMG-1` | `DMG-2` | `DMG-3` | `DMG-4` | `DMG-5` | `DMG-6` |
 | **Food** | Restore HP | `+1d4 HP` | `+2d6 HP` | `+3d8 HP` | `+4d10 HP` | `+5d12 HP` | `+6d20 HP` |
 | **Traps** | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
