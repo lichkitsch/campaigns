@@ -1,6 +1,7 @@
 # DNDuet Core SRD
-This is a system reference document for *DNDuet*, a framework for creating custom tabletop RPGs for one player and one narrator. The narrator controls the world and events of the story while the player controls the protagonist.
+*DNDuet* (Dramatic Narrative Duet) is a framework for creating custom tabletop RPGs for one player and one narrator. The narrator controls the world and events of the story while the player controls the protagonist.
 
+## Action Rolls
 When facing an obstacle, the player makes an **action roll** by describing their intention, rolling `1d20`, and adding their most relevant trait to the result. The narrator rolls `1d20`, adds the obstacle's relevant trait or bonus, and compares both results. If the player's result is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a character, roll `1d4‐2` for the following six traits:
 
 | Trait | Abbr. | Description |
@@ -23,14 +24,22 @@ Characters start with 10 max HP at level 1. The player may restore lost HP using
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
-## Items & Abilities
-Creatures can use abilities and collected items to improve ***specific*** action or damage rolls. This requires some creativity on the narrator's part when designing items and abilities: their use must be for a specific action or damage roll. For example, a `D`-rank grappling hook might add +2 to strength checks when used to scale a wall, but does not add +2 to any other action. Items are ranked by their effectiveness. Some items are spent when used and others break if used on an action roll where the `d20` lands on a natural 1. Characters start with three `F`-rank items and one `F`‐rank ability. Characters gain a new ability (or upgrade an existing one) when they level up. 
+## Abilities
+Combat tactics, professional skills, and magical spells are all placed under a resource called **abilities**. Abilities allow the character to add bonus dice to specific rolls based on the character's training, studies, and gifts. Characters start with one `F`-rank ability at level 1. When leveling up the player can choose to increase the rank of an existing ability or learn a new `F`-rank ability. Abilities can also be temporary, granted through narrative events or items such as magic potions or scrolls.
 
-|  | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Item** | Roll+1 | Roll+2 | Roll+3 | Roll+4 | Roll+5 | Roll+6 |
-| **Ability** | Roll+`1d4` | Roll+`1d6` | Roll+`1d8` | Roll+`1d10` | Roll+`1d12` | Roll+`1d20` |
-| **Damage** | `1d4` | `2d6` | `3d8` | `4d10` | `5d12` | `6d20` |
-| **Value** | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
+### Ability Dice by Rank
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
-Items with limited uses are called **consumables** and include things like potions, scrolls, food, and traps. These items are destroyed on use and can come bundled or be found/sold individually. Some consumables, like potions or scrolls, might provide the target with a temporary ability while consumables that deal or heal damage independently from the user (potions, scrolls, food, traps, bombs, etc.) provide specific damage dice based on their rank. Some items do not provide a bonus or damage at all, like treasure, which is simply used for trading based on its **value**.
+## Items
+Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. There are six item categories that define the effect an item has when used, based on it's rank:
+
+| Category | Usage | F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Tools | Trait bonus | `Roll+1` | `Roll+2` | `Roll+3` | `Roll+4` | `Roll+5` | `Roll+6` |
+| Weapons | Damage bonus | `DMG+1` | `DMG+2` | `DMG+3` | `DMG+4` | `DMG+5` | `DMG+6` |
+| Armor | Reduce damage | `DMG-1` | `DMG-2` | `DMG-3` | `DMG-4` | `DMG-5` | `DMG-6` |
+| Food | Restore HP | `+1d4 HP` | `+2d6 HP` | `+3d8 HP` | `+4d10 HP` | `+5d12 HP` | `+6d20 HP` |
+| Traps | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
+| Treasure | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
