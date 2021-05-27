@@ -44,4 +44,4 @@ Characters collect items during their adventure that they can use to add bonuses
 | **Traps** | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
 | **Treasure** | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
-All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another bonus or deal/heal damage; treasure's only intended use is for bartering, trading, and bribing.
+All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing.
