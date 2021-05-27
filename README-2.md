@@ -13,19 +13,17 @@ When facing an obstacle, the player makes an **action roll** by describing their
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
-When the player gains a level they add 1 point to any one trait (max +5).
-
 ## Heart Points
 Characters, along with most obstacles, have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome against an obstacle with HP, the player rolls their **damage dice** to reduce it. Obstacles with zero HP are no longer a threat. On a negative outcome the player takes damage and if their HP reaches zero they suffer a major narrative setback. Death, however, must be unanimous.
 
-Characters start with 10 max HP at level 1. The player may restore lost HP using their damage dice after 2 hours of rest in a safe place. When the player levels up, they increase their max HP by rolling their new damage dice:
+Characters start with 10 max HP at level 1. The player may restore lost HP using their damage dice after 2 hours of rest in a safe place.
 
 | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
 
 ## Abilities
-Combat tactics, professional skills, and magical spells are all placed under a resource called **abilities**. Abilities allow the character to add bonus dice to specific rolls based on the character's training, studies, and gifts. Characters start with one `F`-rank ability at level 1. When leveling up the player can choose to increase the rank of an existing ability or learn a new `F`-rank ability. Abilities can also be temporary, granted through narrative events or items such as magic potions or scrolls.
+Combat tactics, professional skills, and magical spells are all placed under a resource called **abilities**. Abilities allow the character to add bonus dice to specific rolls based on the character's training, studies, and gifts. Characters start with one `F`-rank ability at level 1. Abilities can also be temporary, granted through narrative events or items such as magic potions or scrolls.
 
 ### Ability Dice by Rank
 | F | D | C | B | A | S |
@@ -45,3 +43,13 @@ Characters collect items during their adventure that they can use to add bonuses
 | **Treasure** | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
 As an example, the player might have an iron chain that acts as a `D`-rank tool, giving them a +2 to `STR` rolls when using the chain to restrain something. All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing.
+
+## Leveling Up
+When the player reaches significant narrative milestones the narrator may allow them to gain a level. This means that the player:
+
+1. Gets new, stronger damage dice
+2. Increases their maximum HP by rolling their new damage dice
+3. Increases one trait score by one point (max of 5)
+4. Either learns a new `F`-rank ability or increases the rank of an existing one
+
+*DNDuet* is built to handle character progression from level 1 to level 12. You can create one-shots by locking the characters into a set level and keeping the challenges within one level of them or you can start them off at the bottom and play through a longer campaign. How you use these rules is up to you!
