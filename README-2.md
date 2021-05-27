@@ -33,7 +33,7 @@ Combat tactics, professional skills, and magical spells are all placed under a r
 | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
 ## Items
-Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. Characters start with three `F`-rank items. There are six item categories that define the effect an item has when used, based on it's rank:
+Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. Characters start with three `F`-rank items. There are six item categories that define the actual effect an item has when used, based on it's rank:
 
 | Category | Usage | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
