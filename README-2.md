@@ -33,7 +33,7 @@ Combat tactics, professional skills, and magical spells are all placed under a r
 | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
 ## Items
-Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. There are six item categories that define the effect an item has when used, based on it's rank:
+Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. Characters start with three `F`-rank items. There are six item categories that define the effect an item has when used, based on it's rank:
 
 | Category | Usage | F | D | C | B | A | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,4 +44,4 @@ Characters collect items during their adventure that they can use to add bonuses
 | **Traps** | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
 | **Treasure** | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
 
-All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing.
+As an example, the player might have an iron chain that acts as a `D`-rank tool, giving them a +2 to `STR` rolls when using the chain to restrain something. All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing.
