@@ -3,8 +3,8 @@
 ## The Composite God
 The original 16 dragons have disappeared, their domains suffering in their absence.
 
-| Name | Domain | Color | Species | Location |
-|:---:|:---:|:---:|:---:|:--- |
+| Name | Domain | Color | Species | Location | Subspecies |
+|:---:|:---:|:---:|:---:|:--- |:---:|
 | Xolreit | Destruction | Red | Dragon | The Cinder Barrens | Ashen Elves |
 | Larlise | Conjuration | Orange | Lindworm | Skulker's Cage | Gnolls |
 | Ansheri | Abjuration | Yellow | Wyrm | The Unseen | Elves |
