@@ -5,22 +5,22 @@ The original 16 dragons have disappeared, their domains suffering in their absen
 
 | Name | Domain | Color | Species | Location |
 |:---:|:---:|:---:|:---:|:--- |
-| Xolreit | Destruction | Red | Dragon | The Cinder Barrens |
-| Larlise | Conjuration | Orange | Lindworm | Skulker's Cage |
-| Ansheri | Abjuration | Yellow | Wyrm | The Unseen |
-| Belrayn | Restoration | Green | Wyvern | Alderbright, the Wilding Wood |
-| Lodhri | Alteration | Blue | Dragon | The Aegon Labyrinth |
-| Taldrel | Divination | Purple | Amphithere | The Ethereal Reef |
-| Haskin | Necrotic | Black | Wyrm | The Wailing |
-| Xuelian | Cold | White | Drake | The Zhuan Ru Tundra |
-| Vundi | Poison | Mercury | Amphithere | Sonus Isle |
-| Murulth | Crushing | Iron | Drake | The Quaking Deep |
-| Ebizut | Slashing | Steel | Lindworm | Selgrit's Garden |
-| Talizex | Piercing | Brass | Wyvern | Osoterel Ravine |
-| Vilkod | Shock | Copper | Wyvern | The Thunder Plains |
-| Lugaldoth | Fire | Bronze | Dragon | Demon's Cough |
-| Copengarde | Radiant | Silver | Wyrm | The Spire |
-| Razgoshe | Psychic | Gold | Dragon | The Torn Valley |
+| Xolreit | Destruction | Red | Dragon | The Cinder Barrens | Ashen Elves |
+| Larlise | Conjuration | Orange | Lindworm | Skulker's Cage | Gnolls |
+| Ansheri | Abjuration | Yellow | Wyrm | The Unseen | Elves |
+| Belrayn | Restoration | Green | Wyvern | Alderbright, the Wilding Wood | Gnomes |
+| Lodhri | Alteration | Blue | Dragon | The Aegon Labyrinth | Halflings |
+| Taldrel | Divination | Purple | Amphithere | The Ethereal Reef | Scalefolk |
+| Haskin | Necrotic | Black | Wyrm | The Wailing | Vampires |
+| Xuelian | Cold | White | Drake | The Zhuan Ru Tundra | Snow Elves |
+| Vundi | Poison | Mercury | Amphithere | Sonus Isle | Drow |
+| Murulth | Crushing | Iron | Drake | The Quaking Deep | Dwarves |
+| Ebizut | Slashing | Steel | Lindworm | Selgrit's Garden | Orcs |
+| Talizex | Piercing | Brass | Wyvern | Osoterel Ravine | Birdfolk |
+| Vilkod | Shock | Copper | Wyvern | The Thunder Plains | Goliaths |
+| Lugaldoth | Fire | Bronze | Dragon | Demon's Cough | Catfolk |
+| Copengarde | Radiant | Silver | Wyrm | The Spire | Prismatics |
+| Razgoshe | Psychic | Gold | Dragon | The Torn Valley | Dreamwalkers |
 
 Copengarde became a dracolich with the help of the immortal High Queen Seren Cromwell. They plan to amass power by hunting down and absorbing the other dragons, using Seren's flesh-shaping magic to combine their forms into a groteqsue, unstoppable body for Copengarde's soul to inhabit. Sensing the danger, Taldrel's daughter (a dragonborn named Iosefka), went on a journey to warn the dragons one by one of her mother's visions. The dragons she'd met with went dormant, protecting themselves from the coming hunt.
 
