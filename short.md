@@ -28,29 +28,36 @@ Characters learn abilities that allow them to add a bonus die to specific action
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
-## Items
-There are six categories of items characters can use to help improve their odds when overcoming obstacles during their adventure.
+## Equipment
+Characters will collect tools, weapons, and armor that help them on their adventure. Each piece of equipment adds a fixed bonus to a specific roll when used for its intended purpose:
 
 | Category | Usage |
 | ---:|:--- |
-| Tools | Add a fixed bonus/penalty to an action when used for its purpose. |
+| Tools | Add a fixed bonus to an action when used for its purpose. |
 | Weapons | Add a fixed amount of a specific damage type to damage rolls when used. |
 | Armor | Reduce damage taken by a specific damage type by a fixed amount. |
+
+The bonus or points of damage provided by the tool, weapon, or armor is based on it's rank:
+
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+Equipment can break as the result of narrative events or a major narrative setback (possibly brought on by the player's HP reaching zero). Broken equipment cannot be used for it's beneficial properties until it has been repaired or restored by someone capable.
+
+## Items
+Along with equipment, characters can collect and use various items to deal damage, heal HP, or just to hold value. These items are spent when used and can usually be bought or found as multiples.
+
+| Category | Usage |
+| ---:|:--- |
 | Food | Roll dice to restore HP when consumed. |
 | Traps | Roll dice to reduce a target's HP. |
 | Treasure | Carries value and can be used to trade for other items, information, transportation, etc. |
 
-Tools include things like rope and flashlights, but also clothing/armor that protects against a few points of a specific damage type.
+Like equipment, the item's rank dictates its damage dice:
 
-Follow the rankings below when designing items for your game. If an item adds a temporary ability, like a potion, use the scale from the previous section. Some items are consumable and are destroyed when used, such as food or potions, and may come packaged in bundles. Other items can be broken, stolen, or lost as a result of a major narrative setback.
-
-| Rank | Item Bonus | Item Damage | Value |
-|:---:|:---:|:---:|:---:|
-| `F` | +/- 1 | `1d4 HP` | `4d4` |
-| `D` | +/- 2 | `2d6 HP` | `6d6` |
-| `C` | +/- 3 | `3d8 HP` | `8d8` |
-| `B` | +/- 4 | `4d10 HP` | `10d10` |
-| `A` | +/- 5 | `5d12 HP` | `12d12` |
-| `S` | +/- 6 | `6d20 HP` | `20d20` |
+| F | D | C | B | A | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
 
 The narrator will reward the player with items and temporary abilities as the result of narrative events and, when they reach significant milestones, allow the player to gain a level.
