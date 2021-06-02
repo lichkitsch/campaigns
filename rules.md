@@ -31,7 +31,7 @@ Characters can learn and use abilities to gain a bonus die when rolling specific
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
 
-Abilities can come from studying, divine gifts, natural talents, physical features, and more. 
+Abilities can come from studying, divine gifts, natural talents, physical features, and more. They can also be temporary, gained by something limited like a potion or cybernetic implant. Let your setting flavor your designs.
 
 ## Equipment
 Characters can collect a variety of equipment, including tools, weapons, and armor, which add a fixed bonus to specific rolls when used for their intended purpose. Tools add a bonus to action rolls, weapons add a fixed amount of a specific amage type to damage rolls, and armor reduces the damage taken from a specific damage type. Equipment can break as the result of a major narrative setback and cannot be used again until it is repaired. Equipment can be repaired or upgraded by someone skilled and capable, usually for a price.
