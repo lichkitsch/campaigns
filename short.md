@@ -33,11 +33,11 @@ There are six categories of items characters can use to help improve their odds 
 
 | Category | Usage |
 | ---:|:--- |
-| Food | Roll specific damage dice to restore HP when consumed. |
-| Traps | Roll specific damage dice to reduce HP when used against a target. |
-| Tools | Add a fixed bonus/penalty to specific actions when used for its purpose. |
+| Tools | Add a fixed bonus/penalty to an action when used for its purpose. |
 | Weapons | Add a fixed amount of a specific damage type to damage rolls when used. |
-| Potions/Scrolls | Heal HP (like food), deal damage (like traps), or add a temporary ability when used. |
+| Armor | Reduce damage taken by a specific damage type by a fixed amount. |
+| Food | Roll dice to restore HP when consumed. |
+| Traps | Roll dice to reduce a target's HP. |
 | Treasure | Carries value and can be used to trade for other items, information, transportation, etc. |
 
 Tools include things like rope and flashlights, but also clothing/armor that protects against a few points of a specific damage type.
