@@ -1,6 +1,13 @@
 ## Traits
 
-> INSERT TRAIT TABLE
+| Trait | Abbr. | Description |
+| ---:|:---:|:--- |
+| Strength | `STR` | Athletics, muscle, melee |
+| Dexterity | `DEX` | Acrobatics, stealth, finesse |
+| Constitution | `CON` | Durability, healthiness |
+| Intelligence | `INT` | Memory, logic, investigation |
+| Wisdom | `WIS` | Intuition, perception, aim |
+| Charisma | `CHA` | Performance, persuasion, deceit |
 
 ## Abilities
 
