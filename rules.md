@@ -51,7 +51,7 @@ Characters can collect a variety of equipment, including tools, weapons, and arm
 ## Items
 Some objects that the character will carry can be spent to heal or deal damage based on its rank. These items include things like food, traps, potions, and more. Once these consumable items are used they disappear and cannot be restored.
 
-| Rank | Damage Dice |
+| Rank | Damage |
 |:---:|:---:|
 | **F** | `1d4` |
 | **D** | `2d6` |
@@ -63,7 +63,7 @@ Some objects that the character will carry can be spent to heal or deal damage b
 ## Treasure and Money
 Not all objects provide a bonus or damage dice for the character to use; some things are just valuable. Treasure and money carry value and can be used for bribes, information, and transportation as well as purchasing equipment and items, or even paying a trainer (to gain a new ability). Abilities, equipment, and items carry value based on their rank and can be purchased from vendors or merchants with either currency or other items of equal value. You might also find valuables during your adventure, hidden away in chests or plundered from defeated enemies. Roll on the table below for value based on rank:
 
-| Rank | Damage Dice |
+| Rank | Value |
 |:---:|:---:|
 | **F** | `4d4` |
 | **D** | `6d6` |
