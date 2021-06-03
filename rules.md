@@ -27,9 +27,14 @@ Characters (and some obstacles) have a resource called **heart points (HP)** tha
 ## Abilities
 Characters can learn and use abilities to gain a bonus die when rolling specific action or deal some extra damage of a specific type. Characters start with one `F`-rank ability and can either learn a new ability or increase the rank of an existing ability when they level up.
 
-| F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
+| Rank | Bonus |
+|:---:|:---:|
+| **F** | `+1d4` |
+| **D** | `+1d6` |
+| **C** | `+1d8` |
+| **B** | `+1d10` |
+| **A** | `+1d12` |
+| **S** | `+1d20` |
 
 Abilities can come from studying, divine gifts, natural talents, physical features, and more. They can also be temporary, gained by something limited like a potion or cybernetic implant. Let your setting flavor your designs.
 
