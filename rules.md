@@ -61,7 +61,7 @@ Some objects that the character will carry can be spent to heal or deal damage b
 | **S** | `6d20` |
 
 ## Treasure and Money
-Not all objects provide a bonus or damage dice for the character to use; some things are just valuable. Treasure and money carry value and can be used for bribes, information, and transportation as well as purchasing equipment and items, or even paying a trainer (to gain a new ability). Abilities, equipment, and items carry value based on their rank and can be purchased from vendors or merchants with either currency or other items of equal value. You might also find valuables during your adventure, hidden away in chests or plundered from defeated enemies. Roll on the table below for value based on rank:
+Not all objects provide a bonus or damage dice for the character to use; some things are just valuable. Treasure and money carry value and can be used for bribes, information, and transportation as well as purchasing equipment and items, or even paying a trainer (to gain a new ability). Abilities, equipment, and items carry value based on their rank and can be purchased from vendors or merchants with either currency or other items of equal value. Players might also find valuables during their adventure, hidden away in chests or plundered from defeated enemies.
 
 | Rank | Value |
 |:---:|:---:|
