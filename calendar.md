@@ -1,6 +1,6 @@
 Ausica has 12 months of five 6-day weeks making for a 360-day long year.
 
-| Season | Month | Event | Earth Equivalent |
+| Season | Month | Event | Earth Month |
 |:---:|:---:|:---:|:---:|
 | Air | Bloomrise | Spring Equinox | March |
 | Air | Dawnrain |  | April |
