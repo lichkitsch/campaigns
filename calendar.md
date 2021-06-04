@@ -17,9 +17,9 @@ Ausica's calendar has 12 months made up from five 6-day long weeks, with a trans
 
 | Weekday | Symbolism |
 |:---:|:---:|
-| Soday  | Sowing plants |
-| Groday | Growing plants |
-| Pikday | Harvesting |
-| Cooday | Cooking |
-| Feaday | Eating |
+| Soday  | Sowing crops |
+| Groday | Growing crops |
+| Pikday | Harvesting crops |
+| Cooday | Cooking food |
+| Feaday | Eating food |
 | Resday | Sleeping |
