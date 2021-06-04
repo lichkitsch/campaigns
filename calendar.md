@@ -1,5 +1,5 @@
 | Season | Month | Event |
-|:---:|:--- |:--- |
+|:---:|:---:|:--- |
 | Air | Bloomrise | Spring Equinox |
 | Air | Dawnrain |  |
 | Air | Stormsleep |  |
