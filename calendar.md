@@ -1,4 +1,4 @@
-Ausica has 12 months of five 6-day weeks making for a 360-day long year.
+Ausica's calendar has 12 months made up from five 6-day long weeks, with a transition day between each season, making for a 364-day long year.
 
 | Season | Month | Event | Earth Month |
 |:---:|:---:|:---:|:---:|
@@ -14,3 +14,12 @@ Ausica has 12 months of five 6-day weeks making for a 360-day long year.
 | Water | Frostfall | Winter Solstice | December |
 | Water | Snowsleep | Snow Festival | January |
 | Water | Icemelt |  | February |
+
+| Weekday |
+|:---:|
+| Sow-day |
+| Grow-day |
+| Pick-day |
+| Cook-day |
+| Feast-day |
+| Rest-day |
