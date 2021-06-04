@@ -14,7 +14,7 @@ When the player is facing an obstacle, they make an **action roll** by describin
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
 ## Heart Points
-Characters (and some obstacles) have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome the player can roll their **damage dice** to reduce the obstacle's HP and on a negative outcome the narrator rolls the obstacle's damage dice to reduce the player's HP. When an obstacle reaches zero HP it is no longer a threat. If the player reaches zero HP they suffer a major narrative setback. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and increases their max HP by the result. They can also re-roll as many dice as their `CON` score.
+Characters (and some obstacles) have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome the player can roll their **damage dice** to reduce the obstacle's HP and on a negative outcome the narrator rolls the obstacle's damage dice to reduce the player's HP. When an obstacle reaches zero HP it is no longer a threat. If the player reaches zero HP they suffer a major narrative setback. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and increases their max HP by the result, re-rolling as many dice as their `CON` score.
 
 | Level | Damage Dice |
 |:---:|:---:|
