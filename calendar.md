@@ -15,11 +15,11 @@ Ausica's calendar has 12 months made up from five 6-day long weeks, with a trans
 | Water | Snowsleep | Snow Festival | January |
 | Water | Icemelt |  | February |
 
-| Weekday |
-|:---:|
-| Sow-day |
-| Grow-day |
-| Pick-day |
-| Cook-day |
-| Feast-day |
-| Rest-day |
+| Weekday | Symbolism |
+|:---:|:---:|
+| Soday  | Sowing plants |
+| Groday | Growing plants |
+| Pikday | Harvesting |
+| Cooday | Cooking |
+| Feaday | Eating |
+| Resday | Sleeping |
