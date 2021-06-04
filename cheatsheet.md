@@ -110,7 +110,7 @@
 
 ## Narrator Notes
 
-- NPCs (non-player characters), hostile or otherwise, can have a level, HP, abilities, equipment, items, and/or treasure.
+- NPCs (non-player characters), hostile or otherwise, have a level, HP, abilities, equipment, items, and/or treasure.
 - Environmental obstacles add a tool bonus to the action roll and deal damage as a trap.
 - Roll the same rank of treasure dice when designing equipment and items to see how much they might cost.
 - Equipment and items can carry special, sometimes hidden effects such as abilities, resistances, immunities, or even vulnerabilities.
