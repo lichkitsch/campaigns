@@ -2,7 +2,7 @@
 _DNDuet_ is a framework for building and playing custom tabletop RPGs with one player and one narrator. The narrator describes the world and events and the player controls the protagonist.
 
 ## Action Rolls
-When the player is facing an obstacle, they make an **action roll** by describing their intended outcome and action, rolling `1d20`, and adding their most relevant **trait** to the result:
+When the player is facing an obstacle, they make an **action roll** by describing their intended outcome and action, rolling `1d20`, and adding their most relevant **trait** to the result. The narrator makes an action roll for the obstacle and compares the two results. If the player's roll is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a cost. The narrator describes the outcome of the action roll and play continues. When creating a character, the player rolls `1d4-2` for each trait and can increase one trait by one point when they level up (no more than 5 points each).
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
@@ -12,8 +12,6 @@ When the player is facing an obstacle, they make an **action roll** by describin
 | Intelligence | `INT` | Memory, logic, investigation |
 | Wisdom | `WIS` | Intuition, perception, aim |
 | Charisma | `CHA` | Performance, persuasion, deceit |
-
-The narrator makes an action roll for the obstacle and compares the two results. If the player's roll is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a cost. The narrator describes the outcome of the action roll and play continues. When creating a character, the player rolls `1d4-2` for each trait and can increase one trait by one point when they level up (no more than 5 points each).
 
 ## Heart Points
 Characters (and some obstacles) have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome the player can roll their **damage dice** to reduce the obstacle's HP and on a negative outcome the narrator rolls the obstacle's damage dice to reduce the player's HP. When an obstacle reaches zero HP it is no longer a threat. If the player reaches zero HP they suffer a major narrative setback. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and increases their max HP by the result. They can also re-roll as many dice as their `CON` score.
