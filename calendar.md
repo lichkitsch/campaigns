@@ -23,3 +23,10 @@ Ausica's calendar has 12 months made up from five 6-day long weeks, with a trans
 | Cooday | Cooking food |
 | Feaday | Eating food |
 | Resday | Sleeping |
+
+| Holidays |
+|:---:|
+| Day of Wind |
+| Day of Flame |
+| Day of Dust |
+| Day of Frost |
