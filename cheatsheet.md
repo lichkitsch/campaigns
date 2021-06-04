@@ -1,3 +1,5 @@
+# *DNDuet* Cheatsheet
+
 <table>
   <thead>
     <tr>
@@ -105,6 +107,8 @@
     </tr>
   </tbody>
 </table>
+
+## Narrator Notes
 
 - NPCs (non-player characters), hostile or otherwise, can have a level, HP, abilities, equipment, items, and/or treasure.
 - Environmental obstacles add a tool bonus to the action roll and deal damage as a trap.
