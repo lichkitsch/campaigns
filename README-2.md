@@ -1,8 +1,8 @@
-# DNDuet Core SRD
+# *DNDuet* Core SRD
 *DNDuet* (Dramatic Narrative Duet) is a framework for creating custom tabletop RPGs for one player and one narrator. The narrator controls the world and events of the story while the player controls the protagonist.
 
 ## Action Rolls
-When facing an obstacle, the player makes an **action roll** by describing their intention, rolling `1d20`, and adding their most relevant trait to the result. The narrator rolls `1d20`, adds the obstacle's relevant trait or bonus, and compares both results. If the player's result is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a character, roll `1d4‐2` for the following six traits:
+When the player faces an obstacle they make an **action roll** by describing their intention, rolling `1d20`, and adding their most relevant trait to the result. The narrator rolls `1d20`, adds the obstacle's relevant bonus, and compares the results. If the player's result is higher the outcome is positive and if not, the outcome is negative. Ties result in a positive outcome that comes at a cost. When creating a character, roll `1d4‐2` for the following six traits:
 
 | Trait | Abbr. | Description |
 | ---:|:---:|:--- |
@@ -14,35 +14,73 @@ When facing an obstacle, the player makes an **action roll** by describing their
 | Charisma | `CHA` | Performance, persuasion, deceit |
 
 ## Heart Points
-Characters, along with most obstacles, have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome against an obstacle with HP, the player rolls their **damage dice** to reduce it. Obstacles with zero HP are no longer a threat. On a negative outcome the player takes damage and if their HP reaches zero they suffer a major narrative setback. Death, however, must be unanimous.
+Characters, along with most obstacles, have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome against an obstacle the player rolls their **damage dice** to reduce its HP. Obstacles with zero HP are no longer a threat. On a negative outcome the player takes damage from the obstacle and if their HP reaches zero they suffer a major narrative setback. Death, however, must be unanimous.
 
-Characters start with 10 max HP at level 1. The player may restore lost HP using their damage dice after 2 hours of rest in a safe place.
+Characters start with 10 max HP at level 1. The player can roll their damage dice to restore lost HP after 2 hours of rest in a safe place.
 
-| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
+| Level | Damage Dice |
+|:---:|:---:|
+| 1 | `1d4` |
+| 2 | `1d6` |
+| 3 | `1d8` |
+| 4 | `1d10` |
+| 5 | `2d6` |
+| 6 | `2d8` |
+| 7 | `2d10` |
+| 8 | `2d12` |
+| 9 | `3d10` |
+| 10 | `3d12` |
+| 11 | `4d10` |
+| 12 | `4d12` |
 
 ## Abilities
 Combat tactics, professional skills, and magical spells are all placed under a resource called **abilities**. Abilities allow the character to add bonus dice to specific rolls based on the character's training, studies, and gifts. Characters start with one `F`-rank ability at level 1. Abilities can also be temporary, granted through narrative events or items such as magic potions or scrolls.
 
-### Ability Dice by Rank
-| F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| `+1d4` | `+1d6` | `+1d8` | `+1d10` | `+1d12` | `+1d20` |
+| Rank | Bonus |
+|:---:|:---:|
+| **F** | `+1d4` |
+| **D** | `+1d6` |
+| **C** | `+1d8` |
+| **B** | `+1d10` |
+| **A** | `+1d12` |
+| **S** | `+1d20` |
+
+
+## Equipment
+Characters will collect a variety of equipment including tools, weapons, and armor which add a fixed bonus to specific rolls when used for their intended purpose. Tools add a bonus to action rolls, weapons add a fixed amount of a specific amage type to damage rolls, and armor reduces the damage taken from a specific damage type. Equipment can break as the result of a major narrative setback and cannot be used again until it is repaired. Equipment can be repaired or upgraded by someone skilled and capable, usually for a price.
+
+| Rank | Bonus |
+|:---:|:---:|
+| **F** | `+1` |
+| **D** | `+2` |
+| **C** | `+3` |
+| **B** | `+4` |
+| **A** | `+5` |
+| **S** | `+6` |
 
 ## Items
-Characters collect items during their adventure that they can use to add bonuses to specific rolls, heal/deal damage, or barter for goods and services. Characters start with three `F`-rank items. There are six item categories that define the mechanical effect an item has when used, based on it's rank:
+Some objects that the character will carry can be spent to heal or deal damage based on its rank. These items include things like food, traps, potions, and more. Once these consumable items are used they disappear and cannot be restored.
 
-| Category | Usage | F | D | C | B | A | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Tools** | Trait bonus | `Roll+1` | `Roll+2` | `Roll+3` | `Roll+4` | `Roll+5` | `Roll+6` |
-| **Weapons** | Damage bonus | `DMG+1` | `DMG+2` | `DMG+3` | `DMG+4` | `DMG+5` | `DMG+6` |
-| **Armor** | Reduce damage | `DMG-1` | `DMG-2` | `DMG-3` | `DMG-4` | `DMG-5` | `DMG-6` |
-| **Food** | Restore HP | `+1d4 HP` | `+2d6 HP` | `+3d8 HP` | `+4d10 HP` | `+5d12 HP` | `+6d20 HP` |
-| **Traps** | Inflict damage | `1d4 DMG` | `2d6 DMG` | `3d8 DMG` | `4d10 DMG` | `5d12 DMG` | `6d20 DMG` |
-| **Treasure** | Trade value | `4d4` | `6d6` | `8d8` | `10d10` | `12d12` | `20d20` |
+| Rank | Damage |
+|:---:|:---:|
+| **F** | `1d4` |
+| **D** | `2d6` |
+| **C** | `3d8` |
+| **B** | `4d10` |
+| **A** | `5d12` |
+| **S** | `6d20` |
 
-As an example, the player might have an iron chain that acts as a `D`-rank tool, giving them a +2 to `STR` rolls when using the chain to restrain something. All items have a value based on their rank (see "Treasure") but the treasure category specifically refers to items that do not provide another advantage; treasure's only intended use is for bartering, trading, and bribing. The narrator should set the value of items ahead of time, as there are a lot of dice involved. We recommend using a digital dice roller for this (or simply google the dice you need, such as "roll 12d12").
+## Treasure and Money
+Not all objects provide a bonus or damage dice for the character to use; some things are just valuable. Treasure and money carry value and can be traded for bribes, information, and transportation as well as purchasing equipment and items, or even paying a trainer (to gain a new ability). Abilities, equipment, and items carry value based on their rank and can be purchased from vendors or merchants with either currency or other items of equal value. Players might also find valuables during their adventure, hidden away in chests or plundered from defeated enemies.
+
+| Rank | Value |
+|:---:|:---:|
+| **F** | `4d4` |
+| **D** | `6d6` |
+| **C** | `8d8` |
+| **B** | `10d10` |
+| **A** | `12d12` |
+| **S** | `20d20` |
 
 ## Leveling Up
 When the player reaches significant narrative milestones the narrator may allow them to gain a level. This means that the player:
