@@ -16,11 +16,20 @@ When the player is facing an obstacle, they make an **action roll** by describin
 ## Heart Points
 Characters (and some obstacles) have a resource called **heart points (HP)** that represents their overall integrity. On a positive outcome the player can roll their **damage dice** to reduce the obstacle's HP and on a negative outcome the narrator rolls the obstacle's damage dice to reduce the player's HP. When an obstacle reaches zero HP it is no longer a threat. If the player reaches zero HP they suffer a major narrative setback. Characters start with 10 max HP. When leveling up, the player rolls their new damage dice and increases their max HP by the result. They can also re-roll as many dice as their `CON` score.
 
-### Damage Dice by Level
-
-| L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `1d4` | `1d6` | `1d8` | `1d10` | `2d6` | `2d8` | `2d10` | `2d12` | `3d10` | `3d12` | `4d10` | `4d12` |
+| Level | Damage Dice |
+|:---:|:---:|
+| 1 | `1d4` |
+| 2 | `1d6` |
+| 3 | `1d8` |
+| 4 | `1d10` |
+| 5 | `2d6` |
+| 6 | `2d8` |
+| 7 | `2d10` |
+| 8 | `2d12` |
+| 9 | `3d10` |
+| 10 | `3d12` |
+| 11 | `4d10` |
+| 12 | `4d12` |
 
 ## Abilities
 Characters can learn and use abilities to gain a bonus die when rolling specific action or deal some extra damage of a specific type. Abilities can come from studying, divine gifts, natural talents, physical features, and more. They can also be temporary, gained by something limited like a potion or cybernetic implant. Characters start with one `F`-rank ability and can either learn a new ability or increase the rank of an existing ability when they level up.
