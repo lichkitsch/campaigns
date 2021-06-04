@@ -32,7 +32,7 @@ Characters (and some obstacles) have a resource called **heart points (HP)** tha
 | 12 | `4d12` |
 
 ## Abilities
-Characters can learn and use abilities to gain a bonus die when rolling specific action or deal some extra damage of a specific type. Abilities can come from studying, divine gifts, natural talents, physical features, and more. They can also be temporary, gained by something limited like a potion or cybernetic implant. Characters start with one `F`-rank ability and can either learn a new ability or increase the rank of an existing ability when they level up.
+Characters can learn and use abilities to gain a bonus die when rolling specific action or deal some extra damage of a specific type. Abilities can come from studying, divine gifts, natural talents, physical features, and more. They can also be temporary or gained by something limited like a potion or cybernetic implant. Characters start with one `F`-rank ability and can either learn a new ability or increase the rank of an existing ability when they level up.
 
 | Rank | Bonus |
 |:---:|:---:|
