@@ -1,0 +1,20 @@
+- Slashing
+    - blade, scythe, sword, axe, whip
+- Piercing
+    - spear, arrow, bullet, bolt, shot
+- Crushing
+    - mace, hammer, blast, blow, strike
+- Fire
+    - flame, flash, burst, ball, 
+- Cold
+    - chill, touch, 
+- Shock
+    - bolt, wave, surge
+- Poison
+    - poison, toxin, venom, plague, blight
+- Necrotic
+    - acid, curse, death, rot, wither
+- Radiant
+    - light, aura, glow
+- Psychic
+    - word, song, dream, vision, prison
