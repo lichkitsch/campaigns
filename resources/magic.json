@@ -1,1 +1,31 @@
-
+{
+    "forms": [
+        [ //destruction
+            ["blade", "scythe", "sword"], // slashing
+            ["arrow", "spear", "bolt"], // piercing
+            ["hammer", "blast", "blow"], // crushing
+            [], // fire
+            [], // cold
+            [], // shock
+            [], // poison
+            [], // necrotic
+            [], // radiant
+            [], // psychic
+        ], 
+        [ // summoning
+            "portal", "gate", "way", "door", "key"
+        ],
+        [ // protection
+            "shield", "ward", "armor", "barrier", "field"
+        ],
+        [ // healing
+            
+        ],
+        [ // alteration
+            
+        ],
+        [ // divination
+            
+        ]
+    ]
+}
