@@ -47,7 +47,7 @@ Combat tactics, professional skills, and magical spells are all placed under a r
 
 
 ## Equipment
-Characters will collect a variety of equipment including tools, weapons, and armor which add a fixed bonus to specific rolls when used for their intended purpose. Tools add a bonus to action rolls, weapons add a fixed amount of a specific amage type to damage rolls, and armor reduces the damage taken from a specific damage type. Equipment can break as the result of a major narrative setback and cannot be used again until it is repaired. Equipment can be repaired or upgraded by someone skilled and capable, usually for a price.
+Characters collect a variety of equipment including tools, weapons, and armor which add a fixed bonus to specific rolls when used for their intended purpose. Tools add a bonus to action rolls, weapons add a fixed amount of a specific amage type to damage rolls, and armor reduces the damage taken from a specific damage type. Equipment can break as the result of a major narrative setback and cannot be used again until it is repaired. Equipment can be repaired or upgraded by someone skilled and capable, usually for a price.
 
 | Rank | Bonus |
 |:---:|:---:|
