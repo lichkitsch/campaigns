@@ -59,7 +59,7 @@ Characters collect a variety of equipment including tools, weapons, and armor wh
 | **S** | `+6` |
 
 ## Items
-Some objects that the character will carry can be spent to heal or deal damage based on its rank. These items include things like food, traps, potions, and more. Once these consumable items are used they disappear and cannot be restored.
+Some objects that the character will carry can be spent to heal or deal damage based on its rank such as food, traps, potions, and more. Once these consumable items are used, they disappear and cannot be restored.
 
 | Rank | Damage |
 |:---:|:---:|
