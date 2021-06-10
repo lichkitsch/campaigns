@@ -17,7 +17,7 @@ Spells are created by combining an **element** with a **form** and casting it us
 | 12  | Hammer   | Energy     | Bolt   |
 | 13  | Gauntlet | Toxic Gas  | Blast  |
 | 14  | Helm     | Venom      | Portal |
-| 15  | Crown    | Death      | Cone   |
+| 15  | Cloak    | Death      | Cone   |
 | 16  | Ring     | Acid       | Cloud  |
 | 17  | Amulet   | Solar      | Field  |
 | 18  | Mirror   | Lunar      | Beam   |
