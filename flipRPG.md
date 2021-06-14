@@ -1,10 +1,13 @@
 # FlipRPG
-Shuffle a deck of cards and deal 7 cards to each player. The rest stay with the narrator in a face-down stack. The narrator describes the world and the events of the story and the player controls the protagonist. When the player faces an obstacle they describe their action and play a card from their hand to represent the "effort" put towards the task. The narrator flips the top card of their stack, revealing a random challenge number. 
+Deal 5 cards from a shuffled deck to each **player**. The rest of the cards are placed in a face down stack in front of the **narrator**. The narrator describes the environment and events of the story and the players take turns reacting as one of the protagonists. When a player faces an obstacle, they describe their action and make a **bet** using one card from their hand. The narrator reveals the top card of the stack as the **challenge** that the player's bet must beat for a positive outcome to their action. The narrator compares the two cards to determine the outcome:
 
-- If their effort is higher than the challenge the outcome is positive and the player draws a new card from the stack
-- If the challenge is higher than their effort the outcome is negative and the card is lost
-- In the event of a draw, the player may "buy" a positive outcome by adding one card from their hand to increase their effort, if:
-    - The added card is lower than their initial effort and 
-    - The two cards together are higher than the challenge number
+## Positive Outcomes
+1. If the bet beats the challenge the outcome is positive; the narrator discards the bet and challenge, describes the outcome, and the player draws a new card from the stack.
+3. If the bet and challenge are a tie and the bet is red, the player gets a normal positive outcome.
+2. If the bet and challenge are tied and of the same color, the player gets a positive outcome and draws two cards instead of one.
 
-If the player buys a positive outcome they can draw two new cards from the stack. The narrator describes the outcome and the story continues. If the player runs out of cards before the story ends, the protagonist dies.
+## Mixed Outcomes
+If the challenge is higher than the bet, or they tie but the bet is black and the challenge is red, the player can attempt to buy a **mixed outcome**. If they have a card in their hand that is lower than their bet and of the same suit they may add the card to their bet after the challenge is played, buying a somewhat positive, somewhat negative outcome. The narrator discards all three cards, describes the outcome, and the player draws two cards.
+
+## Negative Outcomes
+If the player cannot purchase a mixed result the outcome is negative. The narrator discards the challenge and bet, describes the consequences, and the player does NOT draw a new card. If the player runs out of cards to play they become unable to affect the story. Depending on your theme and setting this could be for any number of reasons including curfew, injury, abduction, death, etc. When no player has any cards remaining, or the narrator's stack runs out, the story ends.
