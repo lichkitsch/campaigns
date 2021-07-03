@@ -1,5 +1,5 @@
 # Magic
-Spells are created by combining an **element** with a **form** and casting it using a **medium**. Elements dictate the mechanical effect of the spell (damage type, school of magic, etc.) where as form represents the actual shape of the spell when cast. The medium is the object embued with the spell that must be activated in some way. Use the tables below to create your own magic items, using imagination and common sense to develop the item's effects:
+Spells are created by combining an **element** with a **form** and casting it using a **medium**. Elements dictate the mechanical effect of the spell (damage type, school of magic, etc.) where as form represents the actual shape of the spell when cast. The medium is the object embued with the spell that must be activated in some way. Use the tables below to create your own magic items, using imagination and common sense to develop the item's effects.
 
 ## Spell Medium
 Spells can be learned and cast freely by magic users, but they can also be sealed in items and equipment. Magical items are typically destroyed when used, but offer a range of spell effects to those without magical abilities, usually for a price. Enchanted equipment requires attunement, or time spent connecting one's soul with the object in question to call upon the magic within.
